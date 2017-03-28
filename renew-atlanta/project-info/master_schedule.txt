@@ -1,0 +1,642 @@
+ Start Date: Mar-10-15                                        2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                          Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                     Construction Start Project Finish Council
+                                                                                                                                    District
+    Renew ATL                                                                                     15-Jul-15          31-Dec-21
+     Horizontal / Transportation                                                                  15-Jul-15          31-Dec-21
+       City-Wide                                                                                  08-Oct-15          31-Dec-21
+        Signals                                                                                   16-Oct-15          02-Jun-19
+         R.01.01.001.001 14th St @ Howell Mill                                                    08-Jul-17          12-Jun-18      CW-03
+         R.01.01.001.002 Alston Dr @ Candler Rd                                                   30-Dec-17          04-Dec-18      CW-05
+         R.01.01.001.003 Avon Ave @ Westmont Rd & Orlando St                                      20-May-17          08-Jul-17      CW-04
+         R.01.01.001.004 Barnett St @ Saint Charles Place                                         20-May-17          08-Jul-17      CW-06
+         R.01.01.001.005 Campbellton Rd @ Dodson Dr                                               21-Nov-16          05-Jul-17      CW-11
+         R.01.01.001.006 Campbellton Rd @ Greenbrier Parkway & Mount Gilead Rd                    25-Feb-16          06-Apr-17      CW-11
+         R.01.01.001.007 Campbellton Rd @ Oakland Ave                                             25-Feb-16          19-Apr-17      CW-04
+         R.01.01.001.008 Chattahoochee Ave @ Ellsworth Industrial Boulevard                       01-Jul-17          05-Jun-18      CW-09
+         R.01.01.001.009 Chattahoochee Ave @ Hills Ave                                            01-Jul-17          05-Jun-18      CW-09
+         R.01.01.001.010 College Ave @ Rockyford Rd                                               30-Aug-18          12-Nov-18      CW-05
+         R.01.01.001.011 Constitution Rd @ Forrest Park Rd                                        02-Dec-17          06-Nov-18      CW-01
+         R.01.01.001.012 DeKalb Ave Reversible Lane System                                        30-Mar-18          02-Jun-19      CW-02,05
+         R.01.01.001.013 DeKalb Ave @ Rockyford Rd & DeKalb Place                                 30-Mar-18          02-Jun-19      CW-05
+         R.01.01.001.014 Habersham Rd @ West Wesley Rd                                            18-Nov-17          23-Oct-18      CW-08
+         R.01.01.001.015 Hamilton E. Holmes Dr @ Burton Rd                                        18-Nov-17          23-Oct-18      CW-10
+         R.01.01.001.016 Hollywood Rd @ Johnson Rd                                                18-Nov-17          23-Oct-18      CW-09
+         R.01.01.001.017 Howell Mill Rd @ Collier Rd                                              20-Jan-18          25-Dec-18      CW-08
+         R.01.01.001.018 Howell Mill Rd @ Huff Rd                                                 27-Jan-18          01-Jan-19      CW-09
+         R.01.01.001.019 Howell Mill Rd @ Peachtree Battle Ave                                    18-Nov-17          23-Oct-18      CW-08
+         R.01.01.001.020 Howell Mill Rd @ Moores Mill Rd Intersection Improvements                19-Mar-18          29-May-18      CW-08
+         R.01.01.001.021 Jonesboro Rd @ Claire Dr & Sawtell Ave                                   11-Nov-17          16-Oct-18      CW-01
+         R.01.01.001.022 Lakewood Ave @ Claire Dr                                                 11-Nov-17          16-Oct-18      CW-01
+         R.01.01.001.023 Lakewood Ave @ Fleet St & Georgia 166 Ramps                              02-Dec-17          06-Nov-18      CW-12
+         R.01.01.001.024 Lakewood Ave @ Macon Dr & Lakewood Way                                   02-Dec-17          06-Nov-18      CW-12
+         R.01.01.001.025 Lakewood Ave @ Sylvan Rd                                                 11-Nov-17          16-Oct-18      CW-12
+                                                                             Page 1 of 17
+                                                                        *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                       2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                         Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                    Construction Start Project Finish Council
+                                                                                                                                   District
+         R.01.01.001.026 Lee St. @ White Oak Avenue                                              02-Dec-17          06-Nov-18      CW-04
+         R.01.01.001.027 Luckie St @ Pine St                                                     18-Nov-17          23-Oct-18      CW-04
+         R.01.01.001.028 Macon Dr @ Old Hapeville Rd & Bromack Dr                                18-Nov-17          23-Oct-18      CW-12
+         R.01.01.001.029 Marietta Boulevard @ Chattahoochee Ave                                  16-Oct-15          14-Apr-16 A    CW-09
+         R.01.01.001.030 Marietta Rd @ Perry Boulevard & Johnson Rd                              18-Nov-17          23-Oct-18      CW-09
+         R.01.01.001.031 Marietta St @ Andrew Young International Boulevard                      18-Nov-17          23-Oct-18      CW-02
+         R.01.01.001.032 Marietta St @ Foundry St                                                18-Nov-17          23-Oct-18      CW-04
+         R.01.01.001.037 Memorial Dr @ Maynard Terrace & Wyman St                                18-Nov-17          23-Oct-18      CW-05
+         R.01.01.001.038 Monroe Dr @ Amsterdam Ave                                               18-Apr-18          23-Nov-18      CW-06
+         R.01.01.001.039 Monroe Dr @ Armour Dr                                                   18-Apr-18          23-Nov-18      CW-06
+         R.01.01.001.040 Monroe Dr @ Buford Highway N/B Ramps                                    18-Apr-18          23-Nov-18      CW-06
+         R.01.01.001.041 Monroe Dr @ Park Dr                                                     18-Apr-18          23-Nov-18      CW-06
+         R.01.01.001.042 Moores Mill Rd @ W. Wesley Rd Intersection Improvements                 17-Jan-18          14-Aug-18      CW-08
+         R.01.01.001.045 Mt. Paran Rd @ Randall Mill & Conway Dr Intersection Improvements       20-Mar-18          30-May-18      CW-08
+         R.01.01.001.046 Mt. Paran Rd @ Northside Parkway Intersection Improvements              19-Mar-18          29-May-18      CW-08
+         R.01.01.001.047 Northside Dr @ Moores Mill Rd                                           18-Nov-17          23-Oct-18      CW-08
+         R.01.01.001.048 Oakdale Rd @ Fairview Rd                                                18-Nov-17          23-Oct-18      CW-08
+         R.01.01.001.049 Parkway Dr @ Linden Ave                                                 18-Nov-17          23-Oct-18      CW-02
+         R.01.01.001.050 Peachtree St @ Garnett St                                               13-Jan-18          18-Dec-18      CW-04
+         R.01.01.001.051 Pryor Rd @ Claire Dr & Pryor Circle                                     11-Nov-17          16-Oct-18      CW-12
+         R.01.01.001.052 Pryor Rd @ Fair Dr                                                      02-Dec-17          06-Nov-18      CW-12
+         R.01.01.001.053 Pryor St @ Underground Atlanta Crosswalk                                13-Jan-18          18-Dec-18      CW-04
+         R.01.01.001.054 Sylvan Rd @ Deckner Ave & Brewer Boulevard                              11-Nov-17          16-Oct-18      CW-12
+         R.01.01.001.057 Marietta Boulevard @ Coronet Way                                        05-Aug-17          10-Jul-18      CW-09
+         R.01.01.001.058 Campbellton Rd @ Venetian / Kenilworth                                  21-Nov-16          18-Oct-17      CW-12
+         R.01.01.001.059 Campbellton Rd @ Stanton                                                10-Jul-17          14-Jun-18      CW-12
+        Resurfacing                                                                              08-Oct-15          14-Sep-19
+         R.01.01.003.001 10th St                                                                 06-Jun-16          20-Feb-17      CW-02,06
+         R.01.01.003.002 14th St, Phase 1                                                        19-Jan-18          13-Mar-18      CW-03
+         R.01.01.003.003 14th St, Phase 2                                                        31-Jul-17          18-Sep-17      CW-02,06
+                                                                             Page 2 of 17
+                                                                       *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                  2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                  Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                               Construction Start Project Finish Council
+                                                                                                                              District
+         R.01.01.003.004 14th St, Phase 3                                                   14-Aug-17          03-Oct-17      CW-02,06
+         R.01.01.003.005 Avon Ave                                                           08-Oct-15          20-Feb-17      CW-04
+         R.01.01.003.006 Baker/Highland Connector                                           20-Nov-17          03-Feb-18      CW-05
+         R.01.01.003.007 Barnett St                                                         20-Jan-17          13-Mar-17      CW-06
+         R.01.01.003.008 Beecher St                                                         08-May-17          22-Jul-17      CW-11,10,04
+         R.01.01.003.009 Berne St                                                           08-Oct-15          20-Feb-17      CW-01
+         R.01.01.003.011 Bohler Rd                                                          25-Apr-16          20-Feb-17      CW-08,09
+         R.01.01.003.012 Cheshire Bridge Rd                                                 25-May-17          18-Jul-17      CW-06
+         R.01.01.003.013 Cleveland Ave                                                      08-Oct-15          20-Feb-17      CW-12
+         R.01.01.003.014 College Ave                                                        27-Apr-17          14-Jun-17      CW-05
+         R.01.01.003.015 Collier Rd                                                         09-Oct-17          23-Dec-17      CW-08
+         R.01.01.003.016 Decatur St                                                         09-Mar-18          30-Apr-18      CW-02,05,01
+         R.01.01.003.017 Defoors Ferry                                                      26-Jan-18          01-Mar-18      CW-09
+         R.01.01.003.018 DeKalb Ave                                                         07-Apr-18          11-Jun-19      CW-02,05
+         R.01.01.003.019 Dill Ave                                                           08-Oct-15          15-Jul-16 A    CW-12
+         R.01.01.003.020 East Andrews Dr                                                    15-Apr-16          20-Feb-17      CW-08
+         R.01.01.003.021 East Cleveland Ave                                                 10-Oct-16          01-Dec-16      CW-12
+         R.01.01.003.023 East Roxboro Rd                                                    15-Apr-16          15-Jul-16 A    CW-07
+         R.01.01.003.024 Ellsworth Industrial Boulevard                                     01-May-17          15-Jul-17      CW-09
+         R.01.01.003.025 Empire Boulevard                                                   07-Nov-16          13-Feb-17      CW-12
+         R.01.01.003.026 Empire Way                                                         19-Jun-17          02-Sep-17      CW-12
+         R.01.01.003.027 Fair St                                                            17-Apr-17          04-Jun-17      CW-03,04
+         R.01.01.003.028 Forrest Park Rd                                                    27-Nov-17          10-Feb-18      CW-12,01
+         R.01.01.003.029 Fort St                                                            15-May-17          29-Jul-17      CW-05
+         R.01.01.003.031 Hapeville Rd                                                       08-Oct-15          01-Dec-16      CW-12
+         R.01.01.003.032 Harbin Rd                                                          14-Nov-16          13-Feb-17      CW-11
+         R.01.01.003.033 Hightower Rd                                                       08-Oct-15          20-Feb-17      CW-09
+         R.01.01.003.034 Hills Ave                                                          11-Sep-17          25-Nov-17      CW-09
+         R.01.01.003.036 Hollow Tree Lane                                                   26-Jun-17          09-Sep-17      CW-12
+         R.01.01.003.037 Huber St                                                           08-May-17          22-Jul-17      CW-09
+                                                                     Page 3 of 17
+                                                                *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                      2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                      Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                   Construction Start Project Finish Council
+                                                                                                                                  District
+         R.01.01.003.038 Huff Rd                                                                06-Nov-17          20-Jan-18      CW-09
+         R.01.01.003.039 Jefferson St, Phase 1                                                  08-Oct-15          20-Feb-17      CW-03
+         R.01.01.003.040 John Portman Boulevard (Harris St)                                     01-Oct-16          01-Dec-16      CW-02,05,04
+         R.01.01.003.041 Johnson Rd, Phase 1                                                    15-Dec-17          14-May-18      CW-06
+         R.01.01.003.042 Johnson Rd, Phase 2                                                    15-Dec-17          14-May-18      CW-06
+         R.01.01.003.044 Lake Ave                                                               15-Apr-16          20-Feb-17      CW-02
+         R.01.01.003.045 Lakewood Ave                                                           01-May-17          20-Jun-17      CW-12,01
+         R.01.01.003.046 Lakewood Way                                                           08-May-17          28-Jun-17      CW-12
+         R.01.01.003.047 Langston Ave                                                           08-Oct-15          20-Feb-17      CW-12
+         R.01.01.003.048 Lawton St                                                              15-Dec-17          21-Feb-18      CW-04
+         R.01.01.003.049 Lenox Rd, Phase 1                                                      12-Jan-18          11-Jun-18      CW-07,06
+         R.01.01.003.050 Lenox Rd, Phase 2                                                      15-Dec-17          14-May-18      CW-06
+         R.01.01.003.051 Lindbergh Way, Phase 1                                                 29-Aug-17          17-Oct-17      CW-06
+         R.01.01.003.052 Lindbergh Way, Phase 2                                                 28-Aug-17          16-Oct-17      CW-06
+         R.01.01.003.053 Linden Ave                                                             28-Apr-17          20-Jun-17      CW-02
+         R.01.01.003.054 Loridan Dr                                                             14-Nov-16          15-Feb-17      CW-07
+         R.01.01.003.055 Macon Dr                                                               08-Oct-15          20-Feb-17      CW-12,01
+         R.01.01.003.056 Marietta St                                                            02-Feb-18          08-Jun-18      CW-03,04
+         R.01.01.003.057 Mayson St                                                              10-Apr-17          28-May-17      CW-06
+         R.01.01.003.058 Montgomery Ferry Dr, Phase 1                                           15-Dec-17          14-May-18      CW-06
+         R.01.01.003.059 Montgomery Ferry Dr, Phase 2                                           15-Dec-17          13-May-18      CW-06
+         R.01.01.003.060 Morris St                                                              03-Apr-17          22-May-17      CW-09
+         R.01.01.003.061 Murphy Ave                                                             08-Oct-15          20-Feb-17      CW-12
+         R.01.01.003.062 North Angier Ave                                                       08-May-17          28-Jun-17      CW-02
+         R.01.01.003.064 North Camp Creek Pkwy                                                  24-Apr-17          11-Jun-17      CW-11
+         R.01.01.003.065 Northwest Dr                                                           10-Apr-17          28-May-17      CW-09
+         R.01.01.003.066 Oakdale Rd                                                             11-Dec-17          24-Feb-18      CW-06
+         R.01.01.003.068 Old Chattahoochee Ave, Phase 1                                         15-May-17          29-Jul-17      CW-09
+         R.01.01.003.069 Old Chattahoochee Ave, Phase 2                                         12-Jul-17          27-Aug-17      CW-09
+         R.01.01.003.070 Old Gordon Rd                                                          01-May-17          20-Jun-17      CW-10
+                                                                         Page 4 of 17
+                                                                    *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                         2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                         Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                      Construction Start Project Finish Council
+                                                                                                                                     District
+         R.01.01.003.071 Old Hapeville Rd                                                          23-Oct-15          20-Feb-17      CW-12
+         R.01.01.003.072 Old Ivy Rd                                                                15-Dec-17          13-May-18      CW-07
+         R.01.01.003.073 W. Paces Ferry Rd - I-75 To City Limits                                   14-Apr-16          20-Dec-16      CW-08
+         R.01.01.003.074 Peachtree Dunwoody Rd                                                     14-Apr-16          20-Feb-17      CW-07
+         R.01.01.003.075 Polo Dr                                                                   14-Apr-17          04-Jun-17      CW-06
+         R.01.01.003.076 Ruby Harper Boulevard                                                     31-Mar-17          21-May-17      CW-12
+         R.01.01.003.077 Southside Industrial Court                                                31-Mar-17          21-May-17      CW-12
+         R.01.01.003.078 Southside Industrial Parkway                                              10-Apr-17          28-May-17      CW-12
+         R.01.01.003.079 Southside Industrial Way                                                  01-May-17          20-Jun-17      CW-12
+         R.01.01.003.080 Stone Hogan Connector                                                     15-May-17          29-Jul-17      CW-11
+         R.01.01.003.081 Sydney St                                                                 29-May-17          19-Jul-17      CW-01
+         R.01.01.003.082 West Wieuca Rd, Phase 1                                                   18-Dec-17          03-Mar-18      CW-08,07
+         R.01.01.003.083 West Wieuca Rd, Phase 2                                                   08-Jan-18          24-Mar-18      CW-07
+         R.01.01.003.084 West Wieuca Rd, Phase 3                                                   15-Jan-18          31-Mar-18      CW-08
+         R.01.01.003.085 Wieuca Rd                                                                 15-Dec-17          14-May-18      CW-08,07
+         R.01.01.003.086 Wilson Rd                                                                 15-May-17          05-Jul-17      CW-12
+         R.01.01.003.089 Hills Place                                                               01-May-17          15-Sep-17      CW-09
+         R.01.01.003.090 Jefferson St, Phase 2                                                     08-Oct-15          20-Feb-17      CW-03
+         R.01.01.003.091 Fair Dr                                                                   14-Aug-17          28-Oct-17      CW-12
+         R.01.01.003.092 Metropolitan Pkwy                                                         26-Jun-17          09-Sep-17      CW-12
+         R.01.01.003.093 Northside Pkwy, Phase 1                                                   17-Jul-17          30-Sep-17      CW-08
+         R.01.01.003.094 Northside Pkwy, Phase 2                                                   31-Jul-17          14-Oct-17      CW-08
+         R.01.01.003.095 14th St, Phase 4                                                          22-Jan-18          07-Apr-18      CW-02,03
+         R.01.01.003.096 Spring St, Phase 1                                                        29-Jan-18          14-Apr-18      CW-02,03,06
+         R.01.01.003.097 Martin Luther King Jr. Dr                                                 05-Feb-18          21-Apr-18      CW-10,04
+         R.01.01.003.098 Peachtree Rd                                                              12-Feb-18          28-Apr-18      CW-08,07
+         R.01.01.003.099 Buckhead Loop (Lenox Rd)                                                  19-Feb-18          05-May-18      CW-07
+         R.01.01.003.100 Lakewood Freeway (Arthur B. Langford Jr. Parkway)                         26-Feb-18          12-May-18      CW-12
+         R.01.01.003.101 Jackson St                                                                16-Jun-17          31-Aug-17      CW-05
+         R.01.01.003.102 Auburn Ave                                                                15-May-17          29-Jul-17      CW-05,02
+                                                                            Page 5 of 17
+                                                                       *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                       2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                          Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                    Construction Start Project Finish Council
+                                                                                                                                   District
+         R.01.01.003.103 Peachtree St                                                            22-May-17          05-Aug-17      CW-02
+         R.01.01.003.104 Ellis St                                                                22-May-17          05-Aug-17      CW-02
+         R.01.01.003.105 Carnegie Way                                                            29-May-17          12-Aug-17      CW-02
+         R.01.01.003.106 Andrew Young International Blvd                                         29-May-17          12-Aug-17      CW-02,04
+         R.01.01.003.107 Centennial Olympic Park Dr                                              05-Jun-17          19-Aug-17      CW-02,04
+         R.01.01.003.108 Luckie St                                                               05-Jun-17          19-Aug-17      CW-02
+         R.01.01.003.109 Park Pl                                                                 12-Jun-17          26-Aug-17      CW-02
+         R.01.01.003.110 Edgewood Ave                                                            12-Jun-17          26-Aug-17      CW-02,05
+         R.01.01.003.111 Bolton Rd                                                               22-May-17          05-Aug-17      CW-10
+         R.01.01.003.112 Cascade Rd - Phase 4                                                    01-Jul-19          14-Sep-19      CW-10,11,4
+         R.01.01.003.113 Collier Drive                                                           18-Sep-17          02-Dec-17      CW-10
+         R.01.01.003.114 Fairburn Rd                                                             19-Jun-17          02-Sep-17      CW- 10,11
+         R.01.01.003.115 Fairburn Rd                                                             29-May-17          12-Aug-17      CW-11
+         R.01.01.003.116 Campbellton Rd                                                          10-Jul-17          23-Sep-17      CW-11
+         R.01.01.003.117 Cascade Rd - Phase 3                                                    09-Apr-18          23-Jun-18      CW-10,11,4
+        Complete Streets                                                                         05-Nov-15          17-Apr-20
+         R.01.01.004.001 Cascade Rd. Phase I Streetscape Project                                 17-Apr-17          12-Nov-17      CW-11,10,04
+         R.01.01.004.002 Dekalb Ave Complete Street Project                                      16-Mar-18          09-Feb-19      CW-02,05
+         R.01.01.004.003 East Paces Ferry Rd Complete Street Project                             16-Jan-17          22-Oct-17      CW-07
+         R.01.01.004.004 Fairburn Rd Complete Street Project                                     15-Jun-18          30-Nov-19      CW-10
+         R.01.01.004.005 Forsyth St Complete Street Project                                      26-Oct-18          20-Sep-19      CW-02,04
+         R.01.01.004.006 Howell Mill Rd Complete Street Project                                  30-Mar-18          13-Sep-18      CW-08,09,03
+         R.01.01.004.007 J E Boone Boulevard Complete Street Project                             18-May-18          03-Mar-19      CW-03
+         R.01.01.004.008 J E Lowery Boulevard Complete Street Project                            11-Apr-18          26-Dec-18      CW-03,04
+         R.01.01.004.010 Monroe. Dr Complete Street Project                                      24-May-19          17-Apr-20      CW-06
+         R.01.01.004.011 Monroe. Dr / Boulevard Complete Street Project                          24-May-19          17-Apr-20      CW-02,05,06
+         R.01.01.004.016 Lynhurst Drive Complete Street Project                                  05-Nov-15          31-May-17      CW-10
+         R.01.01.004.017 Cascade Ave. Phase II Streetscape Project                               09-Apr-18          03-Apr-19      CW-11,10,04
+        Bridges                                                                                  22-Jul-17          31-Dec-21
+         R.01.01.005.001 Bankhead Ave Bridge Removal                                             24-Nov-18          23-Dec-19      CW-03
+                                                                            Page 6 of 17
+                                                                        *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                     2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                     Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                  Construction Start Project Finish Council
+                                                                                                                                 District
+         R.01.01.005.002 Childress Dr                                                          10-Nov-17          27-Jul-18      CW-11
+         R.01.01.005.003 Courtland St                                                          22-Jul-17          07-Feb-19      CW-01
+         R.01.01.005.004 Martin Luther King Jr. Dr                                             08-Nov-19          31-Dec-21      CW-04
+         R.01.01.005.005 Nelson St- Pedestrian                                                 23-Feb-18          07-Feb-19      CW-04
+         R.01.01.005.006 Powers Ferry Rd                                                       16-Aug-17          29-Apr-18      CW-08
+         R.01.01.005.007 Citywide Bridge Improvements                                                             01-Mar-18      CW-N/A
+         R.01.01.005.008 Pryor St                                                              06-Apr-18          25-Apr-19      CW-02
+         R.01.01.005.009 Central Ave                                                           11-May-18          30-May-19      CW-04
+        School Zone Flashing Beacons                                                           25-Apr-16          01-Dec-16
+         R.01.01.006.002 Bolton Elementary School                                              25-Apr-16          26-Aug-16 A    CW-09
+         R.01.01.006.004 Bunche Middle School                                                  25-Apr-16          26-Aug-16 A    CW-11
+         R.01.01.006.005 Continental Colony Elementary School                                  25-Apr-16          26-Aug-16 A    CW-11
+         R.01.01.006.006 Coretta Scott King Middle School                                      25-Apr-16          26-Aug-16 A    CW-09
+         R.01.01.006.007 F. L. Stanton Elementary School                                       25-Apr-16          26-Aug-16 A    CW-04
+         R.01.01.006.008 Fickett Elementary School                                             24-Jun-16          01-Sep-16 A    CW-11
+         R.01.01.006.009 Forest Hills Academy                                                  24-Jun-16          01-Sep-16 A    CW-12
+         R.01.01.006.010 Garden Hills Elementary School                                        24-Jun-16          01-Sep-16 A    CW-07
+         R.01.01.006.011 H. W. Grady High School                                               24-Jun-16          01-Dec-16      CW-06
+         R.01.01.006.012 Heritage Academy                                                      25-Apr-16          26-Aug-16 A    CW-12
+         R.01.01.006.013 Humphries Elementary                                                  24-Jun-16          01-Sep-16 A    CW-12
+         R.01.01.006.014 S.M. Imman Middle School                                              25-Apr-16          26-Aug-16 A    CW-06
+         R.01.01.006.015 W.T. Jackson Elementary School                                        25-Apr-16          26-Aug-16 A    CW-08
+         R.01.01.006.016 Jackson High School                                                   25-Apr-16          26-Aug-16 A    CW-01
+         R.01.01.006.018 Kimberly Elementary School                                            25-Apr-16          26-Aug-16 A    CW-11
+         R.01.01.006.019 The Kindezi School                                                    25-Apr-16          26-Aug-16 A    CW-03
+         R.01.01.006.021 Lin Elementary School                                                 25-Apr-16          26-Aug-16 A    CW-02
+         R.01.01.006.022 Long Middle School                                                    25-Apr-16          26-Aug-16 A    CW-12
+         R.01.01.006.023 Miles Elementary School                                               25-Apr-16          26-Aug-16 A    CW-10
+         R.01.01.006.024 Morningside Elementary School                                         24-Jun-16          01-Sep-16 A    CW-06
+         R.01.01.006.025 Neighborhood Charter School                                           25-Apr-16          26-Aug-16 A    CW-01
+                                                                        Page 7 of 17
+                                                                   *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                        2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                        Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                     Construction Start Project Finish Council
+                                                                                                                                    District
+         R.01.01.006.028 Perkerson Elementary School                                              25-Apr-16          26-Aug-16 A    CW-12
+         R.01.01.006.029 Rivers Elementary School                                                 24-Jun-16          01-Sep-16 A    CW-08
+         R.01.01.006.031 Scott Elementary School                                                  25-Apr-16          26-Aug-16 A    CW-09
+         R.01.01.006.032 Smith Elementary School                                                  24-Jun-16          01-Sep-16 A    CW-07
+         R.01.01.006.033 Smith Intermediate School                                                25-Apr-16          26-Aug-16 A    CW-07
+         R.01.01.006.034 South Atlanta Computer Animation & Design School                         24-Jun-16          01-Sep-16 A    CW-12
+         R.01.01.006.035 Springdale Park Elementary School                                        25-Apr-16          26-Aug-16 A    CW-06
+         R.01.01.006.036 Sutton Middle School                                                     25-Apr-16          26-Aug-16 A    CW-08
+         R.01.01.006.037 Sylvan Hills Middle School                                               25-Apr-16          26-Aug-16 A    CW-12
+         R.01.01.006.038 Toomer Elementary School                                                 25-Apr-16          26-Aug-16 A    CW-05
+         R.01.01.006.039 Towns Elementary School                                                  25-Apr-16          26-Aug-16 A    CW-10
+         R.01.01.006.041 Washington High School                                                   25-Apr-16          26-Aug-16 A    CW-04
+         R.01.01.006.043 Whitefoord Elementary School                                             25-Apr-16          26-Aug-16 A    CW-05
+         R.01.01.006.044 Martin Luther King Jr. Middle School                                     25-Apr-16          26-Aug-16 A    CW-05
+         R.01.01.006.045 Hutchison Elementary                                                     25-Apr-16          26-Aug-16 A    CW-12
+         R.01.01.006.046 Kipp Ways Academy                                                        25-Apr-16          26-Aug-16 A    CW-03
+         R.01.01.006.047 Centennial Academy                                                       24-Jun-16          01-Sep-16 A    CW-04
+         R.01.01.006.048 Cleveland Elementary School                                              24-Jun-16          01-Sep-16 A    CW-12
+         R.01.01.006.050 Kipp Strive Academy                                                      24-Jun-16          01-Sep-16 A    CW-04
+         R.01.01.006.051 Atlanta Classical Academy                                                24-Jun-16          01-Sep-16 A    CW-04
+         R.01.01.006.052 Alonzo Crim High School                                                  24-Jun-16          01-Sep-16 A    CW-08
+         R.01.01.006.053 Burgess-Peterson Academy                                                 24-Jun-16          01-Sep-16 A    CW-05
+         R.01.01.006.054 Hope Hill Elementary School                                              24-Jun-16          01-Sep-16 A    CW-05
+        Communication Corridors                                                                   07-Jun-17          19-May-19
+         R.01.01.007.001 10th St (TCC)                                                            18-Nov-17          26-Oct-18      CW-03
+         R.01.01.007.002 14th St (TCC)                                                            18-Nov-17          23-Oct-18      CW-03
+         R.01.01.007.003 Atlanta Ave (TCC)                                                        27-Dec-17          11-Dec-18      CW-01
+         R.01.01.007.004 Campbellton Rd Phase 2 (TCC)                                             10-Jul-17          24-Jun-18      CW-11,12,04
+         R.01.01.007.005 Cascade Rd (TCC)                                                         27-Sep-17          11-Sep-18      CW-11,10,04
+         R.01.01.007.006 Claire Dr (TCC)                                                          20-Dec-17          04-Dec-18      CW-12,01
+                                                                           Page 8 of 17
+                                                                      *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                     2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                        Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                  Construction Start Project Finish Council
+                                                                                                                                 District
+         R.01.01.007.007 Cleveland Ave (TCC)                                                   20-Dec-17          14-Nov-18      CW-12
+         R.01.01.007.008 DeKalb Ave/Decatur St (TCC)                                           23-Mar-18          15-Feb-19      CW-02,05,01
+         R.01.01.007.009 Glenwood Rd (TCC)                                                     25-Oct-17          09-Oct-18      CW-01
+         R.01.01.007.010 Greenbriar Parkway (TCC)                                              20-Dec-17          04-Dec-18      CW-11
+         R.01.01.007.011 Hosea Williams Dr (TCC)                                               06-Dec-17          20-Nov-18      CW-05
+         R.01.01.007.012 Joseph E. Boone (TCC)                                                 15-Nov-17          30-Oct-18      CW-03
+         R.01.01.007.013 Joseph E. Lowery (TCC)                                                19-Jul-17          03-Jul-18      CW-03,04
+         R.01.01.007.015 Marietta Boulevard (TCC)                                              09-Aug-17          24-Jul-18      CW-09,03
+         R.01.01.007.016 McDaniel St (TCC)                                                     25-Oct-17          09-Oct-18      CW-12,04
+         R.01.01.007.017 Monroe/Boulevard (TCC)                                                05-Jul-17          07-Oct-18      CW-02,05,0
+         R.01.01.007.018 North Ave (TCC)                                                       14-Feb-18          19-May-19      CW-02,03,04
+         R.01.01.007.019 Peachtree St (TCC)                                                    14-Jun-17          29-May-18      CW-02,05,0
+         R.01.01.007.020 Piedmont Ave (TCC)                                                    07-Jun-17          22-May-18      CW-02,05,0
+         R.01.01.007.021 R.D. Abernathy/Georgia Ave (TCC)                                      25-Oct-17          09-Oct-18      CW-12,01,04
+         R.01.01.007.022 Sylvan Rd (TCC)                                                       20-Dec-17          04-Dec-18      CW-12
+         R.01.01.007.023 West Marietta St (TCC)                                                09-Aug-17          24-Jul-18      CW-03,04
+         R.01.01.007.024 Howell Mill Rd (TCC)                                                  23-Dec-17          30-Nov-18      CW-03,08,09
+       Local                                                                                   15-Jul-15          09-Jul-19
+        Roadway                                                                                27-Feb-17          09-Jul-19
+         R.01.02.102.001 Glenwood LCI Match (Realignment at Moreland)                          06-Apr-18          09-Jul-19      CD01
+         R.01.02.102.003 Inman Park Neighborhood Improvements                                  23-Aug-17          28-Feb-18      CD02
+         R.01.02.102.004 Midtown Neighborhood Improvements                                     27-Sep-17          04-Apr-18      CD02
+         R.01.02.102.006 Downtown Neighborhood Improvements                                    27-Sep-17          04-Apr-18      CD02
+         R.01.02.102.007 Poncey-Highland Neighborhood Improvements                             23-Aug-17          28-Feb-18      CD02
+         R.01.02.102.008 Old Fourth Neighborhood Improvements                                  27-Sep-17          04-Apr-18      CD02
+         R.01.02.102.009 Candler Park Neighborhood Improvements                                27-Feb-17          14-May-17      CD02
+        Roadway Construction                                                                   20-Mar-18          24-Sep-18
+         R.01.02.103.013 Ayr St Roadway Construction                                           27-Mar-18          24-Sep-18      CD01
+         R.01.02.103.015 Westminister Dr Roadway Construction                                  27-Mar-18          24-Sep-18      CD06
+         R.01.02.103.016 Lee Circle Roadway Construction                                       27-Mar-18          24-Sep-18      CD07
+                                                                          Page 9 of 17
+                                                                      *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                      2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                      Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                   Construction Start Project Finish Council
+                                                                                                                                  District
+         R.01.02.103.017 6th St Roadway Construction                                            20-Mar-18          15-Sep-18      CD09
+         R.01.02.103.018 Ford St Roadway Construction                                           20-Mar-18          15-Sep-18      CD09
+         R.01.02.103.019 James Dr / 5th St Roadway Construction                                 20-Mar-18          15-Sep-18      CD09
+         R.01.02.103.020 Marktwo Place Roadway Construction                                     20-Mar-18          15-Sep-18      CD09
+         R.01.02.103.021 Wade Ave Roadway Construction                                          27-Mar-18          24-Sep-18      CD05
+         R.01.02.103.023 Hirsch Street Roadway Construction                                     27-Mar-18          24-Sep-18      CD03
+         R.01.02.103.024 Braeburn Roadway Construction                                          27-Mar-18          24-Sep-18      CD05
+         R.01.02.103.025 Newman Place Roadway Construction                                      20-Mar-18          15-Sep-18      CD09
+         R.01.02.103.026 Main Street Roadway Construction                                       20-Mar-18          15-Sep-18      CD09
+         R.01.02.103.027 Lyndale Drive Roadway Construction                                     27-Mar-18          24-Sep-18      CD01
+        Roadway Resurfacing                                                                     21-Aug-15          16-Jun-18
+         R.01.02.104.015 North Moringside Resurfacing                                           22-May-17          05-Aug-17      CD06
+         R.01.02.104.016 Piedmont Rd Resurfacing                                                05-Mar-18          19-May-18      CD06
+         R.01.02.104.017 Mountain Way Resurfacing                                               04-Sep-17          18-Nov-17      CD07
+         R.01.02.104.018 N. Ivy Rd Resurfacing                                                  11-Sep-17          25-Nov-17      CD07
+         R.01.02.104.019 Howell Mill Resurfacing                                                23-Oct-17          06-Jan-18      CD08
+         R.01.02.104.021 Alvarado Terrace Resurfacing                                           21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.022 Ardley Road Resurfacing                                                21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.026 Brownlee Place Resurfacing                                             21-Aug-15          20-Dec-16      CD10
+         R.01.02.104.027 Camrose Way Resurfacing                                                21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.028 Cedar Island Drive Resurfacing                                         21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.031 Derry Avenue Resurfacing                                               21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.034 Elmtree Drive Resurfacing                                              21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.036 Emerald Court Resurfacing                                              21-Aug-15          20-Dec-16      CD10
+         R.01.02.104.039 Howell Terrace Resurfacing                                             21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.041 La Salle Way Resurfacing                                               21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.042 Larchwood Street Resurfacing                                           21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.047 Mays Crossing Resurfacing                                              21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.050 Redbud Lane Resurfacing                                                21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.051 Rutgers Drive Resurfacing                                              21-Aug-15          20-Feb-17      CD10
+                                                                        Page 10 of 17
+                                                                    *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                    2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                    Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                 Construction Start Project Finish Council
+                                                                                                                                District
+         R.01.02.104.053 Stokes Avenue Resurfacing                                            21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.054 Valleydale Drive Resurfacing                                         21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.055 Waterford Road Resurfacing                                           21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.060 Ardwick Court Resurfacing                                            04-Apr-16          20-Feb-17      CD12
+         R.01.02.104.065 Litherland Court Resurfacing                                         04-Apr-16          20-Feb-17      CD12
+         R.01.02.104.066 Little Hampton Court Resurfacing                                     04-Apr-16          20-Feb-17      CD12
+         R.01.02.104.069 Oakshire Way Resurfacing                                             04-Apr-16          20-Dec-16      CD12
+         R.01.02.104.075 Sylvan Rd Resurfacing                                                06-Mar-17          16-Aug-17      CD12
+         R.01.02.104.078 Brownlee Road Resurfacing                                            21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.079 Burton Road Resurfacing                                              21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.080 Fleetwood Circle Resurfacing                                         21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.081 Hazelwood Road Resurfacing                                           21-Aug-15          20-Dec-16      CD10
+         R.01.02.104.082 Lynhurst Drive Resurfacing                                           01-Mar-17          20-Apr-17      CD10
+         R.01.02.104.083 South Gordon Resurfacing                                             21-Aug-15          20-Feb-17      CD10
+         R.01.02.104.084 Brookline Street                                                     04-Sep-17          18-Nov-17      CD12
+         R.01.02.104.086 Springdale Place                                                     11-Sep-17          25-Nov-17      CD12
+         R.01.02.104.087 Springdale Road                                                      18-Sep-17          02-Dec-17      CD12
+         R.01.02.104.088 Bagwell Drive                                                        25-Sep-17          09-Dec-17      CD12
+         R.01.02.104.089 Bicknell Street                                                      02-Oct-17          16-Dec-17      CD12
+         R.01.02.104.090 Polar Rock Road                                                      09-Oct-17          23-Dec-17      CD12
+         R.01.02.104.091 Gayles Court                                                         16-Oct-17          30-Dec-17      CD12
+         R.01.02.104.092 Kings Smith Road                                                     23-Oct-17          06-Jan-18      CD12
+         R.01.02.104.094 Stanton Road                                                         24-Jul-17          07-Oct-17      CD12
+         R.01.02.104.095 Beaver Falls Place                                                   17-Oct-16          24-Feb-17      CD11
+         R.01.02.104.096 Bent Creek Way                                                       14-Aug-17          28-Oct-17      CD11
+         R.01.02.104.097 Cascade Road - Phase 1                                               21-Aug-17          04-Nov-17      CD11
+         R.01.02.104.099 East Court Drive                                                     18-Jul-16          20-Feb-17      CD11
+         R.01.02.104.100 Fairburn Road                                                        25-Sep-17          09-Dec-17      CD11
+         R.01.02.104.101 Fairway Circle                                                       21-Aug-17          04-Nov-17      CD11
+         R.01.02.104.102 Forest Overlook Drive                                                18-Oct-16          24-Feb-17      CD11
+                                                                      Page 11 of 17
+                                                                  *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                       2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                       Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                    Construction Start Project Finish Council
+                                                                                                                                   District
+         R.01.02.104.103 Forest Overlook Trail                                                   18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.104 Guilford Forest Drive                                                   18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.105 Guilford Forest Lane                                                    18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.106 Hamden Forest Drive                                                     18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.107 Hamden Forest Trail                                                     18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.108 Jewel Drive                                                             18-May-16          20-Feb-17      CD11
+         R.01.02.104.109 Landrum Drive                                                           18-May-16          20-Feb-17      CD11
+         R.01.02.104.110 New Britain Drive                                                       18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.111 Niskey Lake Road Phase 1                                                28-Aug-17          11-Nov-17      CD11
+         R.01.02.104.112 Overlook Court                                                          18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.113 Regency Center Drive                                                    18-Jul-16          20-Feb-17      CD11
+         R.01.02.104.114 Regency Crest Court                                                     18-Jul-16          20-Feb-17      CD11
+         R.01.02.104.115 Straton Trace                                                           18-Jul-16          20-Feb-17      CD11
+         R.01.02.104.116 Howell Drive Resurfacing                                                04-Apr-16          20-Feb-17      CD10
+         R.01.02.104.117 Delmar Lane Resurfacing                                                 04-Apr-16          20-Feb-17      CD10
+         R.01.02.104.118 Margaret Mitchell Drive Resurfacing                                     28-Aug-17          11-Nov-17      CD08
+         R.01.02.104.119 Spring Lake Court Resurfacing                                           16-Nov-15          20-Feb-17      CD08
+         R.01.02.104.120 18th Street                                                             17-Jul-17          30-Sep-17      CD03
+         R.01.02.104.121 8th Street                                                              12-Jun-17          26-Aug-17      CD03
+         R.01.02.104.123 Aurora Avenue                                                           03-Jul-17          16-Sep-17      CD03
+         R.01.02.104.126 Spellman Street                                                         10-Jul-17          09-Jan-18      CD03
+         R.01.02.104.127 Sunset Avenue                                                           24-Jul-17          07-Oct-17      CD03
+         R.01.02.104.128 Travis Street                                                           31-Jul-17          14-Oct-17      CD03
+         R.01.02.104.129 Verbena St                                                              17-Jul-17          30-Sep-17      CD03
+         R.01.02.104.130 Whitaker Circle                                                         24-Jul-17          07-Oct-17      CD03
+         R.01.02.104.131 Whitaker Street                                                         07-Aug-17          21-Oct-17      CD03
+         R.01.02.104.133 McAfee Street                                                           14-Aug-17          28-Oct-17      CD04
+         R.01.02.104.134 Mims Street                                                             31-Jul-17          14-Oct-17      CD04
+         R.01.02.104.135 Muse Street                                                             07-Aug-17          21-Oct-17      CD04
+         R.01.02.104.136 Pine Street                                                             21-Aug-17          04-Nov-17      CD04
+                                                                         Page 12 of 17
+                                                                     *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                            2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                            Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                         Construction Start Project Finish Council
+                                                                                                                        District
+         R.01.02.104.137 Richland Road                                                30-Oct-17          13-Jan-18      CD04
+         R.01.02.104.138 York Avenue                                                  06-Nov-17          20-Jan-18      CD04
+         R.01.02.104.140 Avondale Avenue                                              29-May-17          12-Aug-17      CD01
+         R.01.02.104.141 Gault Street                                                 22-Apr-16          20-Feb-17      CD01
+         R.01.02.104.142 Gilbert Street                                               05-Jun-17          19-Aug-17      CD01
+         R.01.02.104.143 Hemlock Circle                                               12-Jun-17          26-Aug-17      CD01
+         R.01.02.104.144 Marion Avenue                                                19-Jun-17          02-Sep-17      CD01
+         R.01.02.104.145 Federal Terrace                                              22-Apr-16          20-Feb-17      CD01
+         R.01.02.104.148 Francis Avenue                                               26-Jun-17          09-Sep-17      CD01
+         R.01.02.104.151 Rosalia Street                                               03-Jul-17          16-Sep-17      CD01
+         R.01.02.104.153 Hansell Street                                               10-Jul-17          23-Sep-17      CD01
+         R.01.02.104.155 Fairburn Road NW                                             02-May-16          20-Feb-17      CD10
+         R.01.02.104.156 Collier Drive                                                02-May-16          20-Feb-17      CD10
+         R.01.02.104.157 Regency Crest Drive                                          18-Jul-16          20-Feb-17      CD11
+         R.01.02.104.159 Niskey Lake Road Phase 2                                     13-Nov-17          27-Jan-18      CD11
+         R.01.02.104.160 8th St, Phase 2                                              02-Apr-18          16-Jun-18      CD02
+         R.01.02.104.161 Williams St                                                  26-Mar-18          09-Jun-18      CD02
+         R.01.02.104.162 Spring St, Phase 2                                           19-Mar-18          02-Jun-18      CD02
+         R.01.02.104.163 East Lake Blvd                                               28-Aug-17          11-Nov-17      CD05
+         R.01.02.104.164 Lakeview Dr                                                  04-Sep-17          18-Nov-17      CD05
+         R.01.02.104.165 Browntown Rd                                                 20-Nov-17          03-Feb-18      CD09
+         R.01.02.104.166 Hemphill School Rd                                           27-Nov-17          10-Feb-18      CD10
+         R.01.02.104.167 Peachtree Battle Ave                                         16-Oct-17          30-Dec-17      CD08
+         R.01.02.104.168 Westminster Dr                                               18-Sep-17          02-Dec-17      CD06
+         R.01.02.104.169 Hamden Trace                                                 18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.170 Jewel Court                                                  18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.171 Bethany Forest Drive                                         18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.172 Willowood Lane                                               18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.173 New Haven Court                                              18-Oct-16          24-Feb-17      CD11
+         R.01.02.104.174 Forest Crossing Drive                                        18-Oct-16          24-Feb-17      CD11
+                                                              Page 13 of 17
+                                                          *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                      2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                      Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                   Construction Start Project Finish Council
+                                                                                                                                  District
+         R.01.02.104.175 Glennhurst Lane                                                        18-Jul-16          20-Feb-17      CD11
+         R.01.02.104.176 Regency Park Drive                                                     18-Jul-16          20-Feb-17      CD11
+         R.01.02.104.177 Park Center Drive                                                      18-Jul-16          20-Feb-17      CD11
+         R.01.02.104.178 Cascade Road - Phase 2                                                 02-Apr-18          16-Jun-18      CD11
+        Sidewalk, Curbing, ADA                                                                  15-Jul-15          27-Mar-19
+         R.01.02.105.013 Johnson Rd Pedestrian Improvements                                     01-Jun-18          27-Mar-19      CD06
+         R.01.02.105.014 Lenox Rd Pedestrian Improvements                                       01-Jun-18          27-Mar-19      CD06
+         R.01.02.105.015 Old Ivy Rd Pedestrian Improvements                                     05-Jul-17          06-Nov-17      CD07
+         R.01.02.105.021 OldKnow Drive Sidewalk - North                                         25-Sep-17          21-Feb-18      CD09
+         R.01.02.105.023 Tye Street Sidewalks                                                   06-Sep-17          07-Feb-18      CD05
+         R.01.02.105.024 470 Flat Shoals - ADA Ramps and Crosswalk                              06-Sep-17          24-Dec-17      CD05
+         R.01.02.105.025 Edgewood Sidewalk                                                      18-Oct-17          14-Jun-18      CD05
+         R.01.02.105.026 Delaware Avenue Sidewalk Repairs                                       07-May-17          30-Jul-17      CD01
+         R.01.02.105.027 Lynhurst Drive Pedestrian Improvements                                 15-Jul-15          28-Feb-17      CD10
+     Vertical / Facilities                                                                      01-Oct-15          11-Dec-19
+       City-Wide                                                                                01-Oct-15          11-Dec-19
+        Public Art Program                                                                      10-Mar-16          12-Sep-17
+         R.02.01.010.004 Andrew Young Tribute Plaza                                             13-Mar-17          03-Jul-17      CD02
+         R.02.01.010.006 Isamu Noguchi Playscapes                                               10-Mar-16          16-Sep-16 A    CD06
+         R.02.01.010.009 Evolution                                                              23-Sep-16          12-Jan-17      CD02
+         R.02.01.010.012 Memorial: Carpets, Panels and Books                                    15-Feb-17          28-Jul-17      CD02
+         R.02.01.010.013 Ceremonial Circle                                                      17-Apr-17          28-Jul-17      CD02
+         R.02.01.010.016 Ex-Static                                                              15-Mar-17          26-May-17      CD02
+         R.02.01.010.017 Carnegie Education Pavilion                                            08-Jul-16          20-Apr-17      CD02
+         R.02.01.010.019 Henry Grady                                                            01-May-17          28-Jul-17      CD02
+         R.02.01.010.020 Five Points Monument                                                   15-Jun-17          31-Jul-17      CD02
+         R.02.01.010.021 John Wesley Dobbs                                                      08-Jul-16          12-Apr-17      CD02
+         R.02.01.010.022 Emerging                                                               01-Feb-17          29-Mar-17      CD02
+         R.02.01.010.023 Phoenix                                                                12-Jun-17          11-Aug-17      CD02
+         R.02.01.010.024 Urban Path                                                             13-Mar-17          29-May-17      CD03
+                                                                        Page 14 of 17
+                                                                    *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                         2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                            Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                      Construction Start Project Finish Council
+                                                                                                                                     District
+         R.02.01.010.025 Legends                                                                   06-Mar-17          02-Jun-17      CD03
+         R.02.01.010.027 Booker T. Washington Lifting The Veil of Ignorance                        09-Jun-16          30-Dec-16      CD04
+         R.02.01.010.028 Why X Why                                                                 05-May-16          17-Mar-17      CD04
+         R.02.01.010.034 Cattail Fence                                                             31-May-16          16-Sep-16 A    CD04
+         R.02.01.010.035 Cometh the Sun                                                            15-Dec-16          10-Mar-17      CD04
+         R.02.01.010.037 Tree of Life and Kan                                                      23-Sep-16          01-Dec-16      CD06
+         R.02.01.010.038 New Endings                                                               10-Jul-17          12-Sep-17      CD06
+         R.02.01.010.040 Untitled                                                                  02-Dec-16          25-Jan-17      CD07
+         R.02.01.010.043 Not to Scale                                                              01-Mar-17          17-Apr-17      CD10
+         R.02.01.010.045 Attaining Goals                                                           28-Oct-16          30-Dec-16      CD12
+         R.02.01.010.046 Threshold                                                                 01-Aug-16          28-Apr-17      CD02
+         R.02.01.010.047 Hard Days Shack                                                           09-May-16          16-Sep-16 A    CD02
+         R.02.01.010.048 Birth of Atlanta                                                          23-May-16          29-Aug-17      CD02
+         R.02.01.010.049 Decode / Recode                                                           15-Mar-17          28-Jul-17      CD02
+         R.02.01.010.058 Tower of Time                                                             15-Mar-17          28-Jul-17      CD11
+        General                                                                                    01-Oct-15          27-Jul-18      CW
+         R.02.01.101.001 M.L. King, Jr. Natatorium                                                 05-Jul-16          29-Dec-17      CW
+         R.02.01.101.003 DPW Building 1 North Ave                                                  31-May-17          27-Jul-18      CW
+         R.02.01.101.004 DPW Building 2 North Avenue                                               31-May-17          27-Jul-18      CW
+         R.02.01.101.006 DPW Warehouse/Office - Transportation (Claire Dr)                         21-Sep-16          27-Jul-17      CW
+         R.02.01.101.007 DPW Service Building - Fleet Services (Claire Dr)                         21-Sep-16          27-Apr-17      CW
+         R.02.01.101.008 City Hall Complex Waterproofing                                           23-Nov-15          02-Feb-17      CW
+         R.02.01.101.009 DPW Sanitation Shop/Garage/Offices (Claire Dr)                            21-Sep-16          14-Sep-17      CW
+         R.02.01.101.010 AWDA B uilding                                                            01-Oct-15          20-Apr-17      CW
+         R.02.01.101.011 72 Marietta                                                               16-Nov-15          02-Feb-17      CW
+         R.02.01.101.013 Pedestrian Bridge @ Municipal Court                                       08-Sep-17          14-Jun-18      CW
+         R.02.01.101.014 City Hall Roof Replacement                                                09-Oct-15          09-Feb-17      CW
+        Public Safety Facilities                                                                   14-May-16          11-Dec-19      CW
+         R.02.01.106.002 APD 388 VIC Storage                                                       16-Jan-17          07-Apr-17      CW
+         R.02.01.106.003 VIC Video Wall Replacement                                                14-May-16          01-Dec-16      CW
+                                                                              Page 15 of 17
+                                                                         *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                     2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                     Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                  Construction Start Project Finish Council
+                                                                                                                                 District
+         R.02.01.106.004 APD 394 Operation Shield CCTV Expansion                               25-Feb-17          11-Dec-19      CW
+         R.02.01.106.007 VIC Network Upgrades                                                  01-Jun-17          04-Sep-17      CW
+       Local                                                                                   29-Feb-16          28-Jun-18
+        Public Safety Facilities                                                               29-Feb-16          28-Jun-18
+         R.02.02.106.001 AFR Station 1                                                         04-Mar-17          03-Aug-17      CD03
+         R.02.02.106.002 AFR Station 2                                                         01-Feb-17          13-Jul-17      CD01
+         R.02.02.106.004 AFR Station 4                                                         14-Oct-17          22-Feb-18      CD05
+         R.02.02.106.005 AFR Station 5                                                         24-Jun-17          26-Oct-17      CD11
+         R.02.02.106.008 AFR Station 8                                                         26-Apr-16          15-Jun-17      CD09
+         R.02.02.106.009 AFR Station 9                                                         09-May-16          28-Jun-18      CD10
+         R.02.02.106.010 AFR Station 10                                                        02-Mar-16          24-Aug-17      CD01
+         R.02.02.106.011 AFR Station 11                                                        04-Apr-16          05-Oct-17      CD03
+         R.02.02.106.013 AFR Station 12                                                        03-Mar-16          24-Aug-17      CD02
+         R.02.02.106.016 AFR Station 14                                                        04-Jan-17          14-Sep-17      CD04
+         R.02.02.106.018 AFR Station 16                                                        04-Mar-16          31-Aug-17      CD03
+         R.02.02.106.019 AFR Station 17                                                        09-May-16          08-Feb-18      CD04
+         R.02.02.106.021 AFR Station 19                                                        14-Jun-17          16-Nov-17      CD06
+         R.02.02.106.023 AFR Station 20                                                        05-Apr-17          13-Jul-17      CD12
+         R.02.02.106.025 AFR Station 21                                                        04-Apr-16          01-Mar-18      CD07
+         R.02.02.106.026 AFR Station 23                                                        03-Oct-17          01-Mar-18      CD09
+         R.02.02.106.027 AFR Station 25                                                        29-Feb-16          27-Jun-17      CD10
+         R.02.02.106.029 AFR Station 26                                                        04-Apr-16          09-Nov-17      CD08
+         R.02.02.106.030 AFR Station 27                                                        03-Oct-17          15-Mar-18      CD08
+         R.02.02.106.031 AFR Station 29                                                        01-Mar-16          12-Oct-17      CD06
+         R.02.02.106.034 AFR Station 30                                                        08-Feb-17          06-Jul-17      CD12
+         R.02.02.106.038 AFR Station 31                                                        05-Jan-17          08-Jun-17      CD11
+         R.02.02.106.040 AFR Station 38                                                        26-Apr-16          12-Apr-18      CD09
+         R.02.02.106.100 APD Zone 4                                                            25-Jan-17          29-Jun-17      CD11
+        Community Facilities                                                                   10-Oct-16          28-Jun-18
+         R.02.02.107.004 Central Park                                                          20-Jun-17          14-Jun-18      CD02
+                                                                       Page 16 of 17
+                                                                   *SUBJECT TO CHANGE
+
+ Start Date: Mar-10-15                                     2015 Renew Atlanta Infrastructure Bond
+ Finish Date: April-17-19
+                                                                     Master Schedule
+ Data Date: Dec 2016
+Activity Name                                                                                  Construction Start Project Finish Council
+                                                                                                                                 District
+         R.02.02.107.007 Dunbar Facility                                                       05-Jan-17          25-May-17      CD04
+         R.02.02.107.013 Peachtree Hills Recreation Center                                     18-Jan-17          28-Dec-17      CD07
+         R.02.02.107.015 Chastain Pool                                                         09-Jan-17          28-Dec-17      CD08
+         R.02.02.107.017 English Park Recreation                                               20-Jan-17          17-Aug-17      CD09
+         R.02.02.107.019 William Walker Recreation Center                                      17-Jun-17          28-Jun-18      CD11
+         R.02.02.107.020 Rosel Fann Community Center                                           06-Apr-17          13-Jul-17      CD12
+         R.02.02.107.025 Georgia Hill Facility                                                 15-Mar-17          04-Jan-18      CD01
+         R.02.02.107.030 Lang Carson Rec Center                                                16-Jun-17          14-Jun-18      CD05
+         R.02.02.107.031 Lake Claire Park                                                      10-Oct-16          28-Sep-17      CD05
+         R.02.02.107.034 Rosel Fann Park                                                       07-Mar-17          01-Mar-18      CD12
+                                                                       Page 17 of 17
+                                                                   *SUBJECT TO CHANGE
+
