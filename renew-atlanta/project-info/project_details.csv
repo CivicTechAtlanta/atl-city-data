@@ -1,487 +1,507 @@
-project_page,Construction Start,Phase 1,Phase 2,Project Budget,Project completion,Project Name,Project Start,Project Type
-http://renewatlantabond.com/project/10th-street-2/,NA,NA,NA,$,NA,10th Street (TCC),NA,
-http://renewatlantabond.com/project/10th-street-3/,06-2016,NA,NA,"$740,845",02-2017,10th Street,04-2016,
-http://renewatlantabond.com/project/14th-street-2/,10-2017,NA,NA,"$467,532",10-2018,14th Street (TCC),06-2016,
-http://renewatlantabond.com/project/14th-street-3/,08-2017,Resurfacing from Howell Mill Road to Hemphill Avenue,NA,"$353,805",10-2017,"14th Street, Phase 3",05-2016,
-http://renewatlantabond.com/project/14th-street-5/,07-2017,Resurfacing from Howell Mill Road to Hemphill Avenue,NA,"$286,105",09-2017,"14th Street, Phase 2",05-2016,
-http://renewatlantabond.com/project/14th-street-howell-mill-road-2/,07-2017,NA,NA,"$200,000",06-2018,14th Street @ Howell Mill Road,08-2015,
-http://renewatlantabond.com/project/14th-street-phase-1/,01-2018,Resurfacing from Howell Mill Road to Hemphill Avenue,NA,"$308,695",03-2018,"14th Street, Phase 1",01-2016,
-http://renewatlantabond.com/project/18th-street/,07-2017,NA,NA,"$77,725",11-2017,18th Street,07-2016,
-http://renewatlantabond.com/project/2-city-plaza-2/,06-2015,NA,NA,"$275,705.00",07-2016,2 City Plaza,06-2015,
-http://renewatlantabond.com/project/6th-street/,03-2018,NA,NA,"$280,000",09-2018,6th Street,03-2016,
-http://renewatlantabond.com/project/8th-street-phase-2/,04-2018,Resurfacing from Howell Mill Road to Hemphill Avenue,NA,"$190,555",06-2018,"8th Street, Phase 2",07-2016,
-http://renewatlantabond.com/project/8th-street/,06-2017,Resurfacing from Howell Mill Road to Hemphill Avenue,NA,"$129,785",08-2017,"8th Street, Phase 1",07-2016,
-http://renewatlantabond.com/project/ad-williams-rec-center/,NA,NA,NA,"$00,000,000",NA,AD Williams Recreation Center,NA,
-http://renewatlantabond.com/project/ada-ramp-sidewalk-replacement-program/,04-2016,NA,NA,"$4,850,000.00",08-2016,ADA Ramp & Sidewalk Replacement Program,04-2016,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-and-structural-repairs-lighting-repairs/,05-2016,NA,NA,"$230,000.00",02-2017,Fire Station 5,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-and-structural-repairs/,09-2015,NA,NA,"$318,868",02-2018,Fire Station 4,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-interiorexterior-finishes-lighting-repairs-2/,04-2016,NA,NA,"$138,000.00",03-2018,Fire Station 23,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-10/,10-2015,NA,NA,"$465,018",06-2017,Fire Station 31,10-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-2/,09-2015,NA,NA,"$605,201",11-2017,Fire Station 19,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-3/,03-2016,NA,NA,"$694,851.00",08-2017,Fire Station 10,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-4/,04-2016,NA,NA,"$200,000.00",07-2017,Fire Station 20,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-5/,04-2016,NA,NA,"$307,328.00",03-2017,Fire Station 8,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-6/,03-2016,NA,NA,"$351,328.00",09-2017,Fire Station 12,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-7/,10-2015,NA,NA,"$618,450.00",10-2017,Fire Station 1,10-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-8/,08-2016,NA,NA,"$962,762.00",09-2017,Fire Station 14,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-9/,04-2016,NA,NA,"$455,963.00",03-2018,Fire Station 21,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades/,05-2016,NA,NA,"$645,149.00",12-2016,Fire Station 2,09-2015,
-http://renewatlantabond.com/project/ada-upgrades-hvac-and-plumbing-exterior-lighting/,01-2016,NA,NA,"$129,151",06-2017,Zone 4 Police Precinct,01-2016,
-http://renewatlantabond.com/project/ada-upgrades-plumbing-repairs-and-hvac-controls/,03-2016,NA,NA,"$282,328.00",10-2017,Fire Station 29,09-2015,
-http://renewatlantabond.com/project/adams-park/,NA,NA,NA,"$00,000,000",NA,Adams Park,NA,
-http://renewatlantabond.com/project/adamsville-rec-center/,NA,NA,NA,"$00,000,000",NA,Adamsville Recreation Center,NA,
-http://renewatlantabond.com/project/alonzo-crim-high-school-burgess%e2%80%90-peterson-academy/,06-2016,NA,NA,"$11,295",09-2016,Alonzo Crim High School,11-2015,
-http://renewatlantabond.com/project/alston-drive-candler-road-2/,12-2017,NA,NA,"$200,000",12-2018,Alston Drive @ Candler Road,04-2016,
-http://renewatlantabond.com/project/alvarado-terrace/,08-2015,NA,NA,"$41,585",02-2017,Alvarado Terrace,06-2015,
-http://renewatlantabond.com/project/anchored-sail/,NA,NA,NA,"$00,000,000",NA,Anchored Sail,NA,
-http://renewatlantabond.com/project/andrew-young-tribute-plaza/,03-2015,NA,NA,"$77,000",07-2017,Andrew Young Tribute Plaza,03-2015,
-http://renewatlantabond.com/project/architect-for-the-future/,NA,NA,NA,"$00,000,000",NA,Architect For the Future,NA,
-http://renewatlantabond.com/project/ardley-road/,08-2015,NA,NA,"$41,865",02-2017,Ardley Road,06-2015,
-http://renewatlantabond.com/project/ardwick-court/,04-2016,NA,NA,"$16,340",02-2017,Ardwick Court,04-2016,
-http://renewatlantabond.com/project/atlanta-avenue-tcc/,12-2017,NA,NA,"$525,974",12-2018,Atlanta Avenue (TCC),04-2016,
-http://renewatlantabond.com/project/atlanta-classical-academy/,06-2016,NA,NA,"$11,295",09-2016,Atlanta Classical Academy,11-2015,
-http://renewatlantabond.com/project/atlanta-from-the-ashes/,NA,NA,NA,"$00,000,000",NA,Atlanta From the Ashes,NA,
-http://renewatlantabond.com/project/auburn-historical-plaques/,NA,NA,NA,"$00,000,000",NA,Auburn Historical Plaques,NA,
-http://renewatlantabond.com/project/aurora-avenue/,07-2017,NA,NA,"$141,750",11-2017,Aurora Avenue,07-2016,
-http://renewatlantabond.com/project/avon-avenue-westmont-road-orlando-street-2/,05-2017,NA,NA,"$200,000",07-2017,Avon Avenue @ Westmont Road & Orlando Street,04-2016,
-http://renewatlantabond.com/project/avon-avenue/,10-2015,NA,NA,"$372,230",02-2017,Avon Avenue,10-2015,
-http://renewatlantabond.com/project/avondale-avenue/,05-2017,NA,NA,"$300,460",08-2017,Avondale Avenue,07-2016,
-http://renewatlantabond.com/project/awda-repairsupgrade/,10-2015,NA,NA,"$1,300,000",04-2017,AWDA Repairs/Upgrades,10-2015,
-http://renewatlantabond.com/project/ayr-street/,03-2018,NA,NA,"$405,000",09-2018,Ayr Street,03-2016,
-http://renewatlantabond.com/project/bagwell-drive/,09-2017,NA,NA,"$353,400",12-2017,Bagwell Drive,07-2016,
-http://renewatlantabond.com/project/bakerhighland-connector/,11-2017,NA,NA,"$178,500",02-2018,Baker/Highland Connector,07-2015,
-http://renewatlantabond.com/project/bankhead-avenue-2/,NA,NA,NA,"$00,000,000",NA,Bankhead Avenue,NA,
-http://renewatlantabond.com/project/bankhead-avenue/,11-2018,NA,NA,"$1,121,400",12-2019,Bankhead Avenue Bridge,01-2018,
-http://renewatlantabond.com/project/barnett-street-saint-charles-place-2/,05-2017,NA,NA,"$200,000",07-2017,Barnett Street @ Saint Charles Place,06-2016,
-http://renewatlantabond.com/project/barnett-street/,01-2017,NA,NA,"$306,450",03-2017,Barnett Street,05-2016,
-http://renewatlantabond.com/project/beecher-street/,05-2017,NA,NA,"$467,905",07-2017,Beecher Street,07-2016,
-http://renewatlantabond.com/project/ben-hill-recreation-center/,06-2016,NA,NA,"$403,000",06-2018,William Walker Recreation Center (Formerly Ben Hill Recreation Center),06-2016,
-http://renewatlantabond.com/project/bent-creek-way/,10-2016,NA,NA,"$47,700",02-2017,Beaver Falls Place,09-2016,
-http://renewatlantabond.com/project/berne-street/,10-2015,NA,NA,"$301,070",02-2017,Berne Street,10-2015,
-http://renewatlantabond.com/project/beverly-road/,NA,NA,NA,"$00,000,000",NA,Beverly Road,NA,
-http://renewatlantabond.com/project/bicknell-street/,10-2017,NA,NA,"$123,310",12-2017,Bicknell Street,07-2016,
-http://renewatlantabond.com/project/birth-of-atlanta/,05-2016,NA,NA,"$100,000",08-2017,Birth of Atlanta,03-2015,
-http://renewatlantabond.com/project/bohler-road/,04-2016,NA,NA,"$265,075.00",02-2017,Bohler Road,03-2016,
-http://renewatlantabond.com/project/bolton-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Bolton Academy Elementary School,11-2015,
-http://renewatlantabond.com/project/booker-t-washington-lifting-the-veil-of-ignorance/,06-2016,NA,NA,"$40,000.00",12-2016,Booker T. Washington Lifting The Veil of Ignorance,03-2015,
-http://renewatlantabond.com/project/boulevard-tcc/,NA,NA,NA,"$00,000,000",NA,Boulevard (TCC),NA,
-http://renewatlantabond.com/project/braeburn-circle/,03-2018,NA,NA,"$750,000",09-2018,Braeburn Circle,03-2016,
-http://renewatlantabond.com/project/brave-service-rescue-monument/,NA,NA,NA,"$00,000,000",NA,"Brave Service, Rescue Monument",NA,
-http://renewatlantabond.com/project/brookline-street/,09-2017,NA,NA,"$189,500",11-2017,Brookline Street,07-2016,
-http://renewatlantabond.com/project/brownlee-place/,08-2015,NA,NA,"$25,245",12-2016,Brownlee Place,06-2015,
-http://renewatlantabond.com/project/brownlee-road-3/,08-2015,NA,NA,"$102,375",02-2017,Brownlee Road,06-2015,
-http://renewatlantabond.com/project/bulwarks-ll/,NA,NA,NA,"$00,000,000",NA,Bulwarks ll,NA,
-http://renewatlantabond.com/project/bunche-middle-school/,04-2016,NA,NA,"$11,295",08-2016,Bunche Middle School,11-2015,
-http://renewatlantabond.com/project/burgess%e2%80%90peterson-academy/,06-2016,NA,NA,"$11,295",09-2016,Burgess‐Peterson Academy,11-2015,
-http://renewatlantabond.com/project/burton-road/,08-2015,NA,NA,"$120,145",02-2017,Burton Road,06-2015,
-http://renewatlantabond.com/project/campbellton-road-2/,07-2017,NA,NA,"$2,532,465",06-2018,Campbellton Road (TCC),10-2015,
-http://renewatlantabond.com/project/campbellton-road-dodson-drive-2/,11-2016,NA,NA,"$200,000",07-2017,Campbellton Road @ Dodson Drive,10-2015,
-http://renewatlantabond.com/project/campbellton-road-greenbriar-parkway-mount-gilead-road-2/,02-2016,NA,NA,"$200,000",04-2017,Campbellton Road @ Greenbriar Parkway & Mount Gilead Road,12-2015,
-http://renewatlantabond.com/project/campbellton-road-oakland-avenue-2/,02-2016,NA,NA,"$200,000",04-2016,Campbellton Road @ Oakland Avenue,12-2015,
-http://renewatlantabond.com/project/campbellton-road-stanton-road/,07-2017,NA,NA,"$200,000.00",06-2018,Campbellton Road @ Stanton Road,10-2015,
-http://renewatlantabond.com/project/campbellton-road-venetian-drive-kenilworth-drive/,11-2016,NA,NA,"$200,000.00",10-2017,Campbellton Road @ Venetian Drive & Kenilworth Drive,10-2015,
-http://renewatlantabond.com/project/camrose-way/,08-2015,NA,NA,"$35,645",02-2015,Camrose Way,06-2015,
-http://renewatlantabond.com/project/candler-park-neighborhood-improvements/,02-2017,NA,NA,"$450,000",05-2017,Candler Park Neighborhood Improvements,08-2016,
-http://renewatlantabond.com/project/candler-park/,NA,NA,NA,"$00,000,000",NA,Candler Park,NA,
-http://renewatlantabond.com/project/carnegie-education-pavilion/,03-2015,NA,NA,"$40,000",07-2017,Carnegie Education Pavilion,03-2015,
-http://renewatlantabond.com/project/cascade-road-2/,09-2017,NA,NA,"$2,727,270",09-2018,Cascade Road (TCC),02-2016,
-http://renewatlantabond.com/project/cascade-road/,08-2017,NA,NA,"$92,770",10-2017,Bent Creek Way,07-2016,
-http://renewatlantabond.com/project/cascade-roadavenue-corridor-phase-2/,04-2018,from Atlanta city limits to Willis Mill Road and from Delowe Drive to Avon Avenue,from Avon Avenue to Ralph David Abernathy Boulevard,"$8,000,000.00",04-2019,Cascade Road/Avenue Corridor Phase 2,10-2016,
-http://renewatlantabond.com/project/cascade-roadavenue/,04-2017,from Atlanta city limits to Willis Mill Road and from Delowe Drive to Avon Avenue,from Avon Avenue to Ralph David Abernathy Boulevard,"$10,000,000.00",11-2017,Cascade Road/Avenue Corridor Phase 1,01-2016,
-http://renewatlantabond.com/project/cattail-fence/,05-2016,NA,NA,"$32,000",09-2016,Cattail Fence,03-2015,
-http://renewatlantabond.com/project/cedar-island-drive-2/,06-2015,NA,NA,"$38,170",02-2017,Cedar Island Drive,09-2015,
-http://renewatlantabond.com/project/centennial-academy/,06-2016,NA,NA,"$22,585",09-2016,Centennial Academy,11-2015,
-http://renewatlantabond.com/project/central-avenue-bridge-replacement/,05-2018,NA,NA,"$25,008,387",05-2019,Central Avenue Bridge Replacement,10-2016,
-http://renewatlantabond.com/project/central-park/,07-2016,NA,NA,"$285,000",06-2018,Central Park,07-2016,
-http://renewatlantabond.com/project/ceremonial-circle/,03-2015,NA,NA,"$65,000",07-2017,Ceremonial Circle,03-2015,
-http://renewatlantabond.com/project/charles-lincoln-harper/,NA,NA,NA,"$00,000,000",NA,Charles Lincoln Harper,NA,
-http://renewatlantabond.com/project/chastain-park-pool/,10-2016,NA,NA,"$973,438",12-2017,Chastain Park Pool,10-2016,
-http://renewatlantabond.com/project/chattahoochee-avenue-ellsworth-industrial-boulevard-2/,07-2017,NA,NA,"$200,000",06-2018,Chattahoochee Avenue @ Ellsworth Industrial Boulevard,02-2016,
-http://renewatlantabond.com/project/chattahoochee-avenue-hills-avenue-2/,07-2017,NA,NA,"$200,000",06-2018,Chattahoochee Avenue @ Hills Avenue,02-2016,
-http://renewatlantabond.com/project/cheshire-bridge-road/,05-2017,NA,NA,"$1,357,225",07-2017,Cheshire Bridge Road,05-2016,
-http://renewatlantabond.com/project/childress-drive-2/,NA,NA,NA,"$00,000,000",NA,Cascade Road,NA,
-http://renewatlantabond.com/project/childress-drive/,11-2017,NA,NA,"$1,778,507",07-2018,Childress Drive Bridge,01-2016,
-http://renewatlantabond.com/project/city-court-gate/,NA,NA,NA,"$00,000,000",NA,City Court Gate,NA,
-http://renewatlantabond.com/project/citywide-complete-streets/,11-2015,NA,NA,"$3,136,500.00",05-2017,Lynhurst Drive Complete Street Project,11-2015,
-http://renewatlantabond.com/project/citywide-signal-system-upgrades-2/,NA,NA,NA,"$00,000,000",NA,Citywide Signal System upgrades,NA,
-http://renewatlantabond.com/project/claire-drive-2/,12-2017,NA,NA,"$467,532",12-2018,Claire Drive (TCC),04-2016,
-http://renewatlantabond.com/project/cleveland-avenue-2/,12-2017,NA,NA,"$1,309,055",11-2018,Cleveland Avenue (TCC),04-2016,
-http://renewatlantabond.com/project/cleveland-avenue-3/,10-2015,NA,NA,"$1,140,695",02-2017,Cleveland Avenue,10-2015,
-http://renewatlantabond.com/project/cleveland-elementary-school/,06-2016,NA,NA,"$22,585",09-2016,Cleveland Elementary School,11-2015,
-http://renewatlantabond.com/project/college-avenue-rockyford-road-2/,08-2018,NA,NA,"$200,000",11-2018,College Avenue @ Rockyford Road,03-2016,
-http://renewatlantabond.com/project/college-avenue/,04-2017,NA,NA,"$286,635",06-2017,College Avenue,05-2016,
-http://renewatlantabond.com/project/collier-drive/,05-2016,NA,NA,"$258,635",02-2017,Collier Drive,05-2016,
-http://renewatlantabond.com/project/collier-heights-rec-center/,NA,NA,NA,"$00,000,000",NA,Collier Heights Recreation Center,NA,
-http://renewatlantabond.com/project/collier-road/,10-2017,NA,NA,"$458,635",12-2017,Collier Road,07-2016,
-http://renewatlantabond.com/project/cometh-the-sun/,12-2016,NA,NA,"$80,000",03-2017,Cometh the Sun,03-2015,
-http://renewatlantabond.com/project/constitution-road-forrest-park-road-2/,12-2017,NA,NA,"$200,000",11-2018,Constitution Road @ Forrest Park Road,04-2016,
-http://renewatlantabond.com/project/continental-colony-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Continental Colony Elementary School,11-2015,
-http://renewatlantabond.com/project/coretta-scott-king-middle-school/,04-2016,NA,NA,"$11,295",08-2016,Coretta Scott King Young Women’s Academy Middle School,11-2015,
-http://renewatlantabond.com/project/courtland-street/,07-2017,NA,NA,"$2,000,000",02-2019,Courtland Street Bridge,09-2015,
-http://renewatlantabond.com/project/decatur-street/,NA,NA,NA,$,NA,Decatur Street,NA,
-http://renewatlantabond.com/project/decode-recode/,03-2017,NA,NA,"$100,000",07-2017,Decode / Recode,03-2015,
-http://renewatlantabond.com/project/defoors-ferry-2/,01-2018,NA,NA,"$249,790.00",03-2018,Defoors Ferry Road,04-2016,
-http://renewatlantabond.com/project/dekalb-avedecatur-street-2/,03-2018,NA,NA,"$2,064,933",02-2019,DeKalb Avenue/Decatur Street (TCC),02-2016,
-http://renewatlantabond.com/project/dekalb-avenue-2/,03-2018,NA,NA,"$1,502,090",06-2019,Dekalb Avenue,03-2016,
-http://renewatlantabond.com/project/dekalb-avenue-3/,03-2018,NA,NA,"$4,575,429.00",02-2019,DeKalb Avenue Complete Street Project,02-2016,
-http://renewatlantabond.com/project/dekalb-avenue-rockyford-road-dekalb-place-2/,03-2018,NA,NA,"$200,000",06-2019,DeKalb Avenue @ Rockyford Road & DeKalb Place,03-2016,
-http://renewatlantabond.com/project/dekalb-avenue/,04-2018,NA,NA,"$1,799,160",06-2019,DeKalb Avenue,03-2016,
-http://renewatlantabond.com/project/delaware-avenue/,05-2017,NA,NA,"$50,000",07-2017,Delaware Avenue Pedestrian Improvements,04-2017,
-http://renewatlantabond.com/project/delmar-lane/,04-2016,NA,NA,"$330,060",02-2017,Delmar Lane,04-2016,
-http://renewatlantabond.com/project/derry-avenue/,06-2015,NA,NA,"$75,140",02-2017,Derry Avenue,09-2015,
-http://renewatlantabond.com/project/dials-the-bridge/,NA,NA,NA,"$00,000,000",NA,Dial’s The Bridge,NA,
-http://renewatlantabond.com/project/dill-avenue/,10-2015,NA,NA,"$345,900",07-2016,Dill Avenue,10-2015,
-http://renewatlantabond.com/project/downtown-neighborhood-improvements/,09-2017,NA,NA,"$500,000",04-2018,Downtown Neighborhood Improvements,02-2017,
-http://renewatlantabond.com/project/dpw-service-building-fleet-services-clair-drive/,09-2016,NA,NA,"$1,000,000",07-2017,DPW Service Building- Fleet Services (Claire Drive),11-2015,
-http://renewatlantabond.com/project/dpw-service-building-sanitation-claire-drive/,09-2016,NA,NA,"$600,000",09-2017,DPW Service Building- Sanitation Services (Claire Drive),11-2015,
-http://renewatlantabond.com/project/dpw-service-building-sanitation-services-claire-drive/,NA,NA,NA,"$00,000,000",NA,DPW Service Building – Sanitation Services (North Avenue),NA,
-http://renewatlantabond.com/project/dpw-shopgarageoffice-north-ave/,05-2017,NA,NA,"$500,000",07-2018,DPW Service Building- Administration (North Avenue),08-2016,
-http://renewatlantabond.com/project/dpw-warehouseoffice-transportation-clair-drive/,09-2016,NA,NA,"$800,000",07-2017,DPW Warehouse/Office- Transportation (Claire Drive),11-2015,
-http://renewatlantabond.com/project/dunbar-neighborhood-center/,11-2015,NA,NA,"$101,900",05-2017,Dunbar Neighborhood Center,11-2017,
-http://renewatlantabond.com/project/east-andrews-drive/,04-2016,NA,NA,"$269,660.00",02-2017,East Andrews Drive,03-2016,
-http://renewatlantabond.com/project/east-cleveland-avenue/,NA,NA,NA,$,NA,East Cleveland Avenue,NA,
-http://renewatlantabond.com/project/east-court-drive/,NA,NA,NA,"$00,000,000",NA,Childress Drive,NA,
-http://renewatlantabond.com/project/east-morningside-drive/,NA,NA,NA,$,NA,East Morningside Drive,NA,
-http://renewatlantabond.com/project/east-paces-ferry-rd/,01-2017,NA,NA,"$1,404,241.00",10-2017,East Paces Ferry Road Complete Street Project,09-2015,
-http://renewatlantabond.com/project/east-roxboro-road/,06-2016,NA,NA,"$598,068.93",10-2016,Roxboro Road,06-2016,
-http://renewatlantabond.com/project/edgewood-avenue/,10-2017,NA,NA,"$300,000",06-2018,Edgewood Avenue Sidewalk Improvements,04-2017,
-http://renewatlantabond.com/project/ellsworth-industrial-boulevard/,NA,NA,NA,"$00,000,000",NA,Ellsworth Industrial Boulevard,NA,
-http://renewatlantabond.com/project/elmtree-drive/,08-2015,NA,NA,"$38,720.75",02-2017,Elmtree Drive,06-2015,
-http://renewatlantabond.com/project/eloise-street/,NA,NA,NA,"$00,000,000",NA,Eloise Street,NA,
-http://renewatlantabond.com/project/emerald-court/,08-2015,NA,NA,"$31,585",12-2016,Emerald Court,06-2015,
-http://renewatlantabond.com/project/emerging/,03-2015,NA,NA,"$30,000",03-2017,Emerging,03-2015,
-http://renewatlantabond.com/project/empire-boulevard/,NA,NA,NA,"$679,839.11",NA,Empire Boulevard,NA,
-http://renewatlantabond.com/project/empire-way/,NA,NA,NA,"$00,000,000",NA,Empire Way,NA,
-http://renewatlantabond.com/project/english-park-rec-center/,06-2016,NA,NA,"$190,000",08-2017,English Park Recreation Center,06-2016,
-http://renewatlantabond.com/project/eskine-memorial/,NA,NA,NA,"$00,000,000",NA,Eskine Memorial,NA,
-http://renewatlantabond.com/project/evolution/,03-2015,NA,NA,"$4,500",03-2017,Evolution,03-2015,
-http://renewatlantabond.com/project/ex-static/,03-2015,NA,NA,"$30,000",10-2017,Ex-Static,03-2015,
-http://renewatlantabond.com/project/f-l-stanton-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,F. L. Stanton Elementary School,11-2015,
-http://renewatlantabond.com/project/fair-drive/,08-2017,NA,NA,"$557,905",10-2017,Fair Drive,07-2016,
-http://renewatlantabond.com/project/fair-street/,NA,NA,NA,$,NA,Fair Street,NA,
-http://renewatlantabond.com/project/fairburn-road-2/,07-2016,NA,NA,"$45,145",02-2017,East Court Drive,07-2016,
-http://renewatlantabond.com/project/fairburn-road-nw/,05-2016,NA,NA,"$170,075",02-2017,Fairburn Road NW,04-2016,
-http://renewatlantabond.com/project/fairburn-road/,06-2018,NA,NA,"$4,958,562.00",11-2019,Fairburn Road Complete Street Project,09-2015,
-http://renewatlantabond.com/project/fairway-circle/,09-2017,NA,NA,"$162,875",12-2017,Fairburn Road,07-2016,
-http://renewatlantabond.com/project/falling-waters/,NA,NA,NA,"$00,000,000",NA,Falling Waters,NA,
-http://renewatlantabond.com/project/federal-terrace/,04-2016,NA,NA,"$77,245",02-2017,Federal Terrace,04-2016,
-http://renewatlantabond.com/project/fickett-elementary-school/,06-2016,NA,NA,"$11,295",09-2016,Fickett Elementary School,11-2015,
-http://renewatlantabond.com/project/five-points-monument/,03-2015,NA,NA,"$100,000",07-2017,Five Points Monument,03-2015,
-http://renewatlantabond.com/project/fleetwood-circle/,08-2015,NA,NA,$,02-2017,Fleetwood Circle,06-2015,
-http://renewatlantabond.com/project/flooring-paint-and-correct-exterior-conditions-of-the-soffits/,04-2016,NA,NA,"$177,906.00",09-2017,Fire Station 11,09-2015,
-http://renewatlantabond.com/project/ford-street-roadway-construction/,03-2018,NA,NA,"$1,210,000",09-2018,Ford Street,03-2016,
-http://renewatlantabond.com/project/forest-overlook-drive/,08-2017,NA,NA,"$334,835",11-2017,Fairway Circle,07-2016,
-http://renewatlantabond.com/project/forest-overlook-trail/,10-2016,NA,NA,"$282,535",02-2017,Forest Overlook Drive,09-2016,
-http://renewatlantabond.com/project/forrest-hills-academy/,06-2016,NA,NA,"$11,295",09-2016,Forrest Hills Academy,11-2015,
-http://renewatlantabond.com/project/forrest-park-road/,NA,NA,NA,$,NA,Forrest Park Road,NA,
-http://renewatlantabond.com/project/forsyth-street/,10-2018,NA,NA,"$2,259,443.00",09-2019,Forsyth Street Complete Street Project,07-2017,
-http://renewatlantabond.com/project/fort-street/,01-2016,NA,NA,"$72,940.87",06-2016,Fort Street,01-2016,
-http://renewatlantabond.com/project/francis-avenue/,06-2017,NA,NA,"$159,045",09-2017,Francis Avenue,07-2016,
-http://renewatlantabond.com/project/freedom-park/,NA,NA,NA,"$00,000,000",NA,Freedom Park,NA,
-http://renewatlantabond.com/project/games/,NA,NA,NA,"$00,000,000",NA,Games,NA,
-http://renewatlantabond.com/project/garden-hills-elementary-school-2/,06-2016,NA,NA,"$11,295",09-2016,Garden Hills Elementary School,11-2015,
-http://renewatlantabond.com/project/gault-street/,04-2016,NA,NA,"$113,105",02-2017,Gault Street,05-2016,
-http://renewatlantabond.com/project/gayles-court/,10-2017,NA,NA,"$40,510",12-2017,Gayles Court,07-2016,
-http://renewatlantabond.com/project/georgia-hill-neighborhood-center-facility/,11-2015,NA,NA,"$133,490",01-2018,Georgia Hill Neighborhood Center,11-2015,
-http://renewatlantabond.com/project/gilbert-street/,06-2017,NA,NA,"$46,860",08-2017,Gilbert Street,07-2016,
-http://renewatlantabond.com/project/glenwood-moreland-livable-centers-initiative-project/,NA,NA,NA,"$00,000,000",NA,Glenwood Moreland – Livable Centers Initiative Project,NA,
-http://renewatlantabond.com/project/glenwood-road-2/,10-2017,NA,NA,"$857,142",10-2018,Glenwood Road (TCC),04-2016,
-http://renewatlantabond.com/project/goldsboro-park/,NA,NA,NA,"$00,000,000",NA,Goldsboro Park,NA,
-http://renewatlantabond.com/project/grady-high-school/,06-2016,NA,NA,"$22,585",09-2016,Henry W. Grady High School,11-2015,
-http://renewatlantabond.com/project/grant-park-pool/,NA,NA,NA,"$00,000,000",NA,Grant Park Pool,NA,
-http://renewatlantabond.com/project/greenbriar-parkway-2/,12-2017,NA,NA,"$546,311",12-2018,Greenbriar Parkway (TCC),04-2016,
-http://renewatlantabond.com/project/greenbriar-parkway-3/,01-2016,NA,NA,"$1,036,425.00",06-2016,Greenbriar Parkway,01-2016,
-http://renewatlantabond.com/project/guilford-forest-drive/,10-2016,NA,NA,"$136,800",02-2017,Forest Overlook Trail,09-2016,
-http://renewatlantabond.com/project/guilford-forest-lane-2/,10-2016,NA,NA,"$25,200",02-2017,Guilford Forest Lane,09-2016,
-http://renewatlantabond.com/project/guilford-forest-lane/,10-2016,NA,NA,"$563,200",02-2017,Guilford Forest Drive,09-2016,
-http://renewatlantabond.com/project/habersham-road-west-wesley-road-2/,11-2017,NA,NA,"$190,000",10-2018,Habersham Road @ West Wesley Road,06-2016,
-http://renewatlantabond.com/project/hamden-forest-drive/,10-2016,NA,NA,"$80,105",02-2017,Hamden Forest Drive,09-2016,
-http://renewatlantabond.com/project/hamden-forest-trail/,10-2016,NA,NA,"$43,500",02-2017,Hamden Forest Trail,09-2016,
-http://renewatlantabond.com/project/hamilton-e-holmes-drive-burton-road-2/,11-2017,NA,NA,"$200,000",10-2018,Hamilton E. Holmes Drive @ Burton Road,06-2016,
-http://renewatlantabond.com/project/hansell-streetmuse-street/,07-2017,NA,NA,"$91,870",09-2017,Hansell Street,07-2016,
-http://renewatlantabond.com/project/hapeville-road/,02-2016,NA,NA,"$221,008.36",06-2016,Hapeville Road,02-2016,
-http://renewatlantabond.com/project/harbin-road/,NA,NA,NA,$,NA,Harbin Road,NA,
-http://renewatlantabond.com/project/hard-days-shack/,05-2016,NA,NA,"$10,000.00",09-2016,Hard Days Shack,03-2015,
-http://renewatlantabond.com/project/hazelwood-drive/,08-2015,NA,NA,"$108,680",12-2016,Hazelwood Road,06-2015,
-http://renewatlantabond.com/project/hemlock-circle/,07-2017,NA,NA,"$245,995",08-2017,Hemlock Circle,07-2016,
-http://renewatlantabond.com/project/henry-grady/,03-2015,NA,NA,"$65,000",07-2017,Henry Grady,03-2015,
-http://renewatlantabond.com/project/heratige-park-memorial/,NA,NA,NA,"$00,000,000",NA,Heritage Park Memorial,NA,
-http://renewatlantabond.com/project/heritage-academy/,04-2016,NA,NA,"$11,295",08-2016,Heritage Academy,11-2015,
-http://renewatlantabond.com/project/hightower-road/,10-2015,NA,NA,"$219,775",02-2017,Hightower Road,10-2015,
-http://renewatlantabond.com/project/hills-avenue/,09-2017,NA,NA,"$422,415",11-2017,Hills Avenue,07-2016,
-http://renewatlantabond.com/project/hills-place/,05-2017,NA,NA,"$305,050",09-2017,Hills Place,07-2016,
-http://renewatlantabond.com/project/hirsch-street/,03-2018,NA,NA,"$340,000",09-2018,Hirsch Street,03-2016,
-http://renewatlantabond.com/project/hollow-tree-lane/,06-2017,NA,NA,"$96,060",09-2017,Hollow Tree Lane,07-2016,
-http://renewatlantabond.com/project/hollywood-road-johnson-road-2/,11-2017,NA,NA,"$200,000",10-2018,Hollywood Road @ Johnson Road,06-2016,
-http://renewatlantabond.com/project/hope-hill-elementary-school/,06-2016,NA,NA,"$11,295",09-2016,Hope Hill Elementary School,11-2015,
-http://renewatlantabond.com/project/hosea-williams-drive-2/,12-2017,NA,NA,"$1,687,082",11-2018,Hosea Williams Drive (TCC),04-2016,
-http://renewatlantabond.com/project/howell-drive/,04-2016,NA,NA,"$212,765",02-2017,Howell Drive,04-2016,
-http://renewatlantabond.com/project/howell-mill-road-2/,10-2017,NA,NA,"$395,000.00",08-2018,Howell Mill Road,07-2016,
-http://renewatlantabond.com/project/howell-mill-road-collier-road-2/,01-2018,NA,NA,"$200,000",12-2018,Howell Mill Road @ Collier Road,06-2016,
-http://renewatlantabond.com/project/howell-mill-road-huff-road-2/,01-2018,NA,NA,"$200,000",01-2019,Howell Mill Road @ Huff Road,06-2016,
-http://renewatlantabond.com/project/howell-mill-road-moores-mill-road/,03-2018,NA,NA,"$1,309,873",05-2018,Howell Mill Road @ Moores Mill Road,04-2016,
-http://renewatlantabond.com/project/howell-mill-road-peachtree-battle-avenue-2/,11-2017,NA,NA,"$200,000",10-2018,Howell Mill Road @ Peachtree Battle Avenue,06-2016,
-http://renewatlantabond.com/project/howell-mill-road/,03-2018,NA,NA,"$5,798,210.00",09-2018,Howell Mill Road Complete Street Project,01-2016,
-http://renewatlantabond.com/project/howell-terrace-2/,08-2015,NA,NA,"$271,135",02-2017,Howell Terrace,06-2015,
-http://renewatlantabond.com/project/huber-street/,05-2017,NA,NA,"$333,575",07-2017,Huber Street,07-2016,
-http://renewatlantabond.com/project/huff-road/,11-2017,NA,NA,"$271,235",01-2018,Huff Road,07-2016,
-http://renewatlantabond.com/project/humphries-elementary-school/,06-2016,NA,NA,"$11,295",09-2016,Humphries Elementary School,11-2015,
-http://renewatlantabond.com/project/hutchinson-elementary/,04-2016,NA,NA,"$22,585",08-2016,Hutchinson Elementary,11-2015,
-http://renewatlantabond.com/project/hvac-repair-window-repairs-interiorexterior-finishes/,03-2016,NA,NA,"$341,789.08",10-2017,Fire Station 16,09-2015,
-http://renewatlantabond.com/project/inman-middle-school/,04-2016,NA,NA,"$11,295",08-2016,S.M. Inman Middle School,11-2015,
-http://renewatlantabond.com/project/inman-park-neighborhood-improvements/,08-2017,NA,NA,"$500,000",02-2018,Inman Park Neighborhood Improvements,11-2016,
-http://renewatlantabond.com/project/isamu-noguchi/,05-2016,NA,NA,"$12,000.00",09-2016,Isamu Noguchi,05-2016,
-http://renewatlantabond.com/project/j-e-boone-boulevard/,05-2018,NA,NA,"$2,690,842.00",03-2019,Joseph E. Boone Boulevard Complete Street Project,01-2017,
-http://renewatlantabond.com/project/jackson-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Warren T. Jackson Elementary School,11-2015,
-http://renewatlantabond.com/project/jackson-high-school/,04-2016,NA,NA,"$11,295",08-2016,Maynard H. Jackson High School,11-2015,
-http://renewatlantabond.com/project/james-drive-5th-street-roadway-construction/,03-2018,NA,NA,"$885,000",09-2018,James Drive/5th Street,03-2016,
-http://renewatlantabond.com/project/jefferson-street-phase-1/,10-2015,NA,NA,"$120,515",02-2017,"Jefferson Street, Phase 1",10-2015,
-http://renewatlantabond.com/project/jefferson-street-phase-2/,10-2015,NA,NA,"$140,010",02-2017,"Jefferson Street, Phase 2",10-2015,
-http://renewatlantabond.com/project/jewel-drive/,05-2016,NA,NA,"$28,230",02-2017,Jewel Drive,04-2016,
-http://renewatlantabond.com/project/john-portman-boulevard-harris-street/,12-2016,NA,NA,"$189,890",NA,John Portman Boulevard (Harris Street),10-2016,
-http://renewatlantabond.com/project/john-wesley-dobbs/,03-2015,NA,NA,"$24,000",06-2017,John Wesley Dobbs,03-2015,
-http://renewatlantabond.com/project/johnson-road-2/,06-2018,NA,NA,"$300,000",03-2019,Johnson Road Pedestrian Improvements,02-2017,
-http://renewatlantabond.com/project/johnson-road-phase-2/,12-2017,NA,NA,"$49,155",05-2018,"Johnson Road, Phase 2",04-2016,
-http://renewatlantabond.com/project/johnson-road/,12-2017,NA,NA,"$437,030",05-2018,"Johnson Road, Phase 1",04-2016,
-http://renewatlantabond.com/project/jonesboro-road-claire-drive-sawtell-avenue-2/,11-2017,NA,NA,"$200,000",10-2018,Jonesboro Road @ Claire Drive & Sawtell Avenue,04-2016,
-http://renewatlantabond.com/project/joseph-e-boone-2/,11-2017,NA,NA,"$2,025,972",10-2018,Joseph E. Boone Boulevard (TCC),04-2016,
-http://renewatlantabond.com/project/joseph-e-lowery-2/,07-2017,NA,NA,"$584,415",07-2018,Joseph E. Lowery Boulevard (TCC),08-2015,
-http://renewatlantabond.com/project/joseph-e-lowery-boulevard-2/,04-2018,NA,NA,"$1,284,454.00",12-2018,Joseph E. Lowery Boulevard Complete Street Project,02-2016,
-http://renewatlantabond.com/project/joseph-e-lowery-boulevard/,NA,NA,NA,"$00,000,000",NA,Joseph E. Lowery Boulevard,NA,
-http://renewatlantabond.com/project/juniper-street/,NA,NA,NA,"$00,000,000",NA,Juniper Street,NA,
-http://renewatlantabond.com/project/kimberly-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Kimberly Elementary School,11-2015,
-http://renewatlantabond.com/project/kings-smith-road/,10-2017,NA,NA,"$37,450",01-2018,Kings Smith Road,07-2016,
-http://renewatlantabond.com/project/kipp-atlanta-collegiate/,04-2016,NA,NA,"$22,585",08-2016,Kipp Ways Academy,11-2015,
-http://renewatlantabond.com/project/kipp-strive-primary-school/,06-2016,NA,NA,"$22,585",09-2016,Kipp Strive Primary School,11-2015,
-http://renewatlantabond.com/project/krog-street/,NA,NA,NA,"$00,000,000",NA,Krog Street,NA,
-http://renewatlantabond.com/project/la-famillia-de-pie/,NA,NA,NA,"$00,000,000",NA,La Famillia de Pie,NA,
-http://renewatlantabond.com/project/la-salle-way/,08-2015,NA,NA,"$34,670",02-2017,La Salle Way,06-2015,
-http://renewatlantabond.com/project/lake-avenue/,04-2016,NA,NA,"$215,605",02-2017,Lake Avenue,03-2016,
-http://renewatlantabond.com/project/lake-claire-park/,04-2016,NA,NA,"$466,585",09-2017,Lake Claire Park,04-2016,
-http://renewatlantabond.com/project/lakewood-avenue-claire-drive-2/,11-2017,NA,NA,"$200,000.00",10-2018,Lakewood Avenue @ Claire Drive,04-2016,
-http://renewatlantabond.com/project/lakewood-avenue-fleet-street-georgia-166-ramps-2/,12-2017,NA,NA,"$200,000.00",11-2018,Lakewood Avenue @ Fleet Street & Georgia 166 Ramps,04-2016,
-http://renewatlantabond.com/project/lakewood-avenue-macon-drive-lakewood-way-2/,11-2017,NA,NA,"$200,000.00",11-2018,Lakewood Avenue @ Macon Drive & Lakewood Way,04-2016,
-http://renewatlantabond.com/project/lakewood-avenue-sylvan-road-2/,11-2017,NA,NA,"$200,000.00",10-2018,Lakewood Avenue @ Sylvan Road,04-2016,
-http://renewatlantabond.com/project/lakewood-avenue/,05-2017,NA,NA,"$841,480",06-2017,Lakewood Avenue,05-2016,
-http://renewatlantabond.com/project/lakewood-way/,05-2017,NA,NA,"$461,525",06-2017,Lakewood Way,05-2016,
-http://renewatlantabond.com/project/landrum-drive/,05-2016,NA,NA,"$92,330",02-2017,Landrum Drive,04-2016,
-http://renewatlantabond.com/project/lang-carson-rec-center/,09-2016,NA,NA,"$244,234.00",06-2018,Lang Carson Recreation Center,09-2016,
-http://renewatlantabond.com/project/langston-avenue/,10-2015,NA,NA,"$251,470",02-2017,Langston Avenue,10-2015,
-http://renewatlantabond.com/project/larchwood-street/,08-2015,NA,NA,"$78,835",02-2017,Larchwood Street,06-2015,
-http://renewatlantabond.com/project/lawton-street/,12-2017,NA,NA,"$415,360",02-2018,Lawton Street,04-2016,
-http://renewatlantabond.com/project/lee-circle/,03-2018,NA,NA,"$800,000",09-2018,Lee Circle,03-2016,
-http://renewatlantabond.com/project/lee-street-white-oak-avenue-2/,12-2017,NA,NA,"$200,000",11-2018,Lee Street @ White Oak Avenue,04-2016,
-http://renewatlantabond.com/project/legends/,03-2017,NA,NA,"$10,000",06-2017,Legends,03-2015,
-http://renewatlantabond.com/project/lenox-road-2/,12-2017,Resurfacing from Cheshire Bridge Road to Johnson Road,NA,"$1,445,295",05-2018,"Lenox Road, Phase 2",04-2016,
-http://renewatlantabond.com/project/lenox-road-3/,06-2018,NA,NA,"$300,000",03-2019,Lenox Road Pedestrian Improvements,02-2017,
-http://renewatlantabond.com/project/lenox-road/,01-2018,Resurfacing from Cheshire Bridge Road to Johnson Road,NA,"$748,475",06-2018,"Lenox Road, Phase 1",04-2016,
-http://renewatlantabond.com/project/lenox-wildwood/,NA,NA,NA,"$00,000,000",NA,Lenox Wildwood Park,NA,
-http://renewatlantabond.com/project/lin-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Mary Lin Elementary School,11-2015,
-http://renewatlantabond.com/project/lindbergh-way-2/,08-2017,NA,NA,"$170,565",10-2017,"Lindbergh Way, Phase 2",05-2016,
-http://renewatlantabond.com/project/lindbergh-way/,08-2017,NA,NA,"$166,885",10-2017,"Lindbergh Way, Phase 1",05-2016,
-http://renewatlantabond.com/project/linden-avenue/,04-2017,NA,NA,"$260,180",06-2017,Linden Avenue,05-2016,
-http://renewatlantabond.com/project/litherland-court/,04-2016,NA,NA,"$21,960",02-2017,Litherland Court,04-2016,
-http://renewatlantabond.com/project/little-hampton-court/,04-2016,NA,NA,"$52,095",02-2017,Little Hampton Court,04-2016,
-http://renewatlantabond.com/project/long-middle-school/,04-2016,NA,NA,"$11,295",08-2016,Long Middle School,11-2015,
-http://renewatlantabond.com/project/loridans-drive/,11-2016,NA,NA,"$396,480",02-2017,Loridans Drive,05-2016,
-http://renewatlantabond.com/project/luckie-street-pine-street-2/,11-2017,NA,NA,"$200,000",10-2018,Luckie Street @ Pine Street,06-2016,
-http://renewatlantabond.com/project/lyndale-drive/,03-2018,NA,NA,"$850,000",09-2018,Lyndale Drive,03-2016,
-http://renewatlantabond.com/project/lynhurst-drive/,03-2017,NA,NA,"$532,100",04-2017,Lynhurst Drive,06-2015,
-http://renewatlantabond.com/project/m-l-king-jr-dr-2/,NA,NA,NA,"$00,000,000",NA,Martin Luther King Jr. Drive (TCC),NA,
-http://renewatlantabond.com/project/macon-drive-2/,10-2015,NA,NA,"$369,235",02-2017,Macon Drive,05-2016,
-http://renewatlantabond.com/project/macon-drive-old-hapeville-road-bromack-drive-2/,11-2017,NA,NA,"$190,000.00",10-2018,Macon Drive @ Old Hapeville Road & Bromack Drive,04-2016,
-http://renewatlantabond.com/project/main-street-roadway-construction/,03-2018,NA,NA,"$121,000",09-2018,Main Street,03-2016,
-http://renewatlantabond.com/project/margaret-mitchell-drive-2/,08-2017,NA,NA,"$716,370",11-2017,Margaret Mitchell Drive,07-2016,
-http://renewatlantabond.com/project/margaret-mitchell-square/,NA,NA,NA,"$00,000,000",NA,Margaret Mitchell Square,NA,
-http://renewatlantabond.com/project/marietta-blvd-2/,08-2017,NA,NA,"$1,402,596",07-2018,Marietta Boulevard (TCC),03-2016,
-http://renewatlantabond.com/project/marietta-boulevard-chattahoochee-avenue/,10-2015,NA,NA,"$87,760.00",04-2016,Marietta Boulevard @ Chattahoochee Avenue,09-2015,
-http://renewatlantabond.com/project/marietta-boulevard-coronet-way/,08-2017,NA,NA,"$87,760.00",07-2018,Marietta Boulevard @ Coronet Way,02-2016,
-http://renewatlantabond.com/project/marietta-road-perry-boulevard-johnson-road-2/,11-2017,NA,NA,"$200,000.00",10-2018,Marietta Road @ Perry Boulevard & Johnson Road,06-2016,
-http://renewatlantabond.com/project/marietta-street-andrew-young-international-boulevard-2/,11-2017,NA,NA,"$180,000.00",10-2018,Marietta Street @ Andrew Young International Boulevard,06-2016,
-http://renewatlantabond.com/project/marietta-street-foundry-street-2/,10-2017,NA,NA,"$180,000.00",10-2018,Marietta Street @ Foundry Street,06-2016,
-http://renewatlantabond.com/project/marietta-street/,02-2018,NA,NA,"$1,546,210",06-2018,Marietta Street,04-2016,
-http://renewatlantabond.com/project/marion-avenue/,06-2017,NA,NA,"$200,885",09-2017,Marion Avenue,07-2016,
-http://renewatlantabond.com/project/marktwo-place-roadway-construction/,03-2018,NA,NA,"$485,000",09-2018,Marktwo Place,03-2016,
-http://renewatlantabond.com/project/martin-l-king-jr-drive-i-285-nb-ramp-2/,NA,NA,NA,"$00,000,000",NA,Martin Luther King Jr. Drive @ I-285 N/B Ramp,NA,
-http://renewatlantabond.com/project/martin-l-king-jr-drive-peachtree-street-2/,NA,NA,NA,"$00,000,000",NA,Martin Luther King Jr. Drive @ Peachtree Street,NA,
-http://renewatlantabond.com/project/martin-l-king-jr-drive-pryor-street-2/,NA,NA,NA,"$00,000,000",NA,Martin Luther King Jr. Drive @ Pryor Street,NA,
-http://renewatlantabond.com/project/martin-l-king-jr-drive/,11-2019,NA,NA,"$53,407,933",12-2021,Martin Luther King Jr. Drive Bridge,11-2016,
-http://renewatlantabond.com/project/martin-luther-king-jr-middle-school/,04-2016,NA,NA,"$11,295",08-2016,Martin Luther King Jr. Middle School,11-2015,
-http://renewatlantabond.com/project/mays-crossing/,08-2015,NA,NA,"$68,735",02-2017,Mays Crossing,06-2015,
-http://renewatlantabond.com/project/mayson-street/,04-2017,NA,NA,"$149,795",05-2017,Mayson Street,05-2014,
-http://renewatlantabond.com/project/mcafee-street/,08-2017,NA,NA,"$30,175",10-2017,McAfee Street,07-2016,
-http://renewatlantabond.com/project/mcclatchy-park/,NA,NA,NA,"$00,000,000",NA,McClatchy Park,NA,
-http://renewatlantabond.com/project/mcdaniel-street-2/,10-2017,NA,NA,"$930,172",10-2018,McDaniel Street (TCC),04-2016,
-http://renewatlantabond.com/project/mcdaniel-street-peters-street-2/,NA,NA,NA,"$00,000,000",NA,McDaniel Street @ Peters Street,NA,
-http://renewatlantabond.com/project/meeting-of-the-elders/,NA,NA,NA,"$00,000,000",NA,Meeting of the Elders,NA,
-http://renewatlantabond.com/project/memorial-carpets-panels-and-books/,03-2015,NA,NA,"$75,000",08-2017,Memorial,03-2015,
-http://renewatlantabond.com/project/memorial-drive-maynard-terrace-wyman-street-2/,11-2017,NA,NA,"$200,000.00",10-2017,Memorial Drive @ Maynard Terrace & Wyman Street,04-2016,
-http://renewatlantabond.com/project/midtown-neighborhood-improvements/,09-2017,NA,NA,"$500,000",04-2018,Midtown Neighborhood Improvements,02-2017,
-http://renewatlantabond.com/project/miles-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Miles Elementary School,11-2015,
-http://renewatlantabond.com/project/mims-street/,07-2017,NA,NA,"$383,605",10-2017,Mims Street,07-2016,
-http://renewatlantabond.com/project/ml-king-jr-drive/,02-2018,NA,NA,"$2,385,150",04-2018,Martin Luther King Jr. Drive,07-2016,
-http://renewatlantabond.com/project/mlk-jr-natatorium/,07-2016,NA,NA,"$17,000,000",12-2017,Martin Luther King Jr. Natatorium,06-2015,
-http://renewatlantabond.com/project/monroe-drive-amsterdam-avenue-2/,04-2018,NA,NA,"$200,000.00",11-2018,Monroe Drive @ Amsterdam Avenue,05-2016,
-http://renewatlantabond.com/project/monroe-drive-armour-drive-2/,04-2018,NA,NA,"$200,000.00",11-2018,Monroe Drive @ Armour Drive,05-2016,
-http://renewatlantabond.com/project/monroe-drive-buford-highway-nb-ramps-2/,04-2018,NA,NA,"$200,000.00",11-2018,Monroe Drive @ Buford Highway N/B Ramps,05-2016,
-http://renewatlantabond.com/project/monroe-drive-park-drive-2/,04-2018,NA,NA,"$200,000.00",11-2018,Monroe Drive @ Park Drive,05-2016,
-http://renewatlantabond.com/project/monroe-driveboulevard/,05-2019,NA,NA,"$4,514,488.00",04-2020,Monroe Drive/Boulevard Complete Street Project,05-2016,
-http://renewatlantabond.com/project/monroeboulevard-2/,07-2017,NA,NA,"$2,240,258",10-2018,Monroe/Boulevard (TCC),05-2016,
-http://renewatlantabond.com/project/montgomery-ferry-drive/,12-2017,NA,NA,"$245,645",05-2018,"Montgomery Ferry Drive, Phase 1",04-2016,
-http://renewatlantabond.com/project/montgomery-ferry-road/,12-2017,NA,NA,"$287,295",05-2018,"Montgomery Ferry Drive, Phase 2",04-2016,
-http://renewatlantabond.com/project/moores-mill-road-w-wesley-road/,05-2017,NA,NA,"$250,000.00",11-2017,Moores Mill Road @ West Wesley Road,01-2016,
-http://renewatlantabond.com/project/moreland-avenue-eastland-road-sunshine-plaza-driveway-2/,NA,NA,NA,"$00,000,000",NA,Moreland Avenue @ Eastland Road & Sunshine Plaza Driveway,NA,
-http://renewatlantabond.com/project/moreland-avenue-mcdonough-boulevard-2/,NA,NA,NA,"$00,000,000",NA,Moreland Avenue @ McDonough Boulevard,NA,
-http://renewatlantabond.com/project/morningside-elementary-school/,06-2016,NA,NA,"$11,295",09-2016,Morningside Elementary School,11-2015,
-http://renewatlantabond.com/project/morris-street/,04-2017,NA,NA,"$123,655",05-2017,Morris Street,05-2016,
-http://renewatlantabond.com/project/mountain-way/,09-2017,NA,NA,"$299,150",11-2017,Mountain Way,07-2016,
-http://renewatlantabond.com/project/mt-paran-road-northside-parkway/,03-2018,NA,NA,"$1,304,536.00",05-2018,Mount Paran Road @ Northside Parkway,04-2016,
-http://renewatlantabond.com/project/mt-paran-road-randall-mill-conway-drive/,03-2018,NA,NA,"$1,276,700.00",05-2018,Mount  Paran Road @ Randall Mill & Conway Drive,04-2016,
-http://renewatlantabond.com/project/murphy-avenue/,10-2015,NA,NA,"$383,945",02-2016,Murphy Avenue,05-2016,
-http://renewatlantabond.com/project/muse-street-2/,08-2017,NA,NA,"$121,110",10-2017,Muse Street,07-2016,
-http://renewatlantabond.com/project/muse-street/,08-2017,NA,NA,"$121,110",10-2017,Muse Street,07-2016,
-http://renewatlantabond.com/project/musical-playscape/,NA,NA,NA,"$00,000,000",NA,Musical Playscape,NA,
-http://renewatlantabond.com/project/my-spirit-is-changing/,NA,NA,NA,"$00,000,000",NA,My Spirit is Changing,NA,
-http://renewatlantabond.com/project/neighborhood-charter-school/,04-2016,NA,NA,"$11,295",08-2016,Neighborhood Charter School,11-2015,
-http://renewatlantabond.com/project/nelson-street-pedestrian/,02-2018,NA,NA,"$2,301,801",02-2018,Nelson Street Pedestrian Bridge,12-2016,
-http://renewatlantabond.com/project/new-endings/,07-2017,NA,NA,"$29,000",09-2017,New Endings,03-2015,
-http://renewatlantabond.com/project/newman-place-roadway-construction/,03-2018,NA,NA,"$211,000",09-2018,Newman Place,03-2016,
-http://renewatlantabond.com/project/niskey-lake-road/,08-2017,NA,NA,"$62,365",02-2017,Niskey Lake Road,07-2016,
-http://renewatlantabond.com/project/north-angier-avenue/,05-2017,NA,NA,"$234,195",06-2017,North Angier Avenue,04-2016,
-http://renewatlantabond.com/project/north-avenue-2/,02-2018,NA,NA,"$1,863,810",05-2019,North Avenue (TCC),05-2016,
-http://renewatlantabond.com/project/north-avenue-3/,07-2017,NA,NA,"$1,625,000",NA,North Avenue,10-2015,
-http://renewatlantabond.com/project/north-camp-creek-pkwy/,04-2017,NA,NA,"$361,685",06-2017,North Camp Creek Parkway,05-2016,
-http://renewatlantabond.com/project/north-ivy-road/,09-2017,NA,NA,"$498,225",11-2017,North Ivy Road,07-2016,
-http://renewatlantabond.com/project/north-morningside-drive/,05-2017,NA,NA,"$308,900",08-2017,North Morningside Drive,07-2016,
-http://renewatlantabond.com/project/northside-drive-moores-mill-road-2/,11-2017,NA,NA,"$200,000.00",10-2018,Northside Drive @ Moores Mill Road,06-2016,
-http://renewatlantabond.com/project/northwest-drive/,04-2017,NA,NA,"$484,805",05-2017,Northwest Drive,05-2016,
-http://renewatlantabond.com/project/not-to-scale/,03-2017,NA,NA,"$35,000",04-2017,Not to Scale,03-2015,
-http://renewatlantabond.com/project/oakdale-road-fairview-road-2/,11-2017,NA,NA,"$200,000.00",10-2018,Oakdale Road @ Fairview Road,06-2016,
-http://renewatlantabond.com/project/oakdale-road/,12-2017,NA,NA,"$45,960",02-2018,Oakdale Road,07-2016,
-http://renewatlantabond.com/project/oakland-city-rec-center-at-rev-james-orange-park/,NA,NA,NA,"$00,000,000",NA,Oakland City Recreation Center at Rev. James Orange Park,NA,
-http://renewatlantabond.com/project/oakshire-way/,04-2016,NA,NA,"$145,450.00 ",12-2016,Oakshire Way,04-2016,
-http://renewatlantabond.com/project/old-chattahoochee-ave-phase-2/,07-2017,NA,NA,"$236,920",08-2017,"Old Chattahoochee Avenue, Phase 2",05-2016,
-http://renewatlantabond.com/project/old-chattahoochee-avenue/,05-2017,NA,NA,"$100,335",07-2017,"Old Chattahoochee Avenue, Phase 1",07-2016,
-http://renewatlantabond.com/project/old-fourth-neighborhood-improvements/,09-2017,NA,NA,"$500,000",04-2018,Old Fourth Neighborhood Improvements,02-2017,
-http://renewatlantabond.com/project/old-gordon-road/,05-2017,NA,NA,"$350,920",06-2017,Old Gordon Road,05-2016,
-http://renewatlantabond.com/project/old-hapeville-road/,10-2015,NA,NA,"$151,775",02-2017,Old Hapeville Road,10-2015,
-http://renewatlantabond.com/project/old-ivy-rd/,07-2017,NA,NA,"$949,301",11-2017,Old Ivy Road Pedestrian Improvements,03-2017,
-http://renewatlantabond.com/project/old-ivy-road/,12-2017,NA,NA,"$526,265.00",05-2018,Old Ivy Road,04-2016,
-http://renewatlantabond.com/project/oldknow-drive-sidewalk-north/,09-2017,NA,NA,"$108,000",02-2018,OldKnow Drive Sidewalk Improvements,04-2017,
-http://renewatlantabond.com/project/our-city/,NA,NA,NA,"$00,000,000",NA,Our City,NA,
-http://renewatlantabond.com/project/our-tree/,09-2016,NA,NA,"$16,000",12-2016,Tree of Life and Kan,03-2015,
-http://renewatlantabond.com/project/overlook-court/,10-2016,NA,NA,"$26,580",02-2017,Overlook Court,09-2016,
-http://renewatlantabond.com/project/paces-ferry-road/,NA,NA,NA,$,NA,Paces Ferry Road,NA,
-http://renewatlantabond.com/project/parkway-drive-linden-avenue-2/,11-2017,NA,NA,"$200,000.00",10-2018,Parkway Drive @ Linden Avenue,06-2016,
-http://renewatlantabond.com/project/peace-monument/,NA,NA,NA,"$00,000,000",NA,Peace Monument,NA,
-http://renewatlantabond.com/project/peachtree-battle/,10-2017,NA,NA,"$823,025",12-2017,Peachtree Battle Avenue,07-2016,
-http://renewatlantabond.com/project/peachtree-dunwoody-road/,04-2016,NA,NA,"$419,100",02-2017,Peachtree Dunwoody Road,04-2016,
-http://renewatlantabond.com/project/peachtree-hill-rec-center/,06-2016,NA,NA,"$285,000",12-2017,Peachtree Hill Recreation Center,06-2016,
-http://renewatlantabond.com/project/peachtree-hills-rec-center-tile-mosaic/,NA,NA,NA,$,NA,Peachtree Hills Recreation Center Mural,NA,
-http://renewatlantabond.com/project/peachtree-street-2/,06-2017,NA,NA,"$2,434,693",05-2018,Peachtree Street (TCC),08-2016,
-http://renewatlantabond.com/project/peachtree-street-garnett-street-2/,01-2018,NA,NA,"$200,000.00",12-2018,Peachtree Street @ Garnett Street,02-2017,
-http://renewatlantabond.com/project/peachtree-streetroad/,NA,NA,NA,"$00,000,000",NA,Peachtree Street/Road,NA,
-http://renewatlantabond.com/project/pedestrian-bridge-from-the-government-parking-deck-to-the-municipal-court-over-central-ave/,09-2017,NA,NA,"$1,300,000",06-2018,Municipal Court Pedestrian Bridge,10-2015,
-http://renewatlantabond.com/project/perkerson-elementary-school/,04-2016,NA,NA,"$22,585",08-2016,Perkerson Elementary School,11-2015,
-http://renewatlantabond.com/project/phoenix/,06-2017,NA,NA,"$65,000",08-2017,Phoenix,03-2015,
-http://renewatlantabond.com/project/piedmont-ave-2/,06-2017,NA,NA,"$1,166,317",05-2018,Piedmont Avenue (TCC),08-2016,
-http://renewatlantabond.com/project/piedmont-ave/,NA,NA,NA,"$00,000,000",NA,Piedmont Ave,NA,
-http://renewatlantabond.com/project/piedmont-road/,03-2018,NA,NA,"$692,760",05-2018,Piedmont Road,07-2016,
-http://renewatlantabond.com/project/pine-street/,08-2017,NA,NA,"$162,635",11-2017,Pine Street,07-2016,
-http://renewatlantabond.com/project/plumbing-upgrade-exterior-lighting-fencing-repair/,04-2016,NA,NA,"$282,328.00",04-2018,Fire Station 38,09-2015,
-http://renewatlantabond.com/project/polar-rock-road/,10-2017,NA,NA,"$363,680",12-2017,Polar Rock Road,07-2016,
-http://renewatlantabond.com/project/polo-drive/,04-2017,NA,NA,"$214,670",06-2017,Polo Drive,05-2016,
-http://renewatlantabond.com/project/pouncey-highland-neighborhood-improvements/,08-2017,NA,NA,"$500,000",02-2018,Pouncey-Highland Neighborhood Improvements,11-2016,
-http://renewatlantabond.com/project/powers-ferry-road/,08-2017,NA,NA,"$2,496,997",04-2018,Powers Ferry Road Bridge,10-2015,
-http://renewatlantabond.com/project/pryor-road-claire-drive-pryor-circle-2/,11-2017,NA,NA,"$200,000.00",10-2018,Pryor Road @ Claire Drive & Pryor Circle,04-2016,
-http://renewatlantabond.com/project/pryor-road-fair-drive-2/,12-2017,NA,NA,"$200,000.00",11-2018,Pryor Road @ Fair Drive,04-2016,
-http://renewatlantabond.com/project/pryor-street-underground-atlanta-crosswalk-2/,01-2018,NA,NA,"$200,000.00",12-2018,Pryor Street @ Underground Atlanta Crosswalk,02-2017,
-http://renewatlantabond.com/project/public-safety-academies/,NA,NA,NA,"$00,000,000",NA,Public Safety Academies,NA,
-http://renewatlantabond.com/project/public-safety-vic/,01-2017,NA,NA,"$419,998",04-2017,Video Integration Center Storage,08-2015,
-http://renewatlantabond.com/project/r-d-abernathy-drive/,NA,NA,NA,"$00,000,000",NA,Ralph David Abernathy Boulevard Complete Street Project,NA,
-http://renewatlantabond.com/project/r-d-abernathygeorgia-ave-2/,10-2017,NA,NA,"$1,110,889",10-2018,Ralph David Abernathy/Georgia Avenue (TCC),04-2016,
-http://renewatlantabond.com/project/redbud-lane/,08-2015,NA,NA,"$31,605",02-2017,Redbud Lane,06-2015,
-http://renewatlantabond.com/project/regency-center-drive/,07-2016,NA,NA,"$275,455",02-2017,Regency Center Drive,07-2016,
-http://renewatlantabond.com/project/regency-crest-court/,07-2016,NA,NA,"$62,870",02-2017,Regency Crest Court,07-2016,
-http://renewatlantabond.com/project/regency-crest-drive/,07-2016,NA,NA,"$94,455",02-2017,Regency Crest Drive,07-2016,
-http://renewatlantabond.com/project/repair-roof-leaks-water-stained-celling-tiles-and-correct-life-safety-items/,04-2016,NA,NA,$455.963.00,03-2017,Fire Station 3,09-2015,
-http://renewatlantabond.com/project/reunion-place/,NA,NA,NA,"$00,000,000",NA,Reunion Place,NA,
-http://renewatlantabond.com/project/richland-road/,10-2017,NA,NA,"$468,655",01-2018,Richland Road,07-2016,
-http://renewatlantabond.com/project/rivers-elementary-school-2/,06-2016,NA,NA,"$22,585",09-2016,E. Rivers Elementary School,11-2015,
-http://renewatlantabond.com/project/roof-drain-clean-out-and-soffit-repairs/,05-2016,NA,NA,"$440,713.00",02-2018,Fire Station 17,09-2015,
-http://renewatlantabond.com/project/roof-replacement/,10-2015,NA,NA,"$900,000",02-2017,City Hall Roof Replacement,08-2015,
-http://renewatlantabond.com/project/rosalia-street/,07-2017,NA,NA,"$91,930",09-2017,Rosalia Street,07-2016,
-http://renewatlantabond.com/project/rosel-fann-community-center/,03-2017,NA,NA,"$812,000",03-2018,Rosel Fann Community Center,10-2015,
-http://renewatlantabond.com/project/ruby-harper-blvd/,03-2017,NA,NA,"$532,965",05-2017,Ruby Harper Boulevard,05-2016,
-http://renewatlantabond.com/project/rutgers-drive/,08-2015,NA,NA,"$31,215",02-2017,Rutgers Drive,06-2015,
-http://renewatlantabond.com/project/scott-elementary-school/,04-2016,NA,NA,"$22,585",08-2016,Scott Elementary School,11-2015,
-http://renewatlantabond.com/project/shango-y-eshu-elegba-en-la-corta-de-atlanta/,NA,NA,NA,"$00,000,000",NA,Shango y Eshu-Elegba En La Corta De Atlanta,NA,
-http://renewatlantabond.com/project/smith-elementary-school/,06-2016,NA,NA,"$11,295",09-2016,Sarah Smith Elementary School (Primary Campus),11-2015,
-http://renewatlantabond.com/project/smith-intermediate-school/,04-2016,NA,NA,"$11,295",08-2016,Sarah Smith Elementary School (Intermediate Campus),11-2015,
-http://renewatlantabond.com/project/south-atlanta-computer-animation-design-school/,06-2016,NA,NA,"$00,000,000",09-2016,South Atlanta Computer Animation & Design School,11-2015,
-http://renewatlantabond.com/project/south-atlanta-high-school/,07-2016,NA,NA,"$9,270.00",08-2016,South Atlanta High School,05-2016,
-http://renewatlantabond.com/project/south-gordon-road/,08-2015,NA,NA,"$266,170",02-2017,South Gordon Road,06-2015,
-http://renewatlantabond.com/project/southside-industrial-court/,03-2017,NA,NA,"$230,155",05-2017,Southside Industrial Court,05-2016,
-http://renewatlantabond.com/project/southside-industrial-parkway/,04-2017,NA,NA,"$1,888,350",05-2017,Southside Industrial Parkway,05-2016,
-http://renewatlantabond.com/project/southside-industrial-way/,05-2017,NA,NA,"$47,515",06-2017,Southside Industrial Way,05-2016,
-http://renewatlantabond.com/project/spellman-street/,07-2017,NA,NA,"$31,265",01-2018,Spellman Street,07-2016,
-http://renewatlantabond.com/project/spring-lake-court/,11-2015,NA,NA,"$45,500",02-2017,Spring Lake Court,09-2015,
-http://renewatlantabond.com/project/spring-street-phase-1/,01-2018,NA,Resurfacing from 5th Street to 14th Street,"$668,565",04-2018,"Spring Street, Phase 1",07-2016,
-http://renewatlantabond.com/project/spring-street-phase-2/,07-2016,NA,Resurfacing from 5th Street to 14th Street,"$463,570",06-2018,"Spring Street, Phase 2",07-2016,
-http://renewatlantabond.com/project/springdale-park-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Springdale Park Elementary School,11-2015,
-http://renewatlantabond.com/project/springdale-place/,09-2017,NA,NA,"$86,065",11-2017,Springdale Place,07-2016,
-http://renewatlantabond.com/project/springdale-road/,09-2017,NA,NA,"$895,100",12-2017,Springdale Road,07-2016,
-http://renewatlantabond.com/project/stanton-road/,07-2017,NA,NA,"$222,235",10-2017,Stanton Road,07-2016,
-http://renewatlantabond.com/project/station-25/,02-2017,NA,NA,"$367,245.00",06-2017,Fire Station 25,09-2015,
-http://renewatlantabond.com/project/station-26/,04-2016,NA,NA,"$258,978.00",10-2017,Fire Station 26,09-2015,
-http://renewatlantabond.com/project/station-27/,04-2016,NA,NA,"$147,584.92",03-2018,Fire Station 27,09-2015,
-http://renewatlantabond.com/project/station-30-shutdown/,11-2015,NA,NA,"$409,717",07-2017,Fire Station 30,11-2015,
-http://renewatlantabond.com/project/stokes-avenue/,08-2015,NA,NA,"$111,070",02-2017,Stokes Avenue,06-2015,
-http://renewatlantabond.com/project/stone-hogan-connector/,05-2017,NA,NA,"$634,020",07-2017,Stone Hogan Connector,07-2016,
-http://renewatlantabond.com/project/stranton-trace/,07-2016,NA,NA,"$27,675",02-2017,Straton Trace,07-2016,
-http://renewatlantabond.com/project/structural-damage-electrical-mechanical-upgrades-and-painting/,09-2015,NA,NA,"$262,328.00",06-2018,Fire Station 9,09-2015,
-http://renewatlantabond.com/project/summerhill-rebirth/,NA,NA,NA,"$00,000,000",NA,Summerhill Rebirth,NA,
-http://renewatlantabond.com/project/sunset-avenue/,07-2017,NA,NA,"$418,900",10-2017,Sunset Avenue,07-2016,
-http://renewatlantabond.com/project/sutton-middle-school/,04-2016,NA,NA,"$11,295",08-2016,Sutton Middle School,11-2015,
-http://renewatlantabond.com/project/sydney-street/,05-2017,NA,NA,"$259,560",07-2017,Sydney Street,05-2016,
-http://renewatlantabond.com/project/sylvan-hills-middle-school/,04-2016,NA,NA,"$22,585",08-2016,Sylvan Hills Middle School,11-2015,
-http://renewatlantabond.com/project/sylvan-road-2/,12-2017,NA,NA,"$802,562",12-2018,Sylvan Road (TCC),04-2016,
-http://renewatlantabond.com/project/sylvan-road-deckner-avenue-brewer-boulevard-2/,11-2017,NA,NA,"$200,000.00",10-2018,Sylvan Road @ Deckner Avenue & Brewer Boulevard,04-2016,
-http://renewatlantabond.com/project/the-horn-section/,NA,NA,NA,"$00,000,000",NA,The Horn Section,NA,
-http://renewatlantabond.com/project/the-kindezi-school/,04-2016,NA,NA,"$11,295",08-2016,The Kindezi School,11-2015,
-http://renewatlantabond.com/project/the-last-meter/,NA,NA,NA,"$00,000,000",NA,The Last Meter,NA,
-http://renewatlantabond.com/project/threshold/,08-2016,NA,NA,"$40,000",04-2017,Threshold,03-2015,
-http://renewatlantabond.com/project/toomer-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Toomer Elementary School,11-2015,
-http://renewatlantabond.com/project/tower-of-time/,03-2017,NA,NA,"$12,000",07-2017,Tower of Time,03-2015,
-http://renewatlantabond.com/project/towns-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Towns Elementary School,11-2015,
-http://renewatlantabond.com/project/travis-street/,07-2017,NA,NA,"$65,050",10-2017,Travis Street,07-2016,
-http://renewatlantabond.com/project/tye-street/,09-2017,NA,NA,"$53,000",02-2018,Tye Street Sidewalk Improvements,04-2017,
-http://renewatlantabond.com/project/university-ave/,NA,NA,NA,"$00,000,000",NA,University Ave,NA,
-http://renewatlantabond.com/project/untitled-childrens-mural/,NA,NA,NA,"$00,000,000",NA,Untitled Children’s Mural,NA,
-http://renewatlantabond.com/project/untitled-kinetic-sculpture/,12-2016,NA,NA,"$8,500",01-2017,Untitled Kinetic Sculpture,03-2015,
-http://renewatlantabond.com/project/urban-path/,03-2017,NA,NA,"$67,000",05-2017,Urban Path,03-2015,
-http://renewatlantabond.com/project/valleydale-drive-2/,08-2015,NA,NA,"$62,210",02-2017,Valleydale Drive,06-2015,
-http://renewatlantabond.com/project/verbena-street/,07-2017,NA,NA,"$297,730",09-2017,Verbena Street,07-2016,
-http://renewatlantabond.com/project/video-integration-center-cctv-expansion/,02-2017,NA,NA,"$2,455,000",12-2019,Video Integration Center CCTV Expansion,10-2015,
-http://renewatlantabond.com/project/video-integration-center-network-upgrades/,06-2017,NA,NA,"$180,000",09-2017,Video Integration Center Network Upgrades,12-2015,
-http://renewatlantabond.com/project/video-integration-center/,05-2016,NA,NA,"$450,000.00",09-2016,Video Integration Center Wall/Workstation,09-2015,
-http://renewatlantabond.com/project/washington-banking-finance-investments-school/,04-2016,NA,NA,"$22,585",08-2016,Washington High School,11-2015,
-http://renewatlantabond.com/project/waterford-road/,08-2015,NA,NA,"$111,470",02-2017,Waterford Road,06-2015,
-http://renewatlantabond.com/project/waterproofing/,11-2015,NA,NA,"$2,000,000",02-2017,City Hall Waterproofing,09-2015,
-http://renewatlantabond.com/project/west-end-park/,NA,NA,NA,"$00,000,000",NA,West End Park,NA,
-http://renewatlantabond.com/project/west-lake-park/,NA,NA,NA,"$00,000,000",NA,West Lake Park,NA,
-http://renewatlantabond.com/project/west-marietta-st-2/,08-2017,NA,NA,"$1,168,830",07-2018,West Marietta Street  (TCC),03-2016,
-http://renewatlantabond.com/project/west-paces-ferry-road/,04-2016,NA,NA,"$470,360",12-2016,West Paces Ferry Road,04-2016,
-http://renewatlantabond.com/project/west-wieuca-road-2/,01-2018,Resurfacing from Wieuca Road to Lake Forrest Drive,NA,"$565,700",03-2018,"West Wieuca Road, Phase 3",07-2016,
-http://renewatlantabond.com/project/west-wieuca-road-3/,01-2018,Resurfacing from Wieuca Road to Lake Forrest Drive,NA,"$268,040",03-2018,"West Wieuca Road, Phase 2",07-2016,
-http://renewatlantabond.com/project/west-wieuca-road/,12-2017,Resurfacing from Wieuca Road to Lake Forrest Drive,NA,"$325,665",03-2018,"West Wieuca Road, Phase 1",07-2016,
-http://renewatlantabond.com/project/westminister-drive/,09-2017,NA,NA,"$470,000",12-2017,Westminister Drive,07-2016,
-http://renewatlantabond.com/project/whitaker-circle/,07-2017,NA,NA,"$255,735",10-2017,Whitaker Circle,07-2016,
-http://renewatlantabond.com/project/whitaker-street/,08-2017,NA,NA,"$46,750",10-2017,Whitaker Street,07-2016,
-http://renewatlantabond.com/project/whitefoord-elementary-school/,04-2016,NA,NA,"$11,295",08-2016,Whitefoord Elementary School,11-2015,
-http://renewatlantabond.com/project/why-x-why/,05-2016,NA,NA,"$28,000",03-2016,Why X Why,03-2015,
-http://renewatlantabond.com/project/wieuca-road/,12-2017,NA,NA,"$766,055.00",05-2018,Wieuca Road,04-2016,
-http://renewatlantabond.com/project/williams-street/,03-2018,NA,NA,"$165,090",06-2018,Williams Street,07-2016,
-http://renewatlantabond.com/project/willis-mill-road/,NA,NA,NA,"$00,000,000",NA,Willis Mill Road,NA,
-http://renewatlantabond.com/project/wilson-road/,05-2017,NA,NA,"$129,980",07-2017,Wilson Road,05-2016,
-http://renewatlantabond.com/project/york-avenue/,NA,NA,NA,"$206,520",01-2018,York Avenue,NA,
+project_name,project_type,pct_complete,project_budget,project_start,construction_start,project_completion,project_page,project_budget_error_flag,project_status
+10th Street (TCC),Traffic Signals,,,,,,http://renewatlantabond.com/project/10th-street-2/,TRUE,Not Started
+10th Street,Roadways,0.01,740845.0,2016-04-01,2016-06-01,2017-02-01,http://renewatlantabond.com/project/10th-street-3/,FALSE,In Process
+14th Street (TCC),Traffic Signals,,467532.0,2016-06-01,2017-10-01,2018-10-01,http://renewatlantabond.com/project/14th-street-2/,FALSE,Not Started
+"14th Street, Phase 3",Roadways,,353805.0,2016-05-01,2017-08-01,2017-10-01,http://renewatlantabond.com/project/14th-street-3/,FALSE,Not Started
+"14th Street, Phase 2",Roadways,,286105.0,2016-05-01,2017-07-01,2017-09-01,http://renewatlantabond.com/project/14th-street-5/,FALSE,Not Started
+14th Street @ Howell Mill Road,Traffic Signals,0.12,2e5,2015-08-01,2017-07-01,2018-06-01,http://renewatlantabond.com/project/14th-street-howell-mill-road-2/,FALSE,In Process
+"14th Street, Phase 1",Roadways,,308695.0,2016-01-01,2018-01-01,2018-03-01,http://renewatlantabond.com/project/14th-street-phase-1/,FALSE,Not Started
+18th Street,Roadways,,77725.0,2016-07-01,2017-07-01,2017-11-01,http://renewatlantabond.com/project/18th-street/,FALSE,Not Started
+2 City Plaza,Public Buildings,0.9500000000000001,275705.0,2015-06-01,2015-06-01,2016-07-01,http://renewatlantabond.com/project/2-city-plaza-2/,FALSE,In Process
+6th Street,Roadways,,28e4,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/6th-street/,FALSE,Not Started
+"8th Street, Phase 2",Roadways,,190555.0,2016-07-01,2018-04-01,2018-06-01,http://renewatlantabond.com/project/8th-street-phase-2/,FALSE,Not Started
+"8th Street, Phase 1",Roadways,,129785.0,2016-07-01,2017-06-01,2017-08-01,http://renewatlantabond.com/project/8th-street/,FALSE,Not Started
+AD Williams Recreation Center,Parks and Recreation,,,,,,http://renewatlantabond.com/project/ad-williams-rec-center/,TRUE,Not Started
+ADA Ramp & Sidewalk Replacement Program,ADA and Sidewalks,0.01,485e4,2016-04-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/ada-ramp-sidewalk-replacement-program/,FALSE,In Process
+Fire Station 5,Public Safety,0.01,23e4,2015-09-01,2016-05-01,2017-02-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-and-structural-repairs-lighting-repairs/,FALSE,In Process
+Fire Station 4,Public Safety,,318868.0,2015-09-01,2015-09-01,2018-02-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-and-structural-repairs/,FALSE,Not Started
+Fire Station 23,Public Safety,0.01,138e3,2015-09-01,2016-04-01,2018-03-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-interiorexterior-finishes-lighting-repairs-2/,FALSE,In Process
+Fire Station 31,Public Safety,,465018.0,2015-10-01,2015-10-01,2017-06-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-10/,FALSE,Not Started
+Fire Station 19,Public Safety,,605201.0,2015-09-01,2015-09-01,2017-11-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-2/,FALSE,Not Started
+Fire Station 10,Public Safety,0.05,694851.0,2015-09-01,2016-03-01,2017-08-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-3/,FALSE,In Process
+Fire Station 20,Public Safety,0.01,2e5,2015-09-01,2016-04-01,2017-07-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-4/,FALSE,In Process
+Fire Station 8,Public Safety,0.01,307328.0,2015-09-01,2016-04-01,2017-03-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-5/,FALSE,In Process
+Fire Station 12,Public Safety,0.05,351328.0,2015-09-01,2016-03-01,2017-09-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-6/,FALSE,In Process
+Fire Station 1,Public Safety,,618450.0,2015-10-01,2015-10-01,2017-10-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-7/,FALSE,Not Started
+Fire Station 14,Public Safety,0.01,962762.0,2015-09-01,2016-08-01,2017-09-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-8/,FALSE,In Process
+Fire Station 21,Public Safety,0.01,455963.0,2015-09-01,2016-04-01,2018-03-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades-9/,FALSE,In Process
+Fire Station 2,Public Safety,0.01,645149.0,2015-09-01,2016-05-01,2016-12-01,http://renewatlantabond.com/project/ada-upgrades-airvac-kitchen-renovations-roof-repairs-interiorexterior-finishes-hvac-controls-locker-upgrades/,FALSE,In Process
+Zone 4 Police Precinct,Public Safety,,129151.0,2016-01-01,2016-01-01,2017-06-01,http://renewatlantabond.com/project/ada-upgrades-hvac-and-plumbing-exterior-lighting/,FALSE,Not Started
+Fire Station 29,Public Safety,0.06,282328.0,2015-09-01,2016-03-01,2017-10-01,http://renewatlantabond.com/project/ada-upgrades-plumbing-repairs-and-hvac-controls/,FALSE,In Process
+Adams Park,,,,,,,http://renewatlantabond.com/project/adams-park/,TRUE,Not Started
+Adamsville Recreation Center,Parks and Recreation,,,,,,http://renewatlantabond.com/project/adamsville-rec-center/,TRUE,Not Started
+Alonzo Crim High School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/alonzo-crim-high-school-burgess%e2%80%90-peterson-academy/,FALSE,Completed
+Alston Drive @ Candler Road,Traffic Signals,0.02,2e5,2016-04-01,2017-12-01,2018-12-01,http://renewatlantabond.com/project/alston-drive-candler-road-2/,FALSE,In Process
+Alvarado Terrace,Roadways,1.0,41585.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/alvarado-terrace/,FALSE,Completed
+Anchored Sail,,,,,,,http://renewatlantabond.com/project/anchored-sail/,TRUE,Not Started
+Andrew Young Tribute Plaza,Public Art Program,,77e3,2015-03-01,2015-03-01,2017-07-01,http://renewatlantabond.com/project/andrew-young-tribute-plaza/,FALSE,Not Started
+Architect For the Future,,,,,,,http://renewatlantabond.com/project/architect-for-the-future/,TRUE,Not Started
+Ardley Road,Roadways,1.0,41865.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/ardley-road/,FALSE,Completed
+Ardwick Court,Roadways,0.98,16340.0,2016-04-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/ardwick-court/,FALSE,In Process
+Atlanta Avenue (TCC),Traffic Signals,,525974.0,2016-04-01,2017-12-01,2018-12-01,http://renewatlantabond.com/project/atlanta-avenue-tcc/,FALSE,Not Started
+Atlanta Classical Academy,School Zone Beacons,1.0,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/atlanta-classical-academy/,FALSE,Completed
+Atlanta From the Ashes,,,,,,,http://renewatlantabond.com/project/atlanta-from-the-ashes/,TRUE,Not Started
+Auburn Historical Plaques,,,,,,,http://renewatlantabond.com/project/auburn-historical-plaques/,TRUE,Not Started
+Aurora Avenue,Roadways,,141750.0,2016-07-01,2017-07-01,2017-11-01,http://renewatlantabond.com/project/aurora-avenue/,FALSE,Not Started
+Avon Avenue @ Westmont Road & Orlando Street,Traffic Signals,0.02,2e5,2016-04-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/avon-avenue-westmont-road-orlando-street-2/,FALSE,In Process
+Avon Avenue,Roadways,0.9500000000000001,372230.0,2015-10-01,2015-10-01,2017-02-01,http://renewatlantabond.com/project/avon-avenue/,FALSE,In Process
+Avondale Avenue,Roadways,,300460.0,2016-07-01,2017-05-01,2017-08-01,http://renewatlantabond.com/project/avondale-avenue/,FALSE,Not Started
+AWDA Repairs/Upgrades,Public Buildings,0.48,13e5,2015-10-01,2015-10-01,2017-04-01,http://renewatlantabond.com/project/awda-repairsupgrade/,FALSE,In Process
+Ayr Street,Roadways,,405e3,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/ayr-street/,FALSE,Not Started
+Bagwell Drive,Roadways,,353400.0,2016-07-01,2017-09-01,2017-12-01,http://renewatlantabond.com/project/bagwell-drive/,FALSE,Not Started
+Baker/Highland Connector,Roadways,0.07,178500.0,2015-07-01,2017-11-01,2018-02-01,http://renewatlantabond.com/project/bakerhighland-connector/,FALSE,In Process
+Bankhead Avenue,Roadways,,,,,,http://renewatlantabond.com/project/bankhead-avenue-2/,TRUE,Not Started
+Bankhead Avenue Bridge,Bridges,,1121400.0,2018-01-01,2018-11-01,2019-12-01,http://renewatlantabond.com/project/bankhead-avenue/,FALSE,Not Started
+Barnett Street @ Saint Charles Place,Traffic Signals,0.02,2e5,2016-06-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/barnett-street-saint-charles-place-2/,FALSE,In Process
+Barnett Street,Roadways,,306450.0,2016-05-01,2017-01-01,2017-03-01,http://renewatlantabond.com/project/barnett-street/,FALSE,Not Started
+Beecher Street,Roadways,,467905.0,2016-07-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/beecher-street/,FALSE,Not Started
+William Walker Recreation Center (Formerly Ben Hill Recreation Center),Parks and Recreation,,403e3,2016-06-01,2016-06-01,2018-06-01,http://renewatlantabond.com/project/ben-hill-recreation-center/,FALSE,Not Started
+Beaver Falls Place,Roadways,,47700.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/bent-creek-way/,FALSE,Not Started
+Berne Street,Roadways,0.9500000000000001,301070.0,2015-10-01,2015-10-01,2017-02-01,http://renewatlantabond.com/project/berne-street/,FALSE,In Process
+Bethany Forest Drive,Roadways,,54180.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/bethany-forest-drive/,FALSE,Not Started
+Beverly Road,Roadways,,,,,,http://renewatlantabond.com/project/beverly-road/,TRUE,Not Started
+Bicknell Street,Roadways,,123310.0,2016-07-01,2017-10-01,2017-12-01,http://renewatlantabond.com/project/bicknell-street/,FALSE,Not Started
+Birth of Atlanta,Public Art Program,0.5,1e5,2015-03-01,2016-05-01,2017-08-01,http://renewatlantabond.com/project/birth-of-atlanta/,FALSE,In Process
+Bohler Road,Roadways,1.0,265075.0,2016-03-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/bohler-road/,FALSE,Completed
+Bolton Academy Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/bolton-elementary-school/,FALSE,Completed
+Booker T. Washington Lifting The Veil of Ignorance,Public Art Program,1.0,4e4,2015-03-01,2016-06-01,2016-12-01,http://renewatlantabond.com/project/booker-t-washington-lifting-the-veil-of-ignorance/,FALSE,Completed
+Boulevard (TCC),Traffic Signals,,,,,,http://renewatlantabond.com/project/boulevard-tcc/,TRUE,Not Started
+Braeburn Circle,Roadways,,75e4,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/braeburn-circle/,FALSE,Not Started
+"Brave Service, Rescue Monument",,,,,,,http://renewatlantabond.com/project/brave-service-rescue-monument/,TRUE,Not Started
+Brookline Street,Roadways,,189500.0,2016-07-01,2017-09-01,2017-11-01,http://renewatlantabond.com/project/brookline-street/,FALSE,Not Started
+Brownlee Place,Roadways,1.0,25245.0,2015-06-01,2015-08-01,2016-12-01,http://renewatlantabond.com/project/brownlee-place/,FALSE,Completed
+Brownlee Road,Roadways,0.9500000000000001,102375.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/brownlee-road-3/,FALSE,In Process
+Browntown Rd,Roadways,,540745.0,2016-07-01,2017-11-01,2018-02-01,http://renewatlantabond.com/project/browntown-rd/,FALSE,Not Started
+Bulwarks ll,,,,,,,http://renewatlantabond.com/project/bulwarks-ll/,TRUE,Not Started
+Bunche Middle School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/bunche-middle-school/,FALSE,Completed
+Burgess‐Peterson Academy,School Zone Beacons,1.0,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/burgess%e2%80%90peterson-academy/,FALSE,Completed
+Burton Road,Roadways,1.0,120145.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/burton-road/,FALSE,Completed
+Campbellton Road (TCC),Traffic Signals,,2532465.0,2015-10-01,2017-11-01,2018-11-01,http://renewatlantabond.com/project/campbellton-road-2/,FALSE,Not Started
+Campbellton Road @ Dodson Drive,Traffic Signals,0.7000000000000001,2e5,2015-10-01,2016-11-01,2017-07-01,http://renewatlantabond.com/project/campbellton-road-dodson-drive-2/,FALSE,In Process
+Campbellton Road @ Greenbriar Parkway & Mount Gilead Road,Traffic Signals,0.7000000000000001,2e5,2015-12-01,2016-02-01,2017-04-01,http://renewatlantabond.com/project/campbellton-road-greenbriar-parkway-mount-gilead-road-2/,FALSE,In Process
+Campbellton Road @ Oakland Avenue,Traffic Signals,0.7000000000000001,2e5,2015-12-01,2016-02-01,2016-04-01,http://renewatlantabond.com/project/campbellton-road-oakland-avenue-2/,FALSE,In Process
+Campbellton Road @ Stanton Road,Traffic Signals,0.12,2e5,2015-10-01,2017-07-01,2018-06-01,http://renewatlantabond.com/project/campbellton-road-stanton-road/,FALSE,In Process
+Campbellton Road @ Venetian Drive & Kenilworth Drive,Traffic Signals,0.5,2e5,2015-10-01,2016-11-01,2017-10-01,http://renewatlantabond.com/project/campbellton-road-venetian-drive-kenilworth-drive/,FALSE,In Process
+Camrose Way,Roadways,1.0,35645.0,2015-06-01,2015-08-01,2015-02-01,http://renewatlantabond.com/project/camrose-way/,FALSE,Completed
+Candler Park Neighborhood Improvements,Roadways,,45e4,2016-08-01,2017-02-01,2017-05-01,http://renewatlantabond.com/project/candler-park-neighborhood-improvements/,FALSE,Not Started
+Candler Park,Parks and Recreation,,,,,,http://renewatlantabond.com/project/candler-park/,TRUE,Not Started
+Carnegie Education Pavilion,Public Art Program,0.5,4e4,2015-03-01,2015-03-01,2017-07-01,http://renewatlantabond.com/project/carnegie-education-pavilion/,FALSE,In Process
+Cascade Road (TCC),Traffic Signals,,2727270.0,2016-02-01,2017-09-01,2018-09-01,http://renewatlantabond.com/project/cascade-road-2/,FALSE,Not Started
+Cascade Road Phase 1,Roadways,,42e4,2016-07-01,2017-08-01,2017-11-01,http://renewatlantabond.com/project/cascade-road-phase-1/,FALSE,Not Started
+Cascade Road Phase 2,Roadways,,42e4,2016-07-01,2018-04-01,2018-06-01,http://renewatlantabond.com/project/cascade-road-phase-2/,FALSE,Not Started
+Bent Creek Way,Roadways,,92770.0,2016-07-01,2017-08-01,2017-10-01,http://renewatlantabond.com/project/cascade-road/,FALSE,Not Started
+Cascade Road/Avenue Corridor Phase 2,Complete Streets,,8e6,2016-10-01,2018-04-01,2019-04-01,http://renewatlantabond.com/project/cascade-roadavenue-corridor-phase-2/,FALSE,Not Started
+Cascade Road/Avenue Corridor Phase 1,Complete Streets,,1e7,2016-01-01,2017-04-01,2017-11-01,http://renewatlantabond.com/project/cascade-roadavenue/,FALSE,Not Started
+Cattail Fence,Public Art Program,1.0,32e3,2015-03-01,2016-05-01,2016-09-01,http://renewatlantabond.com/project/cattail-fence/,FALSE,Completed
+Cedar Island Drive,Roadways,1.0,38170.0,2015-09-01,2015-06-01,2017-02-01,http://renewatlantabond.com/project/cedar-island-drive-2/,FALSE,Completed
+Centennial Academy,School Zone Beacons,1.0,22585.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/centennial-academy/,FALSE,Completed
+Central Avenue Bridge Replacement,Bridges,,25008387.0,2016-10-01,2018-05-01,2019-05-01,http://renewatlantabond.com/project/central-avenue-bridge-replacement/,FALSE,Not Started
+Central Park,Parks and Recreation,,285e3,2016-07-01,2016-07-01,2018-06-01,http://renewatlantabond.com/project/central-park/,FALSE,Not Started
+Ceremonial Circle,Public Art Program,,65e3,2015-03-01,2015-03-01,2017-07-01,http://renewatlantabond.com/project/ceremonial-circle/,FALSE,Not Started
+Charles Lincoln Harper,,,,,,,http://renewatlantabond.com/project/charles-lincoln-harper/,TRUE,Not Started
+Chastain Park Pool,Parks and Recreation,,973438.0,2016-10-01,2016-10-01,2017-12-01,http://renewatlantabond.com/project/chastain-park-pool/,FALSE,Not Started
+Chattahoochee Avenue @ Ellsworth Industrial Boulevard,Traffic Signals,0.12,2e5,2016-02-01,2017-07-01,2018-06-01,http://renewatlantabond.com/project/chattahoochee-avenue-ellsworth-industrial-boulevard-2/,FALSE,In Process
+Chattahoochee Avenue @ Hills Avenue,Traffic Signals,0.12,2e5,2016-02-01,2017-07-01,2018-06-01,http://renewatlantabond.com/project/chattahoochee-avenue-hills-avenue-2/,FALSE,In Process
+Cheshire Bridge Road,Roadways,,1357225.0,2016-05-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/cheshire-bridge-road/,FALSE,Not Started
+Cascade Road,Roadways,,,,,,http://renewatlantabond.com/project/childress-drive-2/,TRUE,Not Started
+Childress Drive Bridge,Bridges,0.01,1778507.0,2016-01-01,2017-11-01,2018-07-01,http://renewatlantabond.com/project/childress-drive/,FALSE,In Process
+City Court Gate,,,,,,,http://renewatlantabond.com/project/city-court-gate/,TRUE,Not Started
+Lynhurst Drive Complete Street Project,Complete Streets,0.45,3136500.0,2015-11-01,2015-11-01,2017-05-01,http://renewatlantabond.com/project/citywide-complete-streets/,FALSE,In Process
+Citywide Signal System upgrades,Traffic Signals,,,,,,http://renewatlantabond.com/project/citywide-signal-system-upgrades-2/,TRUE,Not Started
+Claire Drive (TCC),Traffic Signals,,467532.0,2016-04-01,2017-12-01,2018-12-01,http://renewatlantabond.com/project/claire-drive-2/,FALSE,Not Started
+Cleveland Avenue (TCC),Traffic Signals,,1309055.0,2016-04-01,2017-12-01,2018-11-01,http://renewatlantabond.com/project/cleveland-avenue-2/,FALSE,Not Started
+Cleveland Avenue,Roadways,0.9500000000000001,1140695.0,2015-10-01,2015-10-01,2017-02-01,http://renewatlantabond.com/project/cleveland-avenue-3/,FALSE,In Process
+Cleveland Elementary School,School Zone Beacons,1.0,22585.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/cleveland-elementary-school/,FALSE,Completed
+College Avenue @ Rockyford Road,Traffic Signals,0.12,2e5,2016-03-01,2018-08-01,2018-11-01,http://renewatlantabond.com/project/college-avenue-rockyford-road-2/,FALSE,In Process
+College Avenue,Roadways,,286635.0,2016-05-01,2017-04-01,2017-06-01,http://renewatlantabond.com/project/college-avenue/,FALSE,Not Started
+Collier Drive,Roadways,0.9500000000000001,258635.0,2016-05-01,2016-05-01,2017-01-01,http://renewatlantabond.com/project/collier-drive/,FALSE,In Process
+Collier Heights Recreation Center,Parks and Recreation,,,,,,http://renewatlantabond.com/project/collier-heights-rec-center/,TRUE,Not Started
+Collier Road,Roadways,,458635.0,2016-07-01,2017-10-01,2017-12-01,http://renewatlantabond.com/project/collier-road/,FALSE,Not Started
+Cometh the Sun,Public Art Program,,8e4,2015-03-01,2016-12-01,2017-03-01,http://renewatlantabond.com/project/cometh-the-sun/,FALSE,Not Started
+Constitution Road @ Forrest Park Road,Traffic Signals,0.02,2e5,2016-04-01,2017-12-01,2018-11-01,http://renewatlantabond.com/project/constitution-road-forrest-park-road-2/,FALSE,In Process
+Continental Colony Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/continental-colony-elementary-school/,FALSE,Completed
+Coretta Scott King Young Women’s Academy Middle School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/coretta-scott-king-middle-school/,FALSE,Completed
+Courtland Street Bridge,Bridges,0.01,2e6,2015-09-01,2017-07-01,2019-02-01,http://renewatlantabond.com/project/courtland-street/,FALSE,In Process
+Decatur Street,Roadways,,,,,,http://renewatlantabond.com/project/decatur-street/,TRUE,Not Started
+Decode / Recode,Public Art Program,,1e5,2015-03-01,2017-03-01,2017-07-01,http://renewatlantabond.com/project/decode-recode/,FALSE,Not Started
+Defoors Ferry Road,Roadways,,249790.0,2016-04-01,2018-01-01,2018-03-01,http://renewatlantabond.com/project/defoors-ferry-2/,FALSE,Not Started
+DeKalb Avenue/Decatur Street (TCC),Traffic Signals,,2064933.0,2016-02-01,2018-03-01,2019-02-01,http://renewatlantabond.com/project/dekalb-avedecatur-street-2/,FALSE,Not Started
+Dekalb Avenue,Traffic Signals,0.12,1502090.0,2016-03-01,2018-03-01,2019-06-01,http://renewatlantabond.com/project/dekalb-avenue-2/,FALSE,In Process
+DeKalb Avenue Complete Street Project,Complete Streets,,4575429.0,2016-02-01,2018-03-01,2019-02-01,http://renewatlantabond.com/project/dekalb-avenue-3/,FALSE,Not Started
+DeKalb Avenue @ Rockyford Road & DeKalb Place,Traffic Signals,0.12,2e5,2016-03-01,2018-03-01,2019-06-01,http://renewatlantabond.com/project/dekalb-avenue-rockyford-road-dekalb-place-2/,FALSE,In Process
+DeKalb Avenue,Roadways,,1799160.0,2016-03-01,2018-04-01,2019-06-01,http://renewatlantabond.com/project/dekalb-avenue/,FALSE,Not Started
+Delaware Avenue Pedestrian Improvements,ADA and Sidewalks,,5e4,2017-04-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/delaware-avenue/,FALSE,Not Started
+Delmar Lane,Roadways,1.0,330060.0,2016-04-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/delmar-lane/,FALSE,Completed
+Derry Avenue,Roadways,1.0,75140.0,2015-09-01,2015-06-01,2017-02-01,http://renewatlantabond.com/project/derry-avenue/,FALSE,Completed
+Dial’s The Bridge,,,,,,,http://renewatlantabond.com/project/dials-the-bridge/,TRUE,Not Started
+Dill Avenue,Roadways,0.99,345900.0,2015-10-01,2015-10-01,2016-07-01,http://renewatlantabond.com/project/dill-avenue/,FALSE,In Process
+Downtown Neighborhood Improvements,Roadways,,5e5,2017-02-01,2017-09-01,2018-04-01,http://renewatlantabond.com/project/downtown-neighborhood-improvements/,FALSE,Not Started
+DPW Service Building- Fleet Services (Claire Drive),Public Buildings,,1e6,2015-11-01,2016-09-01,2017-07-01,http://renewatlantabond.com/project/dpw-service-building-fleet-services-clair-drive/,FALSE,Not Started
+DPW Service Building- Sanitation Services (Claire Drive),Public Buildings,,6e5,2015-11-01,2016-09-01,2017-09-01,http://renewatlantabond.com/project/dpw-service-building-sanitation-claire-drive/,FALSE,Not Started
+DPW Service Building – Sanitation Services (North Avenue),Public Buildings,,,,,,http://renewatlantabond.com/project/dpw-service-building-sanitation-services-claire-drive/,TRUE,Not Started
+DPW Service Building- Administration (North Avenue),Public Buildings,,5e5,2016-08-01,2017-05-01,2018-07-01,http://renewatlantabond.com/project/dpw-shopgarageoffice-north-ave/,FALSE,Not Started
+DPW Warehouse/Office- Transportation (Claire Drive),Public Buildings,,8e5,2015-11-01,2016-09-01,2017-07-01,http://renewatlantabond.com/project/dpw-warehouseoffice-transportation-clair-drive/,FALSE,Not Started
+Dunbar Neighborhood Center,Parks and Recreation,,101900.0,2017-11-01,2015-11-01,2017-05-01,http://renewatlantabond.com/project/dunbar-neighborhood-center/,FALSE,Not Started
+East Andrews Drive,Roadways,1.0,269660.0,2016-03-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/east-andrews-drive/,FALSE,Completed
+East Cleveland Avenue,Roadways,,,,,,http://renewatlantabond.com/project/east-cleveland-avenue/,TRUE,Not Started
+Childress Drive,Roadways,,,,,,http://renewatlantabond.com/project/east-court-drive/,TRUE,Not Started
+East Lake Blvd,Roadways,,352900.0,2016-07-01,2016-07-01,2017-11-01,http://renewatlantabond.com/project/east-lake-blvd/,FALSE,Not Started
+East Morningside Drive,Roadways,,,,,,http://renewatlantabond.com/project/east-morningside-drive/,TRUE,Not Started
+East Paces Ferry Road Complete Street Project,Complete Streets,,1404241.0,2015-09-01,2017-01-01,2017-10-01,http://renewatlantabond.com/project/east-paces-ferry-rd/,FALSE,Not Started
+Roxboro Road,,0.01,598068.93,2016-06-01,2016-06-01,2016-10-01,http://renewatlantabond.com/project/east-roxboro-road/,FALSE,In Process
+Edgewood Avenue Sidewalk Improvements,ADA and Sidewalks,,3e5,2017-04-01,2017-10-01,2018-06-01,http://renewatlantabond.com/project/edgewood-avenue/,FALSE,Not Started
+Ellsworth Industrial Boulevard,Roadways,,,,,,http://renewatlantabond.com/project/ellsworth-industrial-boulevard/,TRUE,Not Started
+Elmtree Drive,Roadways,1.0,38720.75,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/elmtree-drive/,FALSE,Completed
+Eloise Street,Roadways,,,,,,http://renewatlantabond.com/project/eloise-street/,TRUE,Not Started
+Emerald Court,Roadways,1.0,31585.0,2015-06-01,2015-08-01,2016-12-01,http://renewatlantabond.com/project/emerald-court/,FALSE,Completed
+Emerging,Public Art Program,,3e4,2015-03-01,2015-03-01,2017-03-01,http://renewatlantabond.com/project/emerging/,FALSE,Not Started
+Empire Boulevard,Roadways,,679839.11,,,,http://renewatlantabond.com/project/empire-boulevard/,FALSE,Not Started
+Empire Way,Roadways,,,,,,http://renewatlantabond.com/project/empire-way/,TRUE,Not Started
+English Park Recreation Center,Parks and Recreation,,19e4,2016-06-01,2016-06-01,2017-08-01,http://renewatlantabond.com/project/english-park-rec-center/,FALSE,Not Started
+Eskine Memorial,,,,,,,http://renewatlantabond.com/project/eskine-memorial/,TRUE,Not Started
+Evolution,Public Art Program,0.8,4500.0,2015-03-01,2015-03-01,2017-03-01,http://renewatlantabond.com/project/evolution/,FALSE,In Process
+Ex-Static,Public Art Program,,3e4,2015-03-01,2015-03-01,2017-10-01,http://renewatlantabond.com/project/ex-static/,FALSE,Not Started
+F. L. Stanton Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/f-l-stanton-elementary-school/,FALSE,Completed
+Fair Drive,Roadways,,557905.0,2016-07-01,2017-08-01,2017-10-01,http://renewatlantabond.com/project/fair-drive/,FALSE,Not Started
+Fair Street,Roadways,,,,,,http://renewatlantabond.com/project/fair-street/,TRUE,Not Started
+East Court Drive,Roadways,1.0,45145.0,2016-07-01,2016-07-01,2017-02-01,http://renewatlantabond.com/project/fairburn-road-2/,FALSE,Completed
+Fairburn Road NW,Roadways,0.9500000000000001,170075.0,2016-04-01,2016-05-01,2017-02-01,http://renewatlantabond.com/project/fairburn-road-nw/,FALSE,In Process
+Fairburn Road Complete Street Project,Complete Streets,,4958562.0,2015-09-01,2018-06-01,2019-11-01,http://renewatlantabond.com/project/fairburn-road/,FALSE,Not Started
+Fairburn Road,Roadways,,162875.0,2016-07-01,2017-09-01,2017-12-01,http://renewatlantabond.com/project/fairway-circle/,FALSE,Not Started
+Falling Waters,,,,,,,http://renewatlantabond.com/project/falling-waters/,TRUE,Not Started
+Federal Terrace,Roadways,0.98,77245.0,2016-04-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/federal-terrace/,FALSE,In Process
+Fickett Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/fickett-elementary-school/,FALSE,Completed
+Five Points Monument,Public Art Program,,1e5,2015-03-01,2015-03-01,2017-07-01,http://renewatlantabond.com/project/five-points-monument/,FALSE,Not Started
+Fleetwood Circle,Roadways,0.99,,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/fleetwood-circle/,TRUE,In Process
+Fire Station 11,Public Safety,0.1,177906.0,2015-09-01,2016-04-01,2017-09-01,http://renewatlantabond.com/project/flooring-paint-and-correct-exterior-conditions-of-the-soffits/,FALSE,In Process
+Ford Street,Roadways,,121e4,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/ford-street-roadway-construction/,FALSE,Not Started
+Forest Crossing Drive,Roadways,,47500.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/forest-crossing-drive/,FALSE,Not Started
+Fairway Circle,Roadways,,334835.0,2016-07-01,2017-08-01,2017-11-01,http://renewatlantabond.com/project/forest-overlook-drive/,FALSE,Not Started
+Forest Overlook Drive,Roadways,,282535.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/forest-overlook-trail/,FALSE,Not Started
+Forrest Hills Academy,School Zone Beacons,1.0,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/forrest-hills-academy/,FALSE,Completed
+Forrest Park Road,Roadways,,,,,,http://renewatlantabond.com/project/forrest-park-road/,TRUE,Not Started
+Forsyth Street Complete Street Project,Complete Streets,,2259443.0,2017-07-01,2018-10-01,2019-09-01,http://renewatlantabond.com/project/forsyth-street/,FALSE,Not Started
+Fort Street,Roadways,0.12,72940.87,2016-01-01,2016-01-01,2016-06-01,http://renewatlantabond.com/project/fort-street/,FALSE,In Process
+Francis Avenue,Roadways,,159045.0,2016-07-01,2017-06-01,2017-09-01,http://renewatlantabond.com/project/francis-avenue/,FALSE,Not Started
+Freedom Park,,,,,,,http://renewatlantabond.com/project/freedom-park/,TRUE,Not Started
+Games,,,,,,,http://renewatlantabond.com/project/games/,TRUE,Not Started
+Garden Hills Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/garden-hills-elementary-school-2/,FALSE,Completed
+Gault Street,Roadways,0.98,113105.0,2016-05-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/gault-street/,FALSE,In Process
+Gayles Court,Roadways,,40510.0,2016-07-01,2017-10-01,2017-12-01,http://renewatlantabond.com/project/gayles-court/,FALSE,Not Started
+Georgia Hill Neighborhood Center,Parks and Recreation,,133490.0,2015-11-01,2015-11-01,2018-01-01,http://renewatlantabond.com/project/georgia-hill-neighborhood-center-facility/,FALSE,Not Started
+Gilbert Street,Roadways,,46860.0,2016-07-01,2017-06-01,2017-08-01,http://renewatlantabond.com/project/gilbert-street/,FALSE,Not Started
+Glennhurst Lane,Roadways,,26720.0,2016-07-01,2016-07-01,2017-01-01,http://renewatlantabond.com/project/glennhurst-lane/,FALSE,Not Started
+Glenwood Moreland – Livable Centers Initiative Project,Traffic Signals,,,,,,http://renewatlantabond.com/project/glenwood-moreland-livable-centers-initiative-project/,TRUE,Not Started
+Glenwood Road (TCC),Traffic Signals,,857142.0,2016-04-01,2017-10-01,2018-10-01,http://renewatlantabond.com/project/glenwood-road-2/,FALSE,Not Started
+Goldsboro Park,,,,,,,http://renewatlantabond.com/project/goldsboro-park/,TRUE,Not Started
+Henry W. Grady High School,School Zone Beacons,1.0,22585.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/grady-high-school/,FALSE,Completed
+Grant Park Pool,Parks and Recreation,,,,,,http://renewatlantabond.com/project/grant-park-pool/,TRUE,Not Started
+Greenbriar Parkway (TCC),Traffic Signals,,546311.0,2016-04-01,2017-12-01,2018-12-01,http://renewatlantabond.com/project/greenbriar-parkway-2/,FALSE,Not Started
+Greenbriar Parkway,Roadways,0.01,1036425.0,2016-01-01,2016-01-01,2016-06-01,http://renewatlantabond.com/project/greenbriar-parkway-3/,FALSE,In Process
+Forest Overlook Trail,Roadways,,136800.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/guilford-forest-drive/,FALSE,Not Started
+Guilford Forest Lane,Roadways,,25200.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/guilford-forest-lane-2/,FALSE,Not Started
+Guilford Forest Drive,Roadways,,563200.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/guilford-forest-lane/,FALSE,Not Started
+Habersham Road @ West Wesley Road,Traffic Signals,0.12,19e4,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/habersham-road-west-wesley-road-2/,FALSE,In Process
+Hamden Forest Drive,Roadways,,80105.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/hamden-forest-drive/,FALSE,Not Started
+Hamden Forest Trail,Roadways,,43500.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/hamden-forest-trail/,FALSE,Not Started
+Hamden Trace,Roadways,,26640.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/hamden-trace/,FALSE,Not Started
+Hamilton E. Holmes Drive @ Burton Road,Traffic Signals,0.02,2e5,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/hamilton-e-holmes-drive-burton-road-2/,FALSE,In Process
+Hansell Street,Roadways,,91870.0,2016-07-01,2017-07-01,2017-09-01,http://renewatlantabond.com/project/hansell-streetmuse-street/,FALSE,Not Started
+Hapeville Road,Roadways,0.9500000000000001,221008.36,2016-02-01,2016-02-01,2016-06-01,http://renewatlantabond.com/project/hapeville-road/,FALSE,In Process
+Harbin Road,Roadways,,,,,,http://renewatlantabond.com/project/harbin-road/,TRUE,Not Started
+Hard Days Shack,Public Art Program,1.0,1e4,2015-03-01,2016-05-01,2016-09-01,http://renewatlantabond.com/project/hard-days-shack/,FALSE,Completed
+Hazelwood Road,Roadways,1.0,108680.0,2015-06-01,2015-08-01,2016-12-01,http://renewatlantabond.com/project/hazelwood-drive/,FALSE,Completed
+Hemlock Circle,Roadways,,245995.0,2016-07-01,2017-07-01,2017-08-01,http://renewatlantabond.com/project/hemlock-circle/,FALSE,Not Started
+Hemphill School Road,Roadways,,288770.0,2016-07-01,2016-07-01,2018-02-01,http://renewatlantabond.com/project/hemphill-school-road/,FALSE,Not Started
+Henry Grady,Public Art Program,,65e3,2015-03-01,2015-03-01,2017-07-01,http://renewatlantabond.com/project/henry-grady/,FALSE,Not Started
+Heritage Park Memorial,,,,,,,http://renewatlantabond.com/project/heratige-park-memorial/,TRUE,Not Started
+Heritage Academy,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/heritage-academy/,FALSE,Completed
+Hightower Road,Roadways,1.0,219775.0,2015-10-01,2015-10-01,2017-02-01,http://renewatlantabond.com/project/hightower-road/,FALSE,Completed
+Hills Avenue,Roadways,,422415.0,2016-07-01,2017-09-01,2017-11-01,http://renewatlantabond.com/project/hills-avenue/,FALSE,Not Started
+Hills Place,Roadways,,305050.0,2016-07-01,2017-05-01,2017-09-01,http://renewatlantabond.com/project/hills-place/,FALSE,Not Started
+Hirsch Street,Roadways,,34e4,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/hirsch-street/,FALSE,Not Started
+Hollow Tree Lane,Roadways,,96060.0,2016-07-01,2017-06-01,2017-09-01,http://renewatlantabond.com/project/hollow-tree-lane/,FALSE,Not Started
+Hollywood Road @ Johnson Road,Traffic Signals,0.02,2e5,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/hollywood-road-johnson-road-2/,FALSE,In Process
+Hope Hill Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/hope-hill-elementary-school/,FALSE,Completed
+Hosea Williams Drive (TCC),Traffic Signals,,1687082.0,2016-04-01,2017-12-01,2018-11-01,http://renewatlantabond.com/project/hosea-williams-drive-2/,FALSE,Not Started
+Howell Drive,Roadways,1.0,212765.0,2016-04-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/howell-drive/,FALSE,Completed
+Howell Mill Road,Roadways,0.01,395e3,2016-07-01,2017-10-01,2018-08-01,http://renewatlantabond.com/project/howell-mill-road-2/,FALSE,In Process
+Howell Mill Road @ Collier Road,Traffic Signals,0.02,2e5,2016-06-01,2018-01-01,2018-12-01,http://renewatlantabond.com/project/howell-mill-road-collier-road-2/,FALSE,In Process
+Howell Mill Road @ Huff Road,Traffic Signals,0.02,2e5,2016-06-01,2018-01-01,2019-01-01,http://renewatlantabond.com/project/howell-mill-road-huff-road-2/,FALSE,In Process
+Howell Mill Road @ Moores Mill Road,Traffic Signals,0.12,1309873.0,2016-04-01,2018-03-01,2018-05-01,http://renewatlantabond.com/project/howell-mill-road-moores-mill-road/,FALSE,In Process
+Howell Mill Road @ Peachtree Battle Avenue,Traffic Signals,0.02,2e5,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/howell-mill-road-peachtree-battle-avenue-2/,FALSE,In Process
+Howell Mill Road Complete Street Project,Complete Streets,,5798210.0,2016-01-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/howell-mill-road/,FALSE,Not Started
+Howell Terrace,Roadways,1.0,271135.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/howell-terrace-2/,FALSE,Completed
+Huber Street,Roadways,,333575.0,2016-07-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/huber-street/,FALSE,Not Started
+Huff Road,Roadways,,271235.0,2016-07-01,2017-11-01,2018-01-01,http://renewatlantabond.com/project/huff-road/,FALSE,Not Started
+Humphries Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/humphries-elementary-school/,FALSE,Completed
+Hutchinson Elementary,School Zone Beacons,1.0,22585.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/hutchinson-elementary/,FALSE,Completed
+Fire Station 16,Public Safety,0.02,341789.08,2015-09-01,2016-03-01,2017-10-01,http://renewatlantabond.com/project/hvac-repair-window-repairs-interiorexterior-finishes/,FALSE,In Process
+S.M. Inman Middle School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/inman-middle-school/,FALSE,Completed
+Inman Park Neighborhood Improvements,Roadways,,5e5,2016-11-01,2017-08-01,2018-02-01,http://renewatlantabond.com/project/inman-park-neighborhood-improvements/,FALSE,Not Started
+Isamu Noguchi,Public Art Program,1.0,12e3,2016-05-01,2016-05-01,2016-09-01,http://renewatlantabond.com/project/isamu-noguchi/,FALSE,Completed
+Joseph E. Boone Boulevard Complete Street Project,Complete Streets,,2690842.0,2017-01-01,2018-05-01,2019-03-01,http://renewatlantabond.com/project/j-e-boone-boulevard/,FALSE,Not Started
+Warren T. Jackson Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/jackson-elementary-school/,FALSE,Completed
+Maynard H. Jackson High School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/jackson-high-school/,FALSE,Completed
+James Drive/5th Street,Roadways,,885e3,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/james-drive-5th-street-roadway-construction/,FALSE,Not Started
+"Jefferson Street, Phase 1",Roadways,1.0,120515.0,2015-10-01,2015-10-01,2017-02-01,http://renewatlantabond.com/project/jefferson-street-phase-1/,FALSE,Completed
+"Jefferson Street, Phase 2",Roadways,0.9500000000000001,140010.0,2015-10-01,2016-01-01,2017-01-01,http://renewatlantabond.com/project/jefferson-street-phase-2/,FALSE,In Process
+Jewel Court,Roadways,,23140.0,2016-09-01,2016-10-01,2017-04-01,http://renewatlantabond.com/project/jewel-court/,FALSE,Not Started
+Jewel Drive,Roadways,0.98,28230.0,2016-04-01,2016-05-01,2017-02-01,http://renewatlantabond.com/project/jewel-drive/,FALSE,In Process
+John Portman Boulevard (Harris Street),Roadways,0.99,189890.0,2016-10-01,2016-12-01,,http://renewatlantabond.com/project/john-portman-boulevard-harris-street/,FALSE,In Process
+John Wesley Dobbs,Public Art Program,0.5,24e3,2015-03-01,2015-03-01,2017-06-01,http://renewatlantabond.com/project/john-wesley-dobbs/,FALSE,In Process
+Johnson Road Pedestrian Improvements,ADA and Sidewalks,,3e5,2017-02-01,2018-06-01,2019-03-01,http://renewatlantabond.com/project/johnson-road-2/,FALSE,Not Started
+"Johnson Road, Phase 2",Roadways,,49155.0,2016-04-01,2017-12-01,2018-05-01,http://renewatlantabond.com/project/johnson-road-phase-2/,FALSE,Not Started
+"Johnson Road, Phase 1",Roadways,,437030.0,2016-04-01,2017-12-01,2018-05-01,http://renewatlantabond.com/project/johnson-road/,FALSE,Not Started
+Jonesboro Road @ Claire Drive & Sawtell Avenue,Traffic Signals,0.02,2e5,2016-04-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/jonesboro-road-claire-drive-sawtell-avenue-2/,FALSE,In Process
+Joseph E. Boone Boulevard (TCC),Traffic Signals,,2025972.0,2016-04-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/joseph-e-boone-2/,FALSE,Not Started
+Joseph E. Lowery Boulevard (TCC),Traffic Signals,,584415.0,2015-08-01,2017-07-01,2018-07-01,http://renewatlantabond.com/project/joseph-e-lowery-2/,FALSE,Not Started
+Joseph E. Lowery Boulevard Complete Street Project,Complete Streets,,1284454.0,2016-02-01,2018-04-01,2018-12-01,http://renewatlantabond.com/project/joseph-e-lowery-boulevard-2/,FALSE,Not Started
+Joseph E. Lowery Boulevard,Roadways,,,,,,http://renewatlantabond.com/project/joseph-e-lowery-boulevard/,TRUE,Not Started
+Juniper Street,Roadways,,,,,,http://renewatlantabond.com/project/juniper-street/,TRUE,Not Started
+Kimberly Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/kimberly-elementary-school/,FALSE,Completed
+Kings Smith Road,Roadways,,37450.0,2016-07-01,2017-10-01,2018-01-01,http://renewatlantabond.com/project/kings-smith-road/,FALSE,Not Started
+Kipp Ways Academy,School Zone Beacons,1.0,22585.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/kipp-atlanta-collegiate/,FALSE,Completed
+Kipp Strive Primary School,School Zone Beacons,1.0,22585.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/kipp-strive-primary-school/,FALSE,Completed
+Krog Street,Roadways,,,,,,http://renewatlantabond.com/project/krog-street/,TRUE,Not Started
+La Famillia de Pie,,,,,,,http://renewatlantabond.com/project/la-famillia-de-pie/,TRUE,Not Started
+La Salle Way,Roadways,1.0,34670.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/la-salle-way/,FALSE,Completed
+Lake Avenue,Roadways,1.0,215605.0,2016-03-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/lake-avenue/,FALSE,Completed
+Lake Claire Park,Parks and Recreation,,466585.0,2016-04-01,2016-04-01,2017-09-01,http://renewatlantabond.com/project/lake-claire-park/,FALSE,Not Started
+Lakeview Dr,Roadways,,195220.0,2016-07-01,2016-07-01,2017-11-01,http://renewatlantabond.com/project/lakeview-dr/,FALSE,Not Started
+Lakewood Avenue @ Claire Drive,Traffic Signals,0.02,2e5,2016-04-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/lakewood-avenue-claire-drive-2/,FALSE,In Process
+Lakewood Avenue @ Fleet Street & Georgia 166 Ramps,Traffic Signals,0.02,2e5,2016-04-01,2017-12-01,2018-11-01,http://renewatlantabond.com/project/lakewood-avenue-fleet-street-georgia-166-ramps-2/,FALSE,In Process
+Lakewood Avenue @ Macon Drive & Lakewood Way,Traffic Signals,0.02,2e5,2016-04-01,2017-11-01,2018-11-01,http://renewatlantabond.com/project/lakewood-avenue-macon-drive-lakewood-way-2/,FALSE,In Process
+Lakewood Avenue @ Sylvan Road,Traffic Signals,0.02,2e5,2016-04-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/lakewood-avenue-sylvan-road-2/,FALSE,In Process
+Lakewood Avenue,Roadways,,841480.0,2016-05-01,2017-05-01,2017-06-01,http://renewatlantabond.com/project/lakewood-avenue/,FALSE,Not Started
+Lakewood Way,Roadways,,461525.0,2016-05-01,2017-05-01,2017-06-01,http://renewatlantabond.com/project/lakewood-way/,FALSE,Not Started
+Landrum Drive,Roadways,0.98,92330.0,2016-04-01,2016-05-01,2017-02-01,http://renewatlantabond.com/project/landrum-drive/,FALSE,In Process
+Lang Carson Recreation Center,Parks and Recreation,,244234.0,2016-09-01,2016-09-01,2018-06-01,http://renewatlantabond.com/project/lang-carson-rec-center/,FALSE,Not Started
+Langston Avenue,Roadways,0.99,251470.0,2015-10-01,2015-10-01,2017-02-01,http://renewatlantabond.com/project/langston-avenue/,FALSE,In Process
+Larchwood Street,Roadways,1.0,78835.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/larchwood-street/,FALSE,Completed
+Lawton Street,Roadways,,415360.0,2016-04-01,2017-12-01,2018-02-01,http://renewatlantabond.com/project/lawton-street/,FALSE,Not Started
+Lee Circle,Roadways,,8e5,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/lee-circle/,FALSE,Not Started
+Lee Street @ White Oak Avenue,Traffic Signals,0.02,2e5,2016-04-01,2017-12-01,2018-11-01,http://renewatlantabond.com/project/lee-street-white-oak-avenue-2/,FALSE,In Process
+Legends,Public Art Program,,1e4,2015-03-01,2017-03-01,2017-06-01,http://renewatlantabond.com/project/legends/,FALSE,Not Started
+"Lenox Road, Phase 2",Roadways,,1445295.0,2016-04-01,2017-12-01,2018-05-01,http://renewatlantabond.com/project/lenox-road-2/,FALSE,Not Started
+Lenox Road Pedestrian Improvements,ADA and Sidewalks,,3e5,2017-02-01,2018-06-01,2019-03-01,http://renewatlantabond.com/project/lenox-road-3/,FALSE,Not Started
+"Lenox Road, Phase 1",Roadways,,748475.0,2016-04-01,2018-01-01,2018-06-01,http://renewatlantabond.com/project/lenox-road/,FALSE,Not Started
+Lenox Wildwood Park,Parks and Recreation,,,,,,http://renewatlantabond.com/project/lenox-wildwood/,TRUE,Not Started
+Mary Lin Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/lin-elementary-school/,FALSE,Completed
+"Lindbergh Way, Phase 2",Roadways,,170565.0,2016-05-01,2017-08-01,2017-10-01,http://renewatlantabond.com/project/lindbergh-way-2/,FALSE,Not Started
+"Lindbergh Way, Phase 1",Roadways,,166885.0,2016-05-01,2017-08-01,2017-10-01,http://renewatlantabond.com/project/lindbergh-way/,FALSE,Not Started
+Linden Avenue,Roadways,,260180.0,2016-05-01,2017-04-01,2017-06-01,http://renewatlantabond.com/project/linden-avenue/,FALSE,Not Started
+Litherland Court,Roadways,0.98,21960.0,2016-04-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/litherland-court/,FALSE,In Process
+Little Hampton Court,Roadways,0.98,52095.0,2016-04-01,2016-04-01,2017-02-01,http://renewatlantabond.com/project/little-hampton-court/,FALSE,In Process
+Long Middle School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/long-middle-school/,FALSE,Completed
+Loridans Drive,Roadways,,396480.0,2016-05-01,2016-11-01,2017-02-01,http://renewatlantabond.com/project/loridans-drive/,FALSE,Not Started
+Luckie Street @ Pine Street,Traffic Signals,0.02,2e5,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/luckie-street-pine-street-2/,FALSE,In Process
+Lyndale Drive,Roadways,,85e4,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/lyndale-drive/,FALSE,Not Started
+Lynhurst Drive,Roadways,,532100.0,2015-06-01,2017-03-01,2017-04-01,http://renewatlantabond.com/project/lynhurst-drive/,FALSE,Not Started
+Martin Luther King Jr. Drive (TCC),Traffic Signals,,,,,,http://renewatlantabond.com/project/m-l-king-jr-dr-2/,TRUE,Not Started
+Macon Drive,Roadways,0.9500000000000001,369235.0,2016-05-01,2015-10-01,2017-02-01,http://renewatlantabond.com/project/macon-drive-2/,FALSE,In Process
+Macon Drive @ Old Hapeville Road & Bromack Drive,Traffic Signals,0.02,19e4,2016-04-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/macon-drive-old-hapeville-road-bromack-drive-2/,FALSE,In Process
+Main Street,Roadways,,121e3,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/main-street-roadway-construction/,FALSE,Not Started
+Margaret Mitchell Drive,Roadways,,716370.0,2016-07-01,2017-08-01,2017-11-01,http://renewatlantabond.com/project/margaret-mitchell-drive-2/,FALSE,Not Started
+Margaret Mitchell Square,,,,,,,http://renewatlantabond.com/project/margaret-mitchell-square/,TRUE,Not Started
+Marietta Boulevard (TCC),Traffic Signals,,1402596.0,2016-03-01,2017-08-01,2018-07-01,http://renewatlantabond.com/project/marietta-blvd-2/,FALSE,Not Started
+Marietta Boulevard @ Chattahoochee Avenue,Traffic Signals,1.0,87760.0,2015-09-01,2015-10-01,2016-04-01,http://renewatlantabond.com/project/marietta-boulevard-chattahoochee-avenue/,FALSE,Completed
+Marietta Boulevard @ Coronet Way,Traffic Signals,0.12,87760.0,2016-02-01,2017-08-01,2018-07-01,http://renewatlantabond.com/project/marietta-boulevard-coronet-way/,FALSE,In Process
+Marietta Road @ Perry Boulevard & Johnson Road,Traffic Signals,0.02,2e5,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/marietta-road-perry-boulevard-johnson-road-2/,FALSE,In Process
+Marietta Street @ Andrew Young International Boulevard,Traffic Signals,0.02,18e4,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/marietta-street-andrew-young-international-boulevard-2/,FALSE,In Process
+Marietta Street @ Foundry Street,Traffic Signals,0.02,18e4,2016-06-01,2017-10-01,2018-10-01,http://renewatlantabond.com/project/marietta-street-foundry-street-2/,FALSE,In Process
+Marietta Street,Roadways,,1546210.0,2016-04-01,2018-02-01,2018-06-01,http://renewatlantabond.com/project/marietta-street/,FALSE,Not Started
+Marion Avenue,Roadways,,200885.0,2016-07-01,2017-06-01,2017-09-01,http://renewatlantabond.com/project/marion-avenue/,FALSE,Not Started
+Marktwo Place,Roadways,,485e3,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/marktwo-place-roadway-construction/,FALSE,Not Started
+Martin Luther King Jr. Drive @ I-285 N/B Ramp,Traffic Signals,,,,,,http://renewatlantabond.com/project/martin-l-king-jr-drive-i-285-nb-ramp-2/,TRUE,Not Started
+Martin Luther King Jr. Drive @ Peachtree Street,Traffic Signals,,,,,,http://renewatlantabond.com/project/martin-l-king-jr-drive-peachtree-street-2/,TRUE,Not Started
+Martin Luther King Jr. Drive @ Pryor Street,Traffic Signals,,,,,,http://renewatlantabond.com/project/martin-l-king-jr-drive-pryor-street-2/,TRUE,Not Started
+Martin Luther King Jr. Drive Bridge,Bridges,,53407933.0,2016-11-01,2019-11-01,2021-12-01,http://renewatlantabond.com/project/martin-l-king-jr-drive/,FALSE,Not Started
+Martin Luther King Jr. Middle School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/martin-luther-king-jr-middle-school/,FALSE,Completed
+Mays Crossing,Roadways,1.0,68735.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/mays-crossing/,FALSE,Completed
+Mayson Street,Roadways,,149795.0,2014-05-01,2017-04-01,2017-05-01,http://renewatlantabond.com/project/mayson-street/,FALSE,Not Started
+McAfee Street,Roadways,,30175.0,2016-07-01,2017-08-01,2017-10-01,http://renewatlantabond.com/project/mcafee-street/,FALSE,Not Started
+McClatchy Park,Parks and Recreation,,,,,,http://renewatlantabond.com/project/mcclatchy-park/,TRUE,Not Started
+McDaniel Street (TCC),Traffic Signals,,930172.0,2016-04-01,2017-10-01,2018-10-01,http://renewatlantabond.com/project/mcdaniel-street-2/,FALSE,Not Started
+McDaniel Street @ Peters Street,Traffic Signals,,,,,,http://renewatlantabond.com/project/mcdaniel-street-peters-street-2/,TRUE,Not Started
+Meeting of the Elders,,,,,,,http://renewatlantabond.com/project/meeting-of-the-elders/,TRUE,Not Started
+Memorial,Public Art Program,,75e3,2015-03-01,2015-03-01,2017-08-01,http://renewatlantabond.com/project/memorial-carpets-panels-and-books/,FALSE,Not Started
+Memorial Drive @ Maynard Terrace & Wyman Street,Traffic Signals,0.02,2e5,2016-04-01,2017-11-01,2017-10-01,http://renewatlantabond.com/project/memorial-drive-maynard-terrace-wyman-street-2/,FALSE,In Process
+Metropolitan Parkway,Roadways,,2565845.0,2016-07-01,2017-06-01,2017-09-01,http://renewatlantabond.com/project/metropolitan-parkway/,FALSE,Not Started
+Midtown Neighborhood Improvements,Roadways,,5e5,2017-02-01,2017-09-01,2018-04-01,http://renewatlantabond.com/project/midtown-neighborhood-improvements/,FALSE,Not Started
+Miles Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/miles-elementary-school/,FALSE,Completed
+Mims Street,Roadways,,383605.0,2016-07-01,2017-07-01,2017-10-01,http://renewatlantabond.com/project/mims-street/,FALSE,Not Started
+Martin Luther King Jr. Drive,Complete Streets,,2385150.0,2016-07-01,2018-02-01,2018-04-01,http://renewatlantabond.com/project/ml-king-jr-drive/,FALSE,Not Started
+Martin Luther King Jr. Natatorium,Parks and Recreation,0.08,17e6,2015-06-01,2016-07-01,2017-12-01,http://renewatlantabond.com/project/mlk-jr-natatorium/,FALSE,In Process
+Monroe Drive @ Amsterdam Avenue,Traffic Signals,0.02,2e5,2016-05-01,2018-04-01,2018-11-01,http://renewatlantabond.com/project/monroe-drive-amsterdam-avenue-2/,FALSE,In Process
+Monroe Drive @ Armour Drive,Traffic Signals,0.02,2e5,2016-05-01,2018-04-01,2018-11-01,http://renewatlantabond.com/project/monroe-drive-armour-drive-2/,FALSE,In Process
+Monroe Drive @ Buford Highway N/B Ramps,Traffic Signals,0.02,2e5,2016-05-01,2018-04-01,2018-11-01,http://renewatlantabond.com/project/monroe-drive-buford-highway-nb-ramps-2/,FALSE,In Process
+Monroe Drive @ Park Drive,Traffic Signals,0.02,2e5,2016-05-01,2018-04-01,2018-11-01,http://renewatlantabond.com/project/monroe-drive-park-drive-2/,FALSE,In Process
+Monroe Drive/Boulevard Complete Street Project,Complete Streets,0.1,4514488.0,2016-05-01,2019-05-01,2020-04-01,http://renewatlantabond.com/project/monroe-driveboulevard/,FALSE,In Process
+Monroe/Boulevard (TCC),Traffic Signals,,2240258.0,2016-05-01,2017-07-01,2018-10-01,http://renewatlantabond.com/project/monroeboulevard-2/,FALSE,Not Started
+"Montgomery Ferry Drive, Phase 1",Roadways,,245645.0,2016-04-01,2017-12-01,2018-05-01,http://renewatlantabond.com/project/montgomery-ferry-drive/,FALSE,Not Started
+"Montgomery Ferry Drive, Phase 2",Roadways,,287295.0,2016-04-01,2017-12-01,2018-05-01,http://renewatlantabond.com/project/montgomery-ferry-road/,FALSE,Not Started
+Moores Mill Road @ West Wesley Road,Traffic Signals,,25e4,2016-01-01,2017-05-01,2017-11-01,http://renewatlantabond.com/project/moores-mill-road-w-wesley-road/,FALSE,Not Started
+Moreland Avenue @ Eastland Road & Sunshine Plaza Driveway,Traffic Signals,,,,,,http://renewatlantabond.com/project/moreland-avenue-eastland-road-sunshine-plaza-driveway-2/,TRUE,Not Started
+Moreland Avenue @ McDonough Boulevard,Traffic Signals,,,,,,http://renewatlantabond.com/project/moreland-avenue-mcdonough-boulevard-2/,TRUE,Not Started
+Morningside Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/morningside-elementary-school/,FALSE,Completed
+Morris Street,Roadways,,123655.0,2016-05-01,2017-04-01,2017-05-01,http://renewatlantabond.com/project/morris-street/,FALSE,Not Started
+Mountain Way,Roadways,,299150.0,2016-07-01,2017-09-01,2017-11-01,http://renewatlantabond.com/project/mountain-way/,FALSE,Not Started
+Mount Paran Road @ Northside Parkway,Traffic Signals,0.12,1304536.0,2016-04-01,2018-03-01,2018-05-01,http://renewatlantabond.com/project/mt-paran-road-northside-parkway/,FALSE,In Process
+Mount  Paran Road @ Randall Mill & Conway Drive,Traffic Signals,0.12,1276700.0,2016-04-01,2018-03-01,2018-05-01,http://renewatlantabond.com/project/mt-paran-road-randall-mill-conway-drive/,FALSE,In Process
+Murphy Avenue,Roadways,0.9500000000000001,383945.0,2016-05-01,2015-10-01,2016-02-01,http://renewatlantabond.com/project/murphy-avenue/,FALSE,In Process
+Muse Street,Roadways,,121110.0,2016-07-01,2017-08-01,2017-10-01,http://renewatlantabond.com/project/muse-street-2/,FALSE,Not Started
+Muse Street,Roadways,,121110.0,2016-07-01,2017-08-01,2017-10-01,http://renewatlantabond.com/project/muse-street/,FALSE,Not Started
+Musical Playscape,,,,,,,http://renewatlantabond.com/project/musical-playscape/,TRUE,Not Started
+My Spirit is Changing,,,,,,,http://renewatlantabond.com/project/my-spirit-is-changing/,TRUE,Not Started
+Neighborhood Charter School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/neighborhood-charter-school/,FALSE,Completed
+Nelson Street Pedestrian Bridge,Bridges,,2301801.0,2016-12-01,2018-02-01,2018-02-01,http://renewatlantabond.com/project/nelson-street-pedestrian/,FALSE,Not Started
+New Britain Drive,Roadways,,133150.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/new-britain-drive/,FALSE,Not Started
+New Endings,Public Art Program,,29e3,2015-03-01,2017-07-01,2017-09-01,http://renewatlantabond.com/project/new-endings/,FALSE,Not Started
+New Haven Court,Roadways,,77950.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/new-haven-court/,FALSE,Not Started
+Newman Place,Roadways,,211e3,2016-03-01,2018-03-01,2018-09-01,http://renewatlantabond.com/project/newman-place-roadway-construction/,FALSE,Not Started
+Niskey Lake Road Phase 2,Roadways,,567430.0,2016-07-01,2017-11-01,2018-01-01,http://renewatlantabond.com/project/niskey-lake-road-phase-2/,FALSE,Not Started
+Niskey Lake Road,Roadways,,62365.0,2016-07-01,2017-08-01,2017-02-01,http://renewatlantabond.com/project/niskey-lake-road/,FALSE,Not Started
+North Angier Avenue,Roadways,,234195.0,2016-04-01,2017-05-01,2017-06-01,http://renewatlantabond.com/project/north-angier-avenue/,FALSE,Not Started
+North Avenue (TCC),Traffic Signals,,1863810.0,2016-05-01,2018-02-01,2019-05-01,http://renewatlantabond.com/project/north-avenue-2/,FALSE,Not Started
+North Avenue,Roadways,0.01,1625e3,2015-10-01,2017-07-01,,http://renewatlantabond.com/project/north-avenue-3/,FALSE,In Process
+North Camp Creek Parkway,Roadways,,361685.0,2016-05-01,2017-04-01,2017-06-01,http://renewatlantabond.com/project/north-camp-creek-pkwy/,FALSE,Not Started
+North Ivy Road,Roadways,,498225.0,2016-07-01,2017-09-01,2017-11-01,http://renewatlantabond.com/project/north-ivy-road/,FALSE,Not Started
+North Morningside Drive,Roadways,,308900.0,2016-07-01,2017-05-01,2017-08-01,http://renewatlantabond.com/project/north-morningside-drive/,FALSE,Not Started
+Northside Drive @ Moores Mill Road,Traffic Signals,0.02,2e5,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/northside-drive-moores-mill-road-2/,FALSE,In Process
+Northwest Drive,Roadways,,484805.0,2016-05-01,2017-04-01,2017-05-01,http://renewatlantabond.com/project/northwest-drive/,FALSE,Not Started
+Not to Scale,Public Art Program,,35e3,2015-03-01,2017-03-01,2017-04-01,http://renewatlantabond.com/project/not-to-scale/,FALSE,Not Started
+Oakdale Road @ Fairview Road,Traffic Signals,0.02,2e5,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/oakdale-road-fairview-road-2/,FALSE,In Process
+Oakdale Road,Roadways,,45960.0,2016-07-01,2017-12-01,2018-02-01,http://renewatlantabond.com/project/oakdale-road/,FALSE,Not Started
+Oakland City Recreation Center at Rev. James Orange Park,,,,,,,http://renewatlantabond.com/project/oakland-city-rec-center-at-rev-james-orange-park/,TRUE,Not Started
+Oakshire Way,Roadways,0.98,145450.0,2016-04-01,2016-04-01,2016-12-01,http://renewatlantabond.com/project/oakshire-way/,FALSE,In Process
+"Old Chattahoochee Avenue, Phase 2",Roadways,,236920.0,2016-05-01,2017-07-01,2017-08-01,http://renewatlantabond.com/project/old-chattahoochee-ave-phase-2/,FALSE,Not Started
+"Old Chattahoochee Avenue, Phase 1",Roadways,,100335.0,2016-07-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/old-chattahoochee-avenue/,FALSE,Not Started
+Old Fourth Neighborhood Improvements,Roadways,,5e5,2017-02-01,2017-09-01,2018-04-01,http://renewatlantabond.com/project/old-fourth-neighborhood-improvements/,FALSE,Not Started
+Old Gordon Road,Roadways,,350920.0,2016-05-01,2017-05-01,2017-06-01,http://renewatlantabond.com/project/old-gordon-road/,FALSE,Not Started
+Old Hapeville Road,Roadways,0.29,151775.0,2015-10-01,2015-10-01,2017-02-01,http://renewatlantabond.com/project/old-hapeville-road/,FALSE,In Process
+Old Ivy Road Pedestrian Improvements,ADA and Sidewalks,,949301.0,2017-03-01,2017-07-01,2017-11-01,http://renewatlantabond.com/project/old-ivy-rd/,FALSE,Not Started
+Old Ivy Road,Roadways,,526265.0,2016-04-01,2017-12-01,2018-05-01,http://renewatlantabond.com/project/old-ivy-road/,FALSE,Not Started
+OldKnow Drive Sidewalk Improvements,ADA and Sidewalks,,108e3,2017-04-01,2017-09-01,2018-02-01,http://renewatlantabond.com/project/oldknow-drive-sidewalk-north/,FALSE,Not Started
+Our City,Public Art Program,,,,,,http://renewatlantabond.com/project/our-city/,TRUE,Not Started
+Tree of Life and Kan,Public Art Program,1.0,16e3,2015-03-01,2016-09-01,2016-12-01,http://renewatlantabond.com/project/our-tree/,FALSE,Completed
+Overlook Court,Roadways,,26580.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/overlook-court/,FALSE,Not Started
+Paces Ferry Road,,,,,,,http://renewatlantabond.com/project/paces-ferry-road/,TRUE,Not Started
+Park Center Drive,Roadways,,17850.0,2016-07-01,2016-07-01,2017-01-01,http://renewatlantabond.com/project/park-center-drive/,FALSE,Not Started
+Parkway Drive @ Linden Avenue,Traffic Signals,0.02,2e5,2016-06-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/parkway-drive-linden-avenue-2/,FALSE,In Process
+Peace Monument,,,,,,,http://renewatlantabond.com/project/peace-monument/,TRUE,Not Started
+Peachtree Battle Avenue,Roadways,,823025.0,2016-07-01,2017-10-01,2017-12-01,http://renewatlantabond.com/project/peachtree-battle/,FALSE,Not Started
+Peachtree Dunwoody Road,Roadways,0.07,419100.0,2016-04-01,2016-06-01,2017-04-01,http://renewatlantabond.com/project/peachtree-dunwoody-road/,FALSE,In Process
+Peachtree Hill Recreation Center,Parks and Recreation,,285e3,2016-06-01,2016-06-01,2017-12-01,http://renewatlantabond.com/project/peachtree-hill-rec-center/,FALSE,Not Started
+Peachtree Hills Recreation Center Mural,,,,,,,http://renewatlantabond.com/project/peachtree-hills-rec-center-tile-mosaic/,TRUE,Not Started
+Peachtree Street (TCC),Traffic Signals,,2434693.0,2016-08-01,2017-06-01,2018-05-01,http://renewatlantabond.com/project/peachtree-street-2/,FALSE,Not Started
+Peachtree Street @ Garnett Street,Traffic Signals,0.02,2e5,2017-02-01,2018-01-01,2018-12-01,http://renewatlantabond.com/project/peachtree-street-garnett-street-2/,FALSE,In Process
+Peachtree Street/Road,Complete Streets,,,,,,http://renewatlantabond.com/project/peachtree-streetroad/,TRUE,Not Started
+Municipal Court Pedestrian Bridge,Public Buildings,,13e5,2015-10-01,2017-09-01,2018-06-01,http://renewatlantabond.com/project/pedestrian-bridge-from-the-government-parking-deck-to-the-municipal-court-over-central-ave/,FALSE,Not Started
+Perkerson Elementary School,School Zone Beacons,1.0,22585.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/perkerson-elementary-school/,FALSE,Completed
+Phoenix,Public Art Program,,65e3,2015-03-01,2017-06-01,2017-08-01,http://renewatlantabond.com/project/phoenix/,FALSE,Not Started
+Piedmont Avenue (TCC),Traffic Signals,,1166317.0,2016-08-01,2017-06-01,2018-05-01,http://renewatlantabond.com/project/piedmont-ave-2/,FALSE,Not Started
+Piedmont Ave,Complete Streets,,,,,,http://renewatlantabond.com/project/piedmont-ave/,TRUE,Not Started
+Piedmont Road,Roadways,,692760.0,2016-07-01,2018-03-01,2018-05-01,http://renewatlantabond.com/project/piedmont-road/,FALSE,Not Started
+Pine Street,Roadways,,162635.0,2016-07-01,2017-08-01,2017-11-01,http://renewatlantabond.com/project/pine-street/,FALSE,Not Started
+Fire Station 38,Public Safety,0.01,282328.0,2015-09-01,2016-04-01,2018-04-01,http://renewatlantabond.com/project/plumbing-upgrade-exterior-lighting-fencing-repair/,FALSE,In Process
+Polar Rock Road,Roadways,,363680.0,2016-07-01,2017-10-01,2017-12-01,http://renewatlantabond.com/project/polar-rock-road/,FALSE,Not Started
+Polo Drive,Roadways,,214670.0,2016-05-01,2017-04-01,2017-06-01,http://renewatlantabond.com/project/polo-drive/,FALSE,Not Started
+Pouncey-Highland Neighborhood Improvements,Roadways,,5e5,2016-11-01,2017-08-01,2018-02-01,http://renewatlantabond.com/project/pouncey-highland-neighborhood-improvements/,FALSE,Not Started
+Powers Ferry Road Bridge,Bridges,,2496997.0,2015-10-01,2017-08-01,2018-04-01,http://renewatlantabond.com/project/powers-ferry-road/,FALSE,Not Started
+Pryor Road @ Claire Drive & Pryor Circle,Traffic Signals,0.02,2e5,2016-04-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/pryor-road-claire-drive-pryor-circle-2/,FALSE,In Process
+Pryor Road @ Fair Drive,Traffic Signals,0.02,2e5,2016-04-01,2017-12-01,2018-11-01,http://renewatlantabond.com/project/pryor-road-fair-drive-2/,FALSE,In Process
+Pryor Street @ Underground Atlanta Crosswalk,Traffic Signals,0.02,2e5,2017-02-01,2018-01-01,2018-12-01,http://renewatlantabond.com/project/pryor-street-underground-atlanta-crosswalk-2/,FALSE,In Process
+Public Safety Academies,,,,,,,http://renewatlantabond.com/project/public-safety-academies/,TRUE,Not Started
+Video Integration Center Storage,Public Safety,,419998.0,2015-08-01,2017-01-01,2017-04-01,http://renewatlantabond.com/project/public-safety-vic/,FALSE,Not Started
+Ralph David Abernathy Boulevard Complete Street Project,Complete Streets,,,,,,http://renewatlantabond.com/project/r-d-abernathy-drive/,TRUE,Not Started
+Ralph David Abernathy/Georgia Avenue (TCC),Traffic Signals,,1110889.0,2016-04-01,2017-10-01,2018-10-01,http://renewatlantabond.com/project/r-d-abernathygeorgia-ave-2/,FALSE,Not Started
+Redbud Lane,Roadways,1.0,31605.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/redbud-lane/,FALSE,Completed
+Regency Center Drive,Roadways,1.0,275455.0,2016-07-01,2016-07-01,2017-02-01,http://renewatlantabond.com/project/regency-center-drive/,FALSE,Completed
+Regency Crest Court,Roadways,1.0,62870.0,2016-07-01,2016-07-01,2017-02-01,http://renewatlantabond.com/project/regency-crest-court/,FALSE,Completed
+Regency Crest Drive,Roadways,,94455.0,2016-07-01,2016-07-01,2017-02-01,http://renewatlantabond.com/project/regency-crest-drive/,FALSE,Not Started
+Regency Park Drive,Roadways,,44550.0,2017-07-01,2016-07-01,2017-01-01,http://renewatlantabond.com/project/regency-park-drive/,FALSE,Not Started
+Fire Station 3,Public Safety,0.01,455.963,2015-09-01,2016-04-01,2017-03-01,http://renewatlantabond.com/project/repair-roof-leaks-water-stained-celling-tiles-and-correct-life-safety-items/,FALSE,In Process
+Reunion Place,,,,,,,http://renewatlantabond.com/project/reunion-place/,TRUE,Not Started
+Richland Road,Roadways,,468655.0,2016-07-01,2017-10-01,2018-01-01,http://renewatlantabond.com/project/richland-road/,FALSE,Not Started
+E. Rivers Elementary School,School Zone Beacons,1.0,22585.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/rivers-elementary-school-2/,FALSE,Completed
+Fire Station 17,Public Safety,0.01,440713.0,2015-09-01,2016-05-01,2018-02-01,http://renewatlantabond.com/project/roof-drain-clean-out-and-soffit-repairs/,FALSE,In Process
+City Hall Roof Replacement,Public Buildings,0.99,9e5,2015-08-01,2015-10-01,2017-02-01,http://renewatlantabond.com/project/roof-replacement/,FALSE,In Process
+Rosalia Street,Roadways,,91930.0,2016-07-01,2017-07-01,2017-09-01,http://renewatlantabond.com/project/rosalia-street/,FALSE,Not Started
+Rosel Fann Community Center,Parks and Recreation,,812e3,2015-10-01,2017-03-01,2018-03-01,http://renewatlantabond.com/project/rosel-fann-community-center/,FALSE,Not Started
+Ruby Harper Boulevard,Roadways,,532965.0,2016-05-01,2017-03-01,2017-05-01,http://renewatlantabond.com/project/ruby-harper-blvd/,FALSE,Not Started
+Rutgers Drive,Roadways,1.0,31215.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/rutgers-drive/,FALSE,Completed
+Scott Elementary School,School Zone Beacons,1.0,22585.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/scott-elementary-school/,FALSE,Completed
+Shango y Eshu-Elegba En La Corta De Atlanta,,,,,,,http://renewatlantabond.com/project/shango-y-eshu-elegba-en-la-corta-de-atlanta/,TRUE,Not Started
+Sarah Smith Elementary School (Primary Campus),School Zone Beacons,,11295.0,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/smith-elementary-school/,FALSE,Not Started
+Sarah Smith Elementary School (Intermediate Campus),School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/smith-intermediate-school/,FALSE,Completed
+South Atlanta Computer Animation & Design School,School Zone Beacons,,,2015-11-01,2016-06-01,2016-09-01,http://renewatlantabond.com/project/south-atlanta-computer-animation-design-school/,TRUE,Not Started
+South Atlanta High School,School Zone Beacons,1.0,9270.0,2016-05-01,2016-07-01,2016-08-01,http://renewatlantabond.com/project/south-atlanta-high-school/,FALSE,Completed
+South Gordon Road,Roadways,1.0,266170.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/south-gordon-road/,FALSE,Completed
+Southside Industrial Court,Roadways,,230155.0,2016-05-01,2017-03-01,2017-05-01,http://renewatlantabond.com/project/southside-industrial-court/,FALSE,Not Started
+Southside Industrial Parkway,Roadways,,1888350.0,2016-05-01,2017-04-01,2017-05-01,http://renewatlantabond.com/project/southside-industrial-parkway/,FALSE,Not Started
+Southside Industrial Way,Roadways,,47515.0,2016-05-01,2017-05-01,2017-06-01,http://renewatlantabond.com/project/southside-industrial-way/,FALSE,Not Started
+Spellman Street,Roadways,,31265.0,2016-07-01,2017-07-01,2018-01-01,http://renewatlantabond.com/project/spellman-street/,FALSE,Not Started
+Spring Lake Court,Roadways,0.9500000000000001,45500.0,2015-09-01,2015-11-01,2017-02-01,http://renewatlantabond.com/project/spring-lake-court/,FALSE,In Process
+"Spring Street, Phase 1",Roadways,,668565.0,2016-07-01,2018-01-01,2018-04-01,http://renewatlantabond.com/project/spring-street-phase-1/,FALSE,Not Started
+"Spring Street, Phase 2",Roadways,1.0,463570.0,2016-07-01,2018-03-01,2018-06-01,http://renewatlantabond.com/project/spring-street-phase-2/,FALSE,Completed
+Springdale Park Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/springdale-park-elementary-school/,FALSE,Completed
+Springdale Place,Roadways,,86065.0,2016-07-01,2017-09-01,2017-11-01,http://renewatlantabond.com/project/springdale-place/,FALSE,Not Started
+Springdale Road,Roadways,,895100.0,2016-07-01,2017-09-01,2017-12-01,http://renewatlantabond.com/project/springdale-road/,FALSE,Not Started
+Stanton Road,Roadways,,222235.0,2016-07-01,2017-07-01,2017-10-01,http://renewatlantabond.com/project/stanton-road/,FALSE,Not Started
+Fire Station 25,Public Safety,0.05,367245.0,2015-09-01,2017-02-01,2017-06-01,http://renewatlantabond.com/project/station-25/,FALSE,In Process
+Fire Station 26,Public Safety,0.05,258978.0,2015-09-01,2016-04-01,2017-10-01,http://renewatlantabond.com/project/station-26/,FALSE,In Process
+Fire Station 27,Public Safety,0.01,147584.92,2015-09-01,2016-04-01,2018-03-01,http://renewatlantabond.com/project/station-27/,FALSE,In Process
+Fire Station 30,Public Safety,,409717.0,2015-11-01,2015-11-01,2017-07-01,http://renewatlantabond.com/project/station-30-shutdown/,FALSE,Not Started
+Stokes Avenue,Roadways,1.0,111070.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/stokes-avenue/,FALSE,Completed
+Stone Hogan Connector,Roadways,,634020.0,2016-07-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/stone-hogan-connector/,FALSE,Not Started
+Straton Trace,Roadways,1.0,27675.0,2016-07-01,2016-07-01,2017-02-01,http://renewatlantabond.com/project/stranton-trace/,FALSE,Completed
+Fire Station 9,Public Safety,0.01,262328.0,2015-09-01,2015-09-01,2018-06-01,http://renewatlantabond.com/project/structural-damage-electrical-mechanical-upgrades-and-painting/,FALSE,In Process
+Summerhill Rebirth,,,,,,,http://renewatlantabond.com/project/summerhill-rebirth/,TRUE,Not Started
+Sunset Avenue,Roadways,,418900.0,2016-07-01,2017-07-01,2017-10-01,http://renewatlantabond.com/project/sunset-avenue/,FALSE,Not Started
+Sutton Middle School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/sutton-middle-school/,FALSE,Completed
+Sydney Street,Roadways,,259560.0,2016-05-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/sydney-street/,FALSE,Not Started
+Sylvan Hills Middle School,School Zone Beacons,1.0,22585.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/sylvan-hills-middle-school/,FALSE,Completed
+Sylvan Rd,Roadways,,257850.0,2016-08-01,2017-03-01,2017-08-01,http://renewatlantabond.com/project/sylvan-rd/,FALSE,Not Started
+Sylvan Road (TCC),Traffic Signals,,802562.0,2016-04-01,2017-12-01,2018-12-01,http://renewatlantabond.com/project/sylvan-road-2/,FALSE,Not Started
+Sylvan Road @ Deckner Avenue & Brewer Boulevard,Traffic Signals,0.02,2e5,2016-04-01,2017-11-01,2018-10-01,http://renewatlantabond.com/project/sylvan-road-deckner-avenue-brewer-boulevard-2/,FALSE,In Process
+The Horn Section,,,,,,,http://renewatlantabond.com/project/the-horn-section/,TRUE,Not Started
+The Kindezi School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/the-kindezi-school/,FALSE,Completed
+The Last Meter,,,,,,,http://renewatlantabond.com/project/the-last-meter/,TRUE,Not Started
+Threshold,Public Art Program,0.5,4e4,2015-03-01,2016-08-01,2017-04-01,http://renewatlantabond.com/project/threshold/,FALSE,In Process
+Toomer Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/toomer-elementary-school/,FALSE,Completed
+Tower of Time,Public Art Program,,12e3,2015-03-01,2017-03-01,2017-07-01,http://renewatlantabond.com/project/tower-of-time/,FALSE,Not Started
+Towns Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/towns-elementary-school/,FALSE,Completed
+Travis Street,Roadways,,65050.0,2016-07-01,2017-07-01,2017-10-01,http://renewatlantabond.com/project/travis-street/,FALSE,Not Started
+Tye Street Sidewalk Improvements,ADA and Sidewalks,,53e3,2017-04-01,2017-09-01,2018-02-01,http://renewatlantabond.com/project/tye-street/,FALSE,Not Started
+University Ave,Complete Streets,,,,,,http://renewatlantabond.com/project/university-ave/,TRUE,Not Started
+Untitled Children’s Mural,,,,,,,http://renewatlantabond.com/project/untitled-childrens-mural/,TRUE,Not Started
+Untitled Kinetic Sculpture,Public Art Program,,8500.0,2015-03-01,2016-12-01,2017-01-01,http://renewatlantabond.com/project/untitled-kinetic-sculpture/,FALSE,Not Started
+Urban Path,Public Art Program,,67e3,2015-03-01,2017-03-01,2017-05-01,http://renewatlantabond.com/project/urban-path/,FALSE,Not Started
+Valleydale Drive,Roadways,1.0,62210.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/valleydale-drive-2/,FALSE,Completed
+Verbena Street,Roadways,,297730.0,2016-07-01,2017-07-01,2017-09-01,http://renewatlantabond.com/project/verbena-street/,FALSE,Not Started
+Video Integration Center CCTV Expansion,Public Safety,0.07,2455e3,2015-10-01,2017-02-01,2019-12-01,http://renewatlantabond.com/project/video-integration-center-cctv-expansion/,FALSE,In Process
+Video Integration Center Network Upgrades,Public Safety,,18e4,2015-12-01,2017-06-01,2017-09-01,http://renewatlantabond.com/project/video-integration-center-network-upgrades/,FALSE,Not Started
+Video Integration Center Wall/Workstation,Public Safety,0.45,45e4,2015-09-01,2016-05-01,2016-09-01,http://renewatlantabond.com/project/video-integration-center/,FALSE,In Process
+Washington High School,School Zone Beacons,1.0,22585.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/washington-banking-finance-investments-school/,FALSE,Completed
+Waterford Road,Roadways,1.0,111470.0,2015-06-01,2015-08-01,2017-02-01,http://renewatlantabond.com/project/waterford-road/,FALSE,Completed
+City Hall Waterproofing,Public Buildings,0.99,2e6,2015-09-01,2015-11-01,2017-02-01,http://renewatlantabond.com/project/waterproofing/,FALSE,In Process
+West End Park,Parks and Recreation,,,,,,http://renewatlantabond.com/project/west-end-park/,TRUE,Not Started
+West Lake Park,Parks and Recreation,,,,,,http://renewatlantabond.com/project/west-lake-park/,TRUE,Not Started
+West Marietta Street  (TCC),Traffic Signals,,1168830.0,2016-03-01,2017-08-01,2018-07-01,http://renewatlantabond.com/project/west-marietta-st-2/,FALSE,Not Started
+West Paces Ferry Road,Roadways,0.9500000000000001,470360.0,2016-04-01,2016-04-01,2017-01-01,http://renewatlantabond.com/project/west-paces-ferry-road/,FALSE,In Process
+"West Wieuca Road, Phase 3",Roadways,,565700.0,2016-07-01,2018-01-01,2018-03-01,http://renewatlantabond.com/project/west-wieuca-road-2/,FALSE,Not Started
+"West Wieuca Road, Phase 2",Roadways,,268040.0,2016-07-01,2018-01-01,2018-03-01,http://renewatlantabond.com/project/west-wieuca-road-3/,FALSE,Not Started
+"West Wieuca Road, Phase 1",Roadways,,325665.0,2016-07-01,2017-12-01,2018-03-01,http://renewatlantabond.com/project/west-wieuca-road/,FALSE,Not Started
+Westminister Drive,Roadways,,47e4,2016-07-01,2017-09-01,2017-12-01,http://renewatlantabond.com/project/westminister-drive/,FALSE,Not Started
+Westminster Drive,Roadways,,47e4,2016-07-01,2017-09-01,2017-12-01,http://renewatlantabond.com/project/westminster-drive/,FALSE,Not Started
+Whitaker Circle,Roadways,,255735.0,2016-07-01,2017-07-01,2017-10-01,http://renewatlantabond.com/project/whitaker-circle/,FALSE,Not Started
+Whitaker Street,Roadways,,46750.0,2016-07-01,2017-08-01,2017-10-01,http://renewatlantabond.com/project/whitaker-street/,FALSE,Not Started
+Whitefoord Elementary School,School Zone Beacons,1.0,11295.0,2015-11-01,2016-04-01,2016-08-01,http://renewatlantabond.com/project/whitefoord-elementary-school/,FALSE,Completed
+Why X Why,Public Art Program,0.75,28e3,2015-03-01,2016-05-01,2016-03-01,http://renewatlantabond.com/project/why-x-why/,FALSE,In Process
+Wieuca Road,Roadways,,766055.0,2016-04-01,2017-12-01,2018-05-01,http://renewatlantabond.com/project/wieuca-road/,FALSE,Not Started
+Williams Street,Roadways,,165090.0,2016-07-01,2018-03-01,2018-06-01,http://renewatlantabond.com/project/williams-street/,FALSE,Not Started
+Willis Mill Road,Roadways,,,,,,http://renewatlantabond.com/project/willis-mill-road/,TRUE,Not Started
+Willowood Lane,Roadways,,69700.0,2016-09-01,2016-10-01,2017-02-01,http://renewatlantabond.com/project/willowood-lane/,FALSE,Not Started
+Wilson Road,Roadways,,129980.0,2016-05-01,2017-05-01,2017-07-01,http://renewatlantabond.com/project/wilson-road/,FALSE,Not Started
+York Avenue,Roadways,,206520.0,,,2018-01-01,http://renewatlantabond.com/project/york-avenue/,FALSE,Not Started
